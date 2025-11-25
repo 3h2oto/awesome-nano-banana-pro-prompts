@@ -93,6 +93,9 @@ function generatePromptSection(prompt: Prompt, index: number): string {
     day: 'numeric',
   });
 
+  // 检测是否包含 Raycast 参数
+  const hasArguments = prompt.content.includes('{argument');
+
   let md = `### No. ${index + 1}: ${prompt.title}\n\n`;
 
   // Language badge
@@ -102,8 +105,18 @@ function generatePromptSection(prompt: Prompt, index: number): string {
     md += `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n`;
   }
 
+  // Raycast friendly badge
+  if (hasArguments) {
+    md += `![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)\n`;
+  }
+
   md += `\n#### 📖 Description\n\n${prompt.description}\n\n`;
   md += `#### 📝 Prompt\n\n\`\`\`\n${prompt.content}\n\`\`\`\n\n`;
+
+  // 如果有参数，添加说明
+  if (hasArguments) {
+    md += `> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: \`{argument name="..." default="..."}\`\n\n`;
+  }
 
   // 渲染所有图片，有几张渲染几张
   if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
@@ -225,6 +238,18 @@ function generateWhatIs(): string {
 - 📐 **Complex Scenes** - Multi-object, multi-character rendering
 
 📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+
+### 🚀 Raycast Integration
+
+Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+
+**Example:**
+\`\`\`
+A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
+by {argument name="author" default="Steve Jobs"}
+\`\`\`
+
+When used in Raycast, you can dynamically replace the arguments for quick iterations!
 
 ---
 
