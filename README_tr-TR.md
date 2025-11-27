@@ -1,4 +1,6 @@
-# 🍌 Harika Nano Banana Pro İstemleri
+# 🚀 Harika Nano Banana Pro İstemleri
+
+> 💡 **Note**: Gemini 3 istemleriyle ilgileniyorsanız, 50+ seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -22,12 +24,12 @@
 
 Neden galerimizi kullanmalısınız?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | youmind.com Galerisi |
 |---------|--------------|---------------------|
-| 🎨 Görsel Düzen | Linear list | Beautiful Masonry Grid |
-| 🔍 Ara | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Mobil | Basic | Fully responsive |
+| 🎨 Görsel Düzen | Doğrusal liste | Güzel Masonry Grid |
+| 🔍 Ara | Sadece Ctrl+F | Filtrelerle tam metin arama |
+| 🤖 AI Tek Tıkla Üretim | - | AI Tek Tıkla Üretim |
+| 📱 Mobil | Temel | Tamamen duyarlı |
 
 ---
 
@@ -47,28 +49,28 @@ Neden galerimizi kullanmalısınız?
 
 ## 🤔 Nano Banana Pro nedir?
 
-**Nano Banana Pro** is Google's latest multimodal AI model featuring:
+**Nano Banana Pro**, Google'ın en yeni çok modlu AI modelidir ve şu özelliklere sahiptir:
 
-- 🎯 **Multimodal Understanding** - Process text, images, and video
-- 🎨 **High-Quality Generation** - Photorealistic to artistic styles
-- ⚡ **Fast Iteration** - Quick edits and variations
-- 🌈 **Diverse Styles** - From pixel art to oil paintings
-- 🔧 **Precise Control** - Detailed composition and lighting
-- 📐 **Complex Scenes** - Multi-object, multi-character rendering
+- 🎯 **Çok Modlu Anlama** - Metin, görüntü ve video işleme
+- 🎨 **Yüksek Kaliteli Üretim** - Fotoğraf gerçekçiliğinden sanatsal stillere
+- ⚡ **Hızlı Yineleme** - Hızlı düzenlemeler ve varyasyonlar
+- 🌈 **Çeşitli Stiller** - Piksel sanatından yağlı boya tablolara
+- 🔧 **Hassas Kontrol** - Detaylı kompozisyon ve aydınlatma
+- 📐 **Karmaşık Sahneler** - Çoklu nesne, çoklu karakter renderlama
 
-📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+📚 **Daha Fazla Bilgi**: [Nano Banana Pro: 10 Gerçek Vaka](https://youmind.com/blog/nano-banana-pro-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Raycast Entegrasyonu
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Bazı istemler [Raycast Snippets](https://raycast.com/help/snippets) sözdizimini kullanarak **dinamik argümanlar** destekler. 🚀 Raycast Friendly rozetini arayın!
 
-**Example:**
+**Örnek:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik olarak değiştirebilirsiniz!
 
 ---
 
@@ -80,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Toplam İstem | **496** |
 | ⭐ Öne Çıkan | **5** |
-| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 09:15:09 UTC** |
+| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:05:08 UTC** |
 
 </div>
 
@@ -88,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 🔥 Öne Çıkan İstemler
 
-> ⭐ Hand-picked by our team for exceptional quality and creativity
+> ⭐ Ekibimiz tarafından olağanüstü kalite ve yaratıcılık için özenle seçildi
 
 ### No. 1: Portre ve Çince/İngilizce özelleştirmeli geniş alıntı kartı
 
@@ -367,7 +369,7 @@ Otaku tarzı bir bilgisayar köşesinde ayna selfie'si, mavi renk tonu.
 
 ## 📋 Tüm İstemler
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
 ### No. 1: Belirli koordinatlarda tarihi an (1994)
 
@@ -8254,13 +8256,13 @@ Due to GitHub's content length limitations, we can only display the first 200 re
 
 The gallery features:
 
-✨ Beautiful masonry grid layout
+✨ Güzel Masonry grid düzeni
 
-🔍 Full-text search and filters
+🔍 Tam metin arama ve filtreler
 
-🌍 16+ languages support
+🌍 16+ dil desteği
 
-📱 Mobile-optimized experience
+📱 Mobil optimize deneyim
 
 </div>
 
@@ -8268,25 +8270,25 @@ The gallery features:
 
 ## 🤝 Nasıl Katkıda Bulunulur
 
-We welcome contributions! You can submit prompts via:
+Katkıları memnuniyetle karşılıyoruz! İstemleri şu yollarla gönderebilirsiniz:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Yeni İstem Gönder**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. Formu istem detayları ve görsel ile doldurun
+3. Gönderin ve ekip incelemesini bekleyin
+4. Onaylanırsa (`approved` etiketi ekleyeceğiz), otomatik olarak CMS'e senkronize edilecektir
+5. İsteminiz 4 saat içinde README'de görünecektir
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Not:** Kalite kontrolünü sağlamak için yalnızca GitHub Issues aracılığıyla gönderimleri kabul ediyoruz.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 
 ---
 
 ## 📄 Lisans
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisanslanmıştır.
 
 ---
 
@@ -8306,9 +8308,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Web galerisinde görüntüle](https://youmind.com/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:15:09.740Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:05:08.757Z</sub>
 
 </div>

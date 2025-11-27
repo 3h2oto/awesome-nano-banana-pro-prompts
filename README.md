@@ -1,4 +1,6 @@
-# 🍌 Awesome Nano Banana Pro Prompts
+# 🚀 Awesome Nano Banana Pro Prompts
+
+> 💡 **Note**: If you're interested in Gemini 3 prompts, feel free to check out our other repository with 50+ curated prompts: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -80,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **496** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 9:13:51 AM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:03:52 PM UTC** |
 
 </div>
 
@@ -8232,6 +8234,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:13:52.247Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:03:52.139Z</sub>
 
 </div>

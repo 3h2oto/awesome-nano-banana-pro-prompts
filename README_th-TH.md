@@ -1,4 +1,6 @@
-# 🍌 สุดยอด Nano Banana Pro Prompts
+# 🚀 สุดยอด Nano Banana Pro Prompts
+
+> 💡 **Note**: หากคุณสนใจคำสั่ง Gemini 3 โปรดดูที่เก็บอื่นของเราที่มีคำสั่งที่คัดเลือกมากกว่า 50 รายการ: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -22,12 +24,12 @@
 
 ทำไมต้องใช้แกลเลอรีของเรา?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | แกลเลอรี youmind.com |
 |---------|--------------|---------------------|
-| 🎨 รูปแบบภาพ | Linear list | Beautiful Masonry Grid |
-| 🔍 ค้นหา | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 มือถือ | Basic | Fully responsive |
+| 🎨 รูปแบบภาพ | รายการเชิงเส้น | กริด Masonry ที่สวยงาม |
+| 🔍 ค้นหา | Ctrl+F เท่านั้น | การค้นหาข้อความเต็มพร้อมตัวกรอง |
+| 🤖 สร้างด้วย AI คลิกเดียว | - | สร้างด้วย AI คลิกเดียว |
+| 📱 มือถือ | พื้นฐาน | ตอบสนองอย่างเต็มที่ |
 
 ---
 
@@ -47,28 +49,28 @@
 
 ## 🤔 Nano Banana Pro คืออะไร?
 
-**Nano Banana Pro** is Google's latest multimodal AI model featuring:
+**Nano Banana Pro** เป็นโมเดล AI แบบหลายรูปแบบล่าสุดของ Google ที่มีคุณสมบัติดังนี้:
 
-- 🎯 **Multimodal Understanding** - Process text, images, and video
-- 🎨 **High-Quality Generation** - Photorealistic to artistic styles
-- ⚡ **Fast Iteration** - Quick edits and variations
-- 🌈 **Diverse Styles** - From pixel art to oil paintings
-- 🔧 **Precise Control** - Detailed composition and lighting
-- 📐 **Complex Scenes** - Multi-object, multi-character rendering
+- 🎯 **ความเข้าใจแบบหลายรูปแบบ** - ประมวลผลข้อความ รูปภาพ และวิดีโอ
+- 🎨 **การสร้างคุณภาพสูง** - จากสไตล์เหมือนจริงไปจนถึงศิลปะ
+- ⚡ **การทำซ้ำอย่างรวดเร็ว** - การแก้ไขและการเปลี่ยนแปลงอย่างรวดเร็ว
+- 🌈 **สไตล์ที่หลากหลาย** - จากศิลปะพิกเซลไปจนถึงภาพวาดสีน้ำมัน
+- 🔧 **การควบคุมที่แม่นยำ** - องค์ประกอบและแสงที่ละเอียด
+- 📐 **ฉากที่ซับซ้อน** - การเรนเดอร์หลายวัตถุ หลายตัวละคร
 
-📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+📚 **เรียนรู้เพิ่มเติม**: [Nano Banana Pro: 10 กรณีจริง](https://youmind.com/blog/nano-banana-pro-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 การรวม Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+คำสั่งบางคำสั่งรองรับ **อาร์กิวเมนต์แบบไดนามิก** โดยใช้ไวยากรณ์ [Raycast Snippets](https://raycast.com/help/snippets) ค้นหาเครื่องหมาย 🚀 Raycast Friendly!
 
-**Example:**
+**ตัวอย่าง:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+เมื่อใช้ใน Raycast คุณสามารถแทนที่อาร์กิวเมนต์แบบไดนามิกเพื่อทำซ้ำอย่างรวดเร็ว!
 
 ---
 
@@ -80,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **496** |
 | ⭐ แนะนำ | **5** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 27 พฤศจิกายน พ.ศ. 2568 เวลา 9 นาฬิกา 14 นาที 13 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 27 พฤศจิกายน พ.ศ. 2568 เวลา 12 นาฬิกา 04 นาที 18 วินาที UTC** |
 
 </div>
 
@@ -88,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 🔥 คำสั่งแนะนำ
 
-> ⭐ Hand-picked by our team for exceptional quality and creativity
+> ⭐ คัดเลือกโดยทีมของเราสำหรับคุณภาพและความคิดสร้างสรรค์ที่ยอดเยี่ยม
 
 ### No. 1: การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและการปรับแต่งภาษาจีน/อังกฤษ
 
@@ -367,7 +369,7 @@ https://t.co/QxbYpfFVj6
 
 ## 📋 คำสั่งทั้งหมด
 
-> 📝 Sorted by publish date (newest first)
+> 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
 ### No. 1: ช่วงเวลาทางประวัติศาสตร์ ณ พิกัดเฉพาะ (1994)
 
@@ -8169,13 +8171,13 @@ Due to GitHub's content length limitations, we can only display the first 200 re
 
 The gallery features:
 
-✨ Beautiful masonry grid layout
+✨ เลย์เอาต์กริด Masonry ที่สวยงาม
 
-🔍 Full-text search and filters
+🔍 การค้นหาข้อความเต็มและตัวกรอง
 
-🌍 16+ languages support
+🌍 รองรับ 16+ ภาษา
 
-📱 Mobile-optimized experience
+📱 ประสบการณ์ที่เหมาะสำหรับมือถือ
 
 </div>
 
@@ -8183,25 +8185,25 @@ The gallery features:
 
 ## 🤝 วิธีการมีส่วนร่วม
 
-We welcome contributions! You can submit prompts via:
+เรายินดีต้อนรับการมีส่วนร่วม! คุณสามารถส่งคำสั่งผ่าน:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**ส่งคำสั่งใหม่**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. กรอกแบบฟอร์มพร้อมรายละเอียดคำสั่งและรูปภาพ
+3. ส่งและรอการตรวจสอบจากทีม
+4. หากได้รับการอนุมัติ (เราจะเพิ่มป้ายกำกับ `approved`) มันจะซิงค์กับ CMS โดยอัตโนมัติ
+5. คำสั่งของคุณจะปรากฏใน README ภายใน 4 ชั่วโมง
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**หมายเหตุ:** เรารับเฉพาะการส่งผ่าน GitHub Issues เพื่อให้แน่ใจว่ามีการควบคุมคุณภาพ
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+ดู [CONTRIBUTING.md](docs/CONTRIBUTING.md) สำหรับแนวทางโดยละเอียด
 
 ---
 
 ## 📄 ใบอนุญาต
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+ได้รับอนุญาตภายใต้ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -8221,9 +8223,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 ดูในแกลเลอรีเว็บ](https://youmind.com/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:14:13.837Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-11-27T12:04:18.314Z</sub>
 
 </div>

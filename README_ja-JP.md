@@ -1,4 +1,6 @@
-# 🍌 Nano Banana Pro プロンプト集
+# 🚀 Nano Banana Pro プロンプト集
+
+> 💡 **Note**: Gemini 3 プロンプトに興味がある場合は、50以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -80,7 +82,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **496** |
 | ⭐ おすすめ | **5** |
-| 🔄 最終更新 | **2025年11月27日木曜日 9:14:06 UTC** |
+| 🔄 最終更新 | **2025年11月27日木曜日 12:04:07 UTC** |
 
 </div>
 
@@ -8232,6 +8234,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T09:14:06.767Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:04:07.816Z</sub>
 
 </div>

@@ -1,4 +1,6 @@
-# 🍌 Tuyển tập Nano Banana Pro Prompts
+# 🚀 Tuyển tập Nano Banana Pro Prompts
+
+> 💡 **Note**: Nếu bạn quan tâm đến các câu lệnh Gemini 3, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 50 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -22,12 +24,12 @@
 
 Tại sao nên sử dụng thư viện của chúng tôi?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | Thư viện youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Bố cục trực quan | Linear list | Beautiful Masonry Grid |
-| 🔍 Tìm kiếm | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Di động | Basic | Fully responsive |
+| 🎨 Bố cục trực quan | Danh sách tuyến tính | Lưới Masonry đẹp mắt |
+| 🔍 Tìm kiếm | Chỉ Ctrl+F | Tìm kiếm toàn văn với bộ lọc |
+| 🤖 Tạo bằng AI một cú nhấp | - | Tạo bằng AI một cú nhấp |
+| 📱 Di động | Cơ bản | Hoàn toàn phản hồi |
 
 ---
 
@@ -47,28 +49,28 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 ## 🤔 Nano Banana Pro là gì?
 
-**Nano Banana Pro** is Google's latest multimodal AI model featuring:
+**Nano Banana Pro** là mô hình AI đa phương thức mới nhất của Google với các tính năng sau:
 
-- 🎯 **Multimodal Understanding** - Process text, images, and video
-- 🎨 **High-Quality Generation** - Photorealistic to artistic styles
-- ⚡ **Fast Iteration** - Quick edits and variations
-- 🌈 **Diverse Styles** - From pixel art to oil paintings
-- 🔧 **Precise Control** - Detailed composition and lighting
-- 📐 **Complex Scenes** - Multi-object, multi-character rendering
+- 🎯 **Hiểu đa phương thức** - Xử lý văn bản, hình ảnh và video
+- 🎨 **Tạo chất lượng cao** - Từ phong cách chân thực đến nghệ thuật
+- ⚡ **Lặp lại nhanh** - Chỉnh sửa và biến thể nhanh chóng
+- 🌈 **Phong cách đa dạng** - Từ nghệ thuật pixel đến tranh sơn dầu
+- 🔧 **Kiểm soát chính xác** - Bố cục và ánh sáng chi tiết
+- 📐 **Cảnh phức tạp** - Kết xuất đa đối tượng, đa nhân vật
 
-📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+📚 **Tìm hiểu thêm**: [Nano Banana Pro: 10 trường hợp thực tế](https://youmind.com/blog/nano-banana-pro-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Tích hợp Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Một số câu lệnh hỗ trợ **đối số động** sử dụng cú pháp [Raycast Snippets](https://raycast.com/help/snippets). Tìm huy hiệu 🚀 Raycast Friendly!
 
-**Example:**
+**Ví dụ:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Khi sử dụng trong Raycast, bạn có thể thay thế động các đối số để lặp lại nhanh chóng!
 
 ---
 
@@ -80,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Tổng số câu lệnh | **496** |
 | ⭐ Nổi bật | **5** |
-| 🔄 Cập nhật lần cuối | **lúc 09:14:19 UTC Thứ Năm, 27 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:04:23 UTC Thứ Năm, 27 tháng 11, 2025** |
 
 </div>
 
@@ -88,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 🔥 Câu lệnh nổi bật
 
-> ⭐ Hand-picked by our team for exceptional quality and creativity
+> ⭐ Được nhóm của chúng tôi chọn lọc thủ công vì chất lượng và sáng tạo xuất sắc
 
 ### No. 1: Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh
 
@@ -367,7 +369,7 @@ Một prompt Nano Banana rất chi tiết mô tả ảnh selfie trước gương
 
 ## 📋 Tất cả câu lệnh
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
 ### No. 1: Khoảnh khắc lịch sử tại tọa độ cụ thể (1994)
 
@@ -8176,13 +8178,13 @@ Due to GitHub's content length limitations, we can only display the first 200 re
 
 The gallery features:
 
-✨ Beautiful masonry grid layout
+✨ Bố cục lưới Masonry đẹp mắt
 
-🔍 Full-text search and filters
+🔍 Tìm kiếm toàn văn và bộ lọc
 
-🌍 16+ languages support
+🌍 Hỗ trợ 16+ ngôn ngữ
 
-📱 Mobile-optimized experience
+📱 Trải nghiệm tối ưu cho di động
 
 </div>
 
@@ -8190,25 +8192,25 @@ The gallery features:
 
 ## 🤝 Cách đóng góp
 
-We welcome contributions! You can submit prompts via:
+Chúng tôi hoan nghênh đóng góp! Bạn có thể gửi câu lệnh qua:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Gửi câu lệnh mới**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. Điền vào biểu mẫu với chi tiết câu lệnh và hình ảnh
+3. Gửi và chờ đánh giá của nhóm
+4. Nếu được phê duyệt (chúng tôi sẽ thêm nhãn `approved`), nó sẽ tự động đồng bộ với CMS
+5. Câu lệnh của bạn sẽ xuất hiện trong README trong vòng 4 giờ
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Lưu ý:** Chúng tôi chỉ chấp nhận gửi qua GitHub Issues để đảm bảo kiểm soát chất lượng.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi tiết.
 
 ---
 
 ## 📄 Giấy phép
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Được cấp phép theo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
@@ -8228,9 +8230,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Xem trong Thư viện Web](https://youmind.com/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:14:19.538Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:04:23.597Z</sub>
 
 </div>

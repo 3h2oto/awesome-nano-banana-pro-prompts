@@ -1,4 +1,6 @@
-# 🍌 Fantastici Prompt Nano Banana Pro
+# 🚀 Fantastici Prompt Nano Banana Pro
+
+> 💡 **Note**: Se sei interessato ai prompt di Gemini 3, sentiti libero di controllare il nostro altro repository con più di 50 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -22,12 +24,12 @@
 
 Perché usare la nostra galleria?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | Galleria youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Layout visivo | Linear list | Beautiful Masonry Grid |
-| 🔍 Cerca | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Mobile | Basic | Fully responsive |
+| 🎨 Layout visivo | Lista lineare | Bella griglia Masonry |
+| 🔍 Cerca | Solo Ctrl+F | Ricerca full-text con filtri |
+| 🤖 Generazione IA con un clic | - | Generazione IA con un clic |
+| 📱 Mobile | Base | Completamente responsive |
 
 ---
 
@@ -47,28 +49,28 @@ Perché usare la nostra galleria?
 
 ## 🤔 Cos'è Nano Banana Pro?
 
-**Nano Banana Pro** is Google's latest multimodal AI model featuring:
+**Nano Banana Pro** è l'ultimo modello di IA multimodale di Google con le seguenti caratteristiche:
 
-- 🎯 **Multimodal Understanding** - Process text, images, and video
-- 🎨 **High-Quality Generation** - Photorealistic to artistic styles
-- ⚡ **Fast Iteration** - Quick edits and variations
-- 🌈 **Diverse Styles** - From pixel art to oil paintings
-- 🔧 **Precise Control** - Detailed composition and lighting
-- 📐 **Complex Scenes** - Multi-object, multi-character rendering
+- 🎯 **Comprensione multimodale** - Elabora testo, immagini e video
+- 🎨 **Generazione di alta qualità** - Da stili fotorealistici ad artistici
+- ⚡ **Iterazione rapida** - Modifiche e variazioni rapide
+- 🌈 **Stili diversificati** - Dall'arte pixel ai dipinti ad olio
+- 🔧 **Controllo preciso** - Composizione e illuminazione dettagliate
+- 📐 **Scene complesse** - Rendering multi-oggetto, multi-personaggio
 
-📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+📚 **Scopri di più**: [Nano Banana Pro: 10 casi reali](https://youmind.com/blog/nano-banana-pro-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Integrazione Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Alcuni prompt supportano **argomenti dinamici** utilizzando la sintassi [Raycast Snippets](https://raycast.com/help/snippets). Cerca il badge 🚀 Raycast Friendly!
 
-**Example:**
+**Esempio:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazioni rapide!
 
 ---
 
@@ -80,7 +82,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Totale prompt | **496** |
 | ⭐ In evidenza | **5** |
-| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 09:14:52 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 12:04:53 UTC** |
 
 </div>
 
@@ -88,7 +90,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 🔥 Prompt in evidenza
 
-> ⭐ Hand-picked by our team for exceptional quality and creativity
+> ⭐ Selezionati a mano dal nostro team per qualità e creatività eccezionali
 
 ### No. 1: Scheda preventivo ampia con ritratto e personalizzazione cinese/inglese
 
@@ -367,7 +369,7 @@ Selfie allo specchio in un angolo computer in stile otaku, tonalità blu.
 
 ## 📋 Tutti i prompt
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Ordinato per data di pubblicazione (più recente prima)
 
 ### No. 1: Momento storico a coordinate specifiche (1994)
 
@@ -8277,13 +8279,13 @@ Due to GitHub's content length limitations, we can only display the first 200 re
 
 The gallery features:
 
-✨ Beautiful masonry grid layout
+✨ Layout a griglia Masonry bellissimo
 
-🔍 Full-text search and filters
+🔍 Ricerca full-text e filtri
 
-🌍 16+ languages support
+🌍 Supporto per 16+ lingue
 
-📱 Mobile-optimized experience
+📱 Esperienza ottimizzata per mobile
 
 </div>
 
@@ -8291,25 +8293,25 @@ The gallery features:
 
 ## 🤝 Come contribuire
 
-We welcome contributions! You can submit prompts via:
+Accogliamo i contributi! Puoi inviare prompt tramite:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Invia nuovo prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. Compila il modulo con i dettagli del prompt e l'immagine
+3. Invia e attendi la revisione del team
+4. Se approvato (aggiungeremo l'etichetta `approved`), verrà sincronizzato automaticamente con il CMS
+5. Il tuo prompt apparirà nel README entro 4 ore
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Nota:** Accettiamo solo invii tramite GitHub Issues per garantire il controllo qualità.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Vedi [CONTRIBUTING.md](docs/CONTRIBUTING.md) per le linee guida dettagliate.
 
 ---
 
 ## 📄 Licenza
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
@@ -8329,9 +8331,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Vedi nella galleria web](https://youmind.com/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T09:14:52.491Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T12:04:53.299Z</sub>
 
 </div>

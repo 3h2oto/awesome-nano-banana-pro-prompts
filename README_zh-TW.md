@@ -1,4 +1,6 @@
-# 🍌 Nano Banana Pro 提示詞大全
+# 🚀 Nano Banana Pro 提示詞大全
+
+> 💡 **Note**: 如果您對 Gemini 3 提示詞感興趣，歡迎查看我們的另一個倉庫，包含 50+ 精選提示詞：https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -80,7 +82,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **496** |
 | ⭐ 精選 | **5** |
-| 🔄 最後更新 | **2025年11月27日 星期四 上午9:14:03 [UTC]** |
+| 🔄 最後更新 | **2025年11月27日 星期四 中午12:04:02 [UTC]** |
 
 </div>
 
@@ -8227,6 +8229,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T09:14:03.559Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:04:02.633Z</sub>
 
 </div>
