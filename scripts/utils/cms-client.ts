@@ -103,6 +103,7 @@ export interface Media {
 
 export interface Prompt {
   id: number;
+  model?: string;
   title: string;
   description: string;
   content: string;

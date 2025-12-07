@@ -184,6 +184,7 @@ async function main() {
     // sourceMedia: original URLs from user input
     // media: relation field storing media document IDs
     const promptData: Partial<Prompt> = {
+      model: 'nano-banana-pro',
       title: fields.prompt_title || '',
       content: fields.prompt || '',
       description: fields.description || '',
