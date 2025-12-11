@@ -90,7 +90,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1099** |
 | ⭐ En vedette | **12** |
-| 🔄 Dernière mise à jour | **jeudi 11 décembre 2025 à 12:28:50 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 11 décembre 2025 à 16:20:51 UTC** |
 
 </div>
 
@@ -121,25 +121,25 @@ Une grande carte de citation présentant une personne célèbre, avec un fond ma
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Carte de citation large avec portrait et personnalisation en chinois/anglais - Image 4">
 </div>
 
 #### 📌 Détails
@@ -177,13 +177,13 @@ Titre : « Explication approfondie de la nouvelle IA de Google, « Nano Banana P
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Image d'en-tête de style dessiné à la main à partir d'une photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Image d'en-tête de style dessiné à la main à partir d'une photo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Image d'en-tête de style dessiné à la main à partir d'une photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Image d'en-tête de style dessiné à la main à partir d'une photo - Image 2">
 </div>
 
 #### 📌 Détails
@@ -217,7 +217,7 @@ Générez une carte de l'Allemagne dans un style aquarelle, sur laquelle tous le
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Carte aquarelle de l'Allemagne avec les États étiquetés - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Carte aquarelle de l'Allemagne avec les États étiquetés - Image 1">
 </div>
 
 #### 📌 Détails
@@ -253,13 +253,13 @@ Résultats de recherche de Grok
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Résumé de l'actualité de l'IA façon tableau noir - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Résumé de l'actualité de l'IA façon tableau noir - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Résumé de l'actualité de l'IA façon tableau noir - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Résumé de l'actualité de l'IA façon tableau noir - Image 2">
 </div>
 
 #### 📌 Détails
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Image publicitaire de livre de style train-ad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Image publicitaire de livre de style train-ad - Image 1">
 </div>
 
 #### 📌 Détails
@@ -357,7 +357,7 @@ Le résultat final doit être un visuel clé commercial haute résolution qui se
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Photographie de produits minimaliste de luxe basée sur une image de référence - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Photographie de produits minimaliste de luxe basée sur une image de référence - Image 1">
 </div>
 
 #### 📌 Détails
@@ -392,13 +392,13 @@ Créez une image photoréaliste d'une jeune femme assise dans un restaurant ext�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Portrait de restaurant extérieur à Londres avec Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Portrait de restaurant extérieur à Londres avec Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Portrait de restaurant extérieur à Londres avec Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Portrait de restaurant extérieur à Londres avec Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Détails
@@ -432,7 +432,7 @@ Journal de rêve. Un Kirby rose endormi sur une étoile, soufflant des bulles ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Journal de rêves avec Kirby soufflant des bulles - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Journal de rêves avec Kirby soufflant des bulles - Image 1">
 </div>
 
 #### 📌 Détails
@@ -535,7 +535,7 @@ Selfie miroir dans un coin ordinateur de style otaku, tons bleus.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Scène détaillée d'une chambre d'otaku avec un miroir-selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Scène détaillée d'une chambre d'otaku avec un miroir-selfie - Image 1">
 </div>
 
 #### 📌 Détails
@@ -589,7 +589,7 @@ Le rapport d'aspect est de 3:4 pour une affiche verticale. Inclure une calligrap
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Réinterprétation Ukiyo-e d'une scène moderne, période Edo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Réinterprétation Ukiyo-e d'une scène moderne, période Edo - Image 1">
 </div>
 
 #### 📌 Détails
@@ -628,7 +628,7 @@ Un prompt Nano Banana Pro concis pour un portrait studio en noir et blanc hyperr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Prompt de portrait de profil en studio en noir et blanc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Prompt de portrait de profil en studio en noir et blanc - Image 1">
 </div>
 
 #### 📌 Détails
@@ -663,13 +663,13 @@ Une photo numérique basse résolution prise avec un Sony CyberShot de 2005. Un 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="Photo instantanée d'une aire de restauration de centre commercial, prise avec un Sony CyberShot de 2005 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="Photo instantanée d'une aire de restauration de centre commercial, prise avec un Sony CyberShot de 2005 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="Photo instantanée d'une aire de restauration de centre commercial, prise avec un Sony CyberShot de 2005 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="Photo instantanée d'une aire de restauration de centre commercial, prise avec un Sony CyberShot de 2005 - Image 2">
 </div>
 
 #### 📌 Détails
@@ -707,7 +707,7 @@ Téléchargez l'image que vous souhaitez redimensionner et demandez : « Changer
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Redimensionner une image avec Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Redimensionner une image avec Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Détails
@@ -740,7 +740,7 @@ La [personne sur la photo] est gigantesque, accroupie au-dessus du paysage urbai
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Prompt photo : Tour de Tokyo géante enlacée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Prompt photo : Tour de Tokyo géante enlacée - Image 1">
 </div>
 
 #### 📌 Détails
@@ -773,7 +773,7 @@ En vous basant sur l'image de référence, représentez la scène comme une scul
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Sculpture de pointillisme 3D à partir de boules de Noël - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Sculpture de pointillisme 3D à partir de boules de Noël - Image 1">
 </div>
 
 #### 📌 Détails
@@ -806,7 +806,7 @@ Veuillez améliorer et affiner la résolution de cette peinture tout en conserva
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Invite d'amélioration de la netteté et de la résolution d'image pour Google Gemini A.I. - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Invite d'amélioration de la netteté et de la résolution d'image pour Google Gemini A.I. - Image 1">
 </div>
 
 #### 📌 Détails
@@ -913,7 +913,7 @@ Un modèle JSON complet conçu pour Nano Banana Pro afin de générer automatiqu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Modèle JSON Universel pour les Annonces de Produits Éditoriales - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Modèle JSON Universel pour les Annonces de Produits Éditoriales - Image 1">
 </div>
 
 #### 📌 Détails
@@ -977,7 +977,7 @@ Un prompt JSON détaillé et structuré pour Google Gemini/Nano Banana 3 Pro, co
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Prompt structuré pour un portrait de caricature hyperréaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Prompt structuré pour un portrait de caricature hyperréaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1011,7 +1011,7 @@ Une photographie réaliste de carte de visite futuriste cyber-esthétique : une 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Carte de visite futuriste cyber-esthétique réaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Carte de visite futuriste cyber-esthétique réaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1045,25 +1045,25 @@ Scène de narration cinématographique de {argument name="characters" default="c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Prompt de génération de scène de narration cinématographique - Image 4">
 </div>
 
 #### 📌 Détails
@@ -1096,13 +1096,13 @@ femme rousse vêtue d'une robe ancienne brodée transparente, la tête appuyée 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Portrait de buste en marbre mélancolique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Portrait de buste en marbre mélancolique - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Portrait de buste en marbre mélancolique - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Portrait de buste en marbre mélancolique - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1148,7 +1148,7 @@ Un prompt JSON pour Nano Banana Pro conçu pour générer une image dans le styl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="Prompt : Esthétique Tumblr « Sad Girl Autumn » 2013 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="Prompt : Esthétique Tumblr « Sad Girl Autumn » 2013 - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1181,7 +1181,7 @@ Créez une image avec une texture simulant une impression, recouverte de nombreu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Message de graffiti manuscrit pour votre idole préférée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Message de graffiti manuscrit pour votre idole préférée - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1237,7 +1237,7 @@ Une invite structurée pour générer un portrait extérieur ultra-réaliste et 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Portrait cinématographique extérieur 8K sur un balcon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Portrait cinématographique extérieur 8K sur un balcon - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1271,13 +1271,13 @@ Photo avec des {argument name="celebrities" default="célébrités"}. En train d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Photo de selfie de célébrité - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Photo de selfie de célébrité - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Photo de selfie de célébrité - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Photo de selfie de célébrité - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1310,7 +1310,7 @@ Montrez-moi cette image diffusée sur la sphère de Las Vegas, vue de l'extérie
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Projection d'images sur la Las Vegas Sphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Projection d'images sur la Las Vegas Sphere - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1405,7 +1405,7 @@ Un prompt JSON très détaillé pour générer un portrait intime et intense d'u
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Portrait intime auburn avec éclairage Rembrandt - Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Portrait intime auburn avec éclairage Rembrandt - Prompt - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1438,25 +1438,25 @@ Faites-leur porter des lunettes. Des lunettes rondes sans monture.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="Comparaison des modèles de rendu de lunettes - Image 4">
 </div>
 
 #### 📌 Détails
@@ -1517,13 +1517,13 @@ Un prompt détaillé au format JSON pour générer un selfie miroir en gros plan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Selfie miroir esthétique Instagram avec coque de téléphone Dragon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Selfie miroir esthétique Instagram avec coque de téléphone Dragon - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Selfie miroir esthétique Instagram avec coque de téléphone Dragon - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Selfie miroir esthétique Instagram avec coque de téléphone Dragon - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1556,13 +1556,13 @@ Créez un selfie miroir hyperréaliste d'une personne tenant le produit d'une ma
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Selfie miroir hyperréaliste avec produit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Selfie miroir hyperréaliste avec produit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Selfie miroir hyperréaliste avec produit - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Selfie miroir hyperréaliste avec produit - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1595,7 +1595,7 @@ Créez une affiche colorée « L'ABC des métiers » pour les enfants, avec de j
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Affiche éducative colorée « L'ABC des métiers » - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Affiche éducative colorée « L'ABC des métiers » - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1658,25 +1658,25 @@ Pas de flash
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Portrait 8K dans un restaurant de luxe - Image 4">
 </div>
 
 #### 📌 Détails
@@ -1759,7 +1759,7 @@ Un prompt JSON détaillé pour générer un portrait de studio haute-fidélité 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Portrait en studio avec chignons spatiaux et superposition de paillettes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Portrait en studio avec chignons spatiaux et superposition de paillettes - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1792,13 +1792,13 @@ carte de planification urbaine dessinée à la main
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="Carte de planification urbaine dessinée à la main à partir d'une vue 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="Carte de planification urbaine dessinée à la main à partir d'une vue 3D - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="Carte de planification urbaine dessinée à la main à partir d'une vue 3D - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="Carte de planification urbaine dessinée à la main à partir d'une vue 3D - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1831,7 +1831,7 @@ Une invite conçue pour générer un portrait en gros plan hyperréaliste et sur
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Portrait macro sous-marin surréaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Portrait macro sous-marin surréaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1865,19 +1865,19 @@ Réalisez une photo parfaitement isométrique. Ce n'est pas une miniature ; c'es
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="Prompt de génération de photo isométrique - Image 3">
 </div>
 
 #### 📌 Détails
@@ -1910,7 +1910,7 @@ de face, moniteur droit, plan rapproché
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Prompt de capture d'écran simple - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Prompt de capture d'écran simple - Image 1">
 </div>
 
 #### 📌 Détails
@@ -1944,13 +1944,13 @@ Cinématographie macro extrême de {argument name="Food Item" default="[Food Ite
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Cinématographie macro extrême de la nourriture - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Cinématographie macro extrême de la nourriture - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Cinématographie macro extrême de la nourriture - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Cinématographie macro extrême de la nourriture - Image 2">
 </div>
 
 #### 📌 Détails
@@ -1983,7 +1983,7 @@ Un jeu qui analyse et corrige automatiquement les images.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Description de l'outil d'analyse et de correction d'images - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Description de l'outil d'analyse et de correction d'images - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2061,7 +2061,7 @@ Un prompt JSON détaillé pour Gemini Nano Banana Pro qui fonctionne comme une i
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Invite d'analyse d'image : Selfie grunge Y2K dans le métro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Invite d'analyse d'image : Selfie grunge Y2K dans le métro - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2101,7 +2101,7 @@ Veuillez créer une affiche miniature isométrique en 3D de qualité musée pour
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Affiche Diorama 3D de Qualité Musée pour Événements Historiques - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Affiche Diorama 3D de Qualité Musée pour Événements Historiques - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2138,7 +2138,7 @@ Un modèle d'invite JSON détaillé pour générer une photo de produit lifestyl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Prompt pour une photo de produit lifestyle hyperréaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Prompt pour une photo de produit lifestyle hyperréaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2171,13 +2171,13 @@ Montrez-moi 5 minutes avant pour que je puisse comprendre pourquoi il est contra
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Génération d'images contextuelles à partir d'une invite - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Génération d'images contextuelles à partir d'une invite - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Génération d'images contextuelles à partir d'une invite - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Génération d'images contextuelles à partir d'une invite - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2237,7 +2237,7 @@ Une invite JSON pour Nano Banana Pro afin de générer une photo douce et esthé
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Prompt esthétique pour selfie miroir - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Prompt esthétique pour selfie miroir - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2271,13 +2271,13 @@ Portrait d'une silhouette assise à la mode, avec une bordure 3D blanche [TikTok
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="Portrait de mode avec incrustation de cadre TikTok - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="Portrait de mode avec incrustation de cadre TikTok - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="Portrait de mode avec incrustation de cadre TikTok - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="Portrait de mode avec incrustation de cadre TikTok - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2349,7 +2349,7 @@ Un prompt JSON pour Nano Banana Pro 3.0 afin de générer une image minimaliste 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Projecteur à silhouette minimale avec signature - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Projecteur à silhouette minimale avec signature - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2450,7 +2450,7 @@ Une invite détaillée au format JSON pour générer une image photoréaliste d'
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Célébration d'anniversaire « Barbie-Core » pour une fille - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Célébration d'anniversaire « Barbie-Core » pour une fille - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2484,25 +2484,25 @@ Une pièce miniature isométrique en 3D en forme de cube (un véritable cube en 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Pièce miniature isométrique en 3D avec un personnage Chibi - Image 4">
 </div>
 
 #### 📌 Détails
@@ -2572,7 +2572,7 @@ Une description détaillée pour la génération d'image d'un instantané décon
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Cliché de photographie au flash grunge Y2K - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Cliché de photographie au flash grunge Y2K - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2631,13 +2631,13 @@ Format d'image : {argument name="example aspect ratio" default="4:7"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Invite de voyage dans le temps cinématque en écran partagé - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Invite de voyage dans le temps cinématque en écran partagé - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Invite de voyage dans le temps cinématque en écran partagé - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Invite de voyage dans le temps cinématque en écran partagé - Image 2">
 </div>
 
 #### 📌 Détails
@@ -2670,25 +2670,25 @@ Remplacez le sujet dans @img2 par le sujet dans @img1.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Remplacement de sujet (Image-to-Image) - Image 4">
 </div>
 
 #### 📌 Détails
@@ -2737,7 +2737,7 @@ Scène de Noël hyperréaliste et féerique, un globe de neige transparent géan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Prompt pour une scène de Noël avec une boule à neige - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Prompt pour une scène de Noël avec une boule à neige - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2847,7 +2847,7 @@ Un prompt JSON très détaillé pour générer un portrait rapproché et intime 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Portrait cinématographique chaud au tungstène - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Portrait cinématographique chaud au tungstène - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2880,7 +2880,7 @@ Complexe miniature hyperréaliste d'une ancienne pyramide maya, entièrement con
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Prompt pour une miniature hyperréaliste de grain de café en forme de pyramide maya - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Prompt pour une miniature hyperréaliste de grain de café en forme de pyramide maya - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2915,7 +2915,7 @@ Les couleurs doivent être généralement pâles et doucement rendues.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Prompt photo esthétique Instagram/X - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Prompt photo esthétique Instagram/X - Image 1">
 </div>
 
 #### 📌 Détails
@@ -2948,13 +2948,13 @@ Livre de style, collage, autocollants solides, Polaroid, nombreuses photos de la
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Collage de style Kawaii avec effet Polaroïd - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Collage de style Kawaii avec effet Polaroïd - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Collage de style Kawaii avec effet Polaroïd - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Collage de style Kawaii avec effet Polaroïd - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3001,7 +3001,7 @@ Ambiance et narration : Tension néo-noir — un jeu souterrain à enjeux élev�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Vue en contre-plongée cinématque noir améliorée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Vue en contre-plongée cinématque noir améliorée - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3042,7 +3042,7 @@ Une invite pour générer une image de science-fiction cyberpunk d'une fille deb
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Fille Cyberpunk au Sommet de la Montagne - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Fille Cyberpunk au Sommet de la Montagne - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3116,13 +3116,13 @@ Un prompt JSON détaillé pour générer un portrait selfie en gros plan, plan a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="Prompt JSON pour un portrait selfie E-Girl/Soft Goth - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="Prompt JSON pour un portrait selfie E-Girl/Soft Goth - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="Prompt JSON pour un portrait selfie E-Girl/Soft Goth - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="Prompt JSON pour un portrait selfie E-Girl/Soft Goth - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3190,7 +3190,7 @@ Une invite détaillée de génération d'image pour une scène nocturne urbaine 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Scène de nuit urbaine cinématique avec panneau d'affichage numérique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Scène de nuit urbaine cinématique avec panneau d'affichage numérique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3252,7 +3252,7 @@ Créez une composition visuellement intense de journal-scrapbook, remplie d'écr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Invite de commentaire d'annotation d'image et d'éloge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Invite de commentaire d'annotation d'image et d'éloge - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3315,7 +3315,7 @@ Construisez le design en exécutant le processus de réflexion suivant avant de 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="Prompt de refonte UI/UX (style Pop Design) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="Prompt de refonte UI/UX (style Pop Design) - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3349,13 +3349,13 @@ Une illustration 2D plate et fantaisiste d'une SEULE bouteille géante de {argum
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Illustration d'architecture produit isométrique fantaisiste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Illustration d'architecture produit isométrique fantaisiste - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Illustration d'architecture produit isométrique fantaisiste - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Illustration d'architecture produit isométrique fantaisiste - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3393,7 +3393,7 @@ Enfin, pour la mise en page en bas, générez du texte chinois. Centrez le nom d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="Affiche Diorama 3D pour « Lord of the Mysteries » - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="Affiche Diorama 3D pour « Lord of the Mysteries » - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3433,13 +3433,13 @@ Veuillez intégrer le personnage spécifié dans la scène réelle située à [{
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Génération de collections de photos de voyage de style magazine - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Génération de collections de photos de voyage de style magazine - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Génération de collections de photos de voyage de style magazine - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Génération de collections de photos de voyage de style magazine - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3482,7 +3482,7 @@ Une invite détaillée pour générer une image de photographie de rue ultra-ré
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Portrait de café européen authentique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Portrait de café européen authentique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3515,13 +3515,13 @@ montrer tous les éléments qui composent cette cuisine, avec des étiquettes su
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Invite d'analyse des composants de cuisine - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Invite d'analyse des composants de cuisine - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Invite d'analyse des composants de cuisine - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Invite d'analyse des composants de cuisine - Image 2">
 </div>
 
 #### 📌 Détails
@@ -3555,25 +3555,25 @@ Une caricature 3D stylisée de {argument name="celebrity" default="[célébrité
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Caricature de célébrité astronaute style Pixar - Image 4">
 </div>
 
 #### 📌 Détails
@@ -3611,7 +3611,7 @@ chef-d'œuvre instantané. 👀🍌✨
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Un seul mot-clé pour un chef-d'œuvre instantané - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Un seul mot-clé pour un chef-d'œuvre instantané - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3644,7 +3644,7 @@ créez une carte de la Türkiye où chaque ville est faite de sa nourriture la p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Carte de la Turquie Faite d'Aliments Locaux - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Carte de la Turquie Faite d'Aliments Locaux - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3677,7 +3677,7 @@ Une invite très détaillée pour un éditorial de mode cyber-grunge, générée
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Éditorial de mode : Surveillance Cyber-Grunge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Éditorial de mode : Surveillance Cyber-Grunge - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3711,7 +3711,7 @@ Les formules doivent être codées par couleur pour chacune d'elles, ce qui donn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Message éducatif pour les formules de mathématiques du lycée sur un tableau noir - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Message éducatif pour les formules de mathématiques du lycée sur un tableau noir - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3745,7 +3745,7 @@ Expliquez avec {argument name="number" default="3"} exemples concrets
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Astuce pour utiliser Nano Banana Pro : Ajouter des exemples pour une meilleure compréhension - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Astuce pour utiliser Nano Banana Pro : Ajouter des exemples pour une meilleure compréhension - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3864,7 +3864,7 @@ Un prompt JSON très détaillé pour générer un portrait hyperréaliste d'une 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Portrait style Douyin Y2K avec flash direct – Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Portrait style Douyin Y2K avec flash direct – Prompt - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3927,7 +3927,7 @@ Le sujet doit apparaître lumineux et se détacher clairement de l'arrière-plan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Prompt : Portrait flash Y2K dans un café de Noël - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Prompt : Portrait flash Y2K dans un café de Noël - Image 1">
 </div>
 
 #### 📌 Détails
@@ -3962,13 +3962,13 @@ Une invite d'image 8K détaillée et hyperréaliste pour un portrait éditorial 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Portrait Cinématographique Glamour au Néon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Portrait Cinématographique Glamour au Néon - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Portrait Cinématographique Glamour au Néon - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Portrait Cinématographique Glamour au Néon - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4010,7 +4010,7 @@ Assurez-vous que la scène n'est pas une simple comparaison gauche/droite, mais 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Scène de voyage dans le temps en écran partagé - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Scène de voyage dans le temps en écran partagé - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4073,13 +4073,13 @@ Le sujet doit apparaître lumineux et se détacher clairement de l'arrière-plan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Portrait hyperréaliste style appareil photo numérique Y2K - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Portrait hyperréaliste style appareil photo numérique Y2K - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Portrait hyperréaliste style appareil photo numérique Y2K - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Portrait hyperréaliste style appareil photo numérique Y2K - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4119,7 +4119,7 @@ Enfin, pour la mise en page en bas, générez du texte chinois. Centrez le nom d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Affiche Diorama 3D pour scènes de film/roman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Affiche Diorama 3D pour scènes de film/roman - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4152,7 +4152,7 @@ La Terre en plein jour — mais soudain, tout devient complètement noir pendant
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Scène de panne de courant due à une catastrophe cosmique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Scène de panne de courant due à une catastrophe cosmique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4185,7 +4185,7 @@ Générer l'illustration
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Méthode de génération d'images basée sur des cartes pour Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Méthode de génération d'images basée sur des cartes pour Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4220,13 +4220,13 @@ Un prompt JSON détaillé pour générer une photographie de style éditorial d'
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Éditorial : Le style de rue chic de fin de soirée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Éditorial : Le style de rue chic de fin de soirée - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Éditorial : Le style de rue chic de fin de soirée - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Éditorial : Le style de rue chic de fin de soirée - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4312,13 +4312,13 @@ Une invite JSON très structurée pour générer une image de mode hyperréalist
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Séance photo de mode marine hyperréaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Séance photo de mode marine hyperréaliste - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Séance photo de mode marine hyperréaliste - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Séance photo de mode marine hyperréaliste - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4351,7 +4351,7 @@ Salut, critique-moi en ajoutant des notes rouges, écris où tu veux, tu peux de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Prompt « Roast Me » pour Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Prompt « Roast Me » pour Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4384,25 +4384,25 @@ Zoom extrême sur le visage d'une jeune fille. Elle lève les yeux vers une lumi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="Comparaison de la génération d'images – Prompt : Zoom extrême sur le visage d'une fille - Image 4">
 </div>
 
 #### 📌 Détails
@@ -4435,7 +4435,7 @@ Un écran d'appareil photo numérique affichant un portrait hyperréaliste d'un 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Portrait d'écran d'appareil photo numérique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Portrait d'écran d'appareil photo numérique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4468,25 +4468,25 @@ Saisissez un nom de lieu dans nano banana pro, et l'image générée fusionnera 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="La ville sur la table à manger : Fusion de la cuisine locale et des monuments emblématiques - Image 4">
 </div>
 
 #### 📌 Détails
@@ -4519,7 +4519,7 @@ Séraphique
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Prompt séraphique en un mot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Prompt séraphique en un mot - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4586,13 +4586,13 @@ Un prompt JSON structuré pour Nano Banana Pro (utilisé via Gemini 3.0) afin de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Génération de photos de profil IA : Prompt (Modification de la prise de vue en angle) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Génération de photos de profil IA : Prompt (Modification de la prise de vue en angle) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Génération de photos de profil IA : Prompt (Modification de la prise de vue en angle) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Génération de photos de profil IA : Prompt (Modification de la prise de vue en angle) - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4671,25 +4671,25 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="Prompt de transformation à libération de puissance en deux étapes (japonais) - Image 4">
 </div>
 
 #### 📌 Détails
@@ -4725,13 +4725,13 @@ Illustration numérique hyperréaliste de l'évolution des transports de l'human
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Prompt de paysage panoramique pour une évolution hyperréaliste du transport - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Prompt de paysage panoramique pour une évolution hyperréaliste du transport - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Prompt de paysage panoramique pour une évolution hyperréaliste du transport - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Prompt de paysage panoramique pour une évolution hyperréaliste du transport - Image 2">
 </div>
 
 #### 📌 Détails
@@ -4794,7 +4794,7 @@ Une invite structurée pour générer un selfie vertical photoréaliste en pied 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Selfie de cosplay photoréaliste d'Ada Wong - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Selfie de cosplay photoréaliste d'Ada Wong - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4853,7 +4853,7 @@ Utilisez la capacité d'inférence de Nano Banana Pro et exécutez le processus 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Prompt de Diorama de Tête pour Nano Banana Pro Agent V1.2 (Parc d'Attractions Afro/Nuage) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Prompt de Diorama de Tête pour Nano Banana Pro Agent V1.2 (Parc d'Attractions Afro/Nuage) - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4886,7 +4886,7 @@ Plan corps entier d'une femme aux jambes exagérément longues (proportions surr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Prompt de génération d'images de jambes longues exagérées (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Prompt de génération d'images de jambes longues exagérées (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 Détails
@@ -4944,7 +4944,7 @@ Une invite JSON pour Nano Banana Pro afin de générer un portrait cinématograp
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="Prompt : Portrait cinématographique esthétique doux de jumeaux - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="Prompt : Portrait cinématographique esthétique doux de jumeaux - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5001,7 +5001,7 @@ Une invite structurée pour générer un portrait intérieur réaliste, cinémat
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Portrait Chaleureux en Intérieur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Portrait Chaleureux en Intérieur - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5045,25 +5045,25 @@ Style artistique pointillé, rendu pointilliste, gravure noir et blanc, gothique
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Visualisation de poèmes en art gothique pointilliste - Image 4">
 </div>
 
 #### 📌 Détails
@@ -5096,7 +5096,7 @@ Un homme en tenue décontractée est assis sur la latte en bois d'un banc de par
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="Illusion d'optique : Torse invisible découpé - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="Illusion d'optique : Torse invisible découpé - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5195,7 +5195,7 @@ Un prompt JSON extrêmement détaillé et structuré pour générer un selfie mi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Portrait détaillé de selfie miroir sur les réseaux sociaux - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Portrait détaillé de selfie miroir sur les réseaux sociaux - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5299,7 +5299,7 @@ Une invite complexe au format JSON conçue pour générer une photo de télépho
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Photo de téléphone réaliste avec une touche d'horreur - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Photo de téléphone réaliste avec une touche d'horreur - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5353,7 +5353,7 @@ Une invite JSON très structurée pour générer une photographie de mode commer
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Portrait de mode éditorial dramatique en rouge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Portrait de mode éditorial dramatique en rouge - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5387,25 +5387,25 @@ Une caricature 3D mignonne et très stylisée de {argument name="celebrity" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Caricature 3D Néon d'une Célébrité - Image 4">
 </div>
 
 #### 📌 Détails
@@ -5480,7 +5480,7 @@ Un prompt JSON détaillé pour Nano Banana Pro afin de générer une image intim
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Selfie de chiot en très gros plan (Lumière faible) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Selfie de chiot en très gros plan (Lumière faible) - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5575,7 +5575,7 @@ Une invite JSON très structurée pour générer un portrait d'hiver en pied, ul
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Portrait Cinématique Hivernal en 8K au Jammu-et-Cachemire - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Portrait Cinématique Hivernal en 8K au Jammu-et-Cachemire - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5710,7 +5710,7 @@ Une invite complexe au format JSON pour la création d'un portrait stylisé en t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Portrait en techniques mixtes avec des gribouillis Pop Art - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Portrait en techniques mixtes avec des gribouillis Pop Art - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5747,7 +5747,7 @@ Panneau 2 : approuvant avec enthousiasme, souriant, pointant vers l'avant.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Transformation du mème Drake Pointing - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Transformation du mème Drake Pointing - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5882,7 +5882,7 @@ Une invite complexe au format JSON pour générer un portrait urbain hyperréali
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Portrait urbain sélectif en couleur d'une femme âgée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Portrait urbain sélectif en couleur d'une femme âgée - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5915,7 +5915,7 @@ Une scène post-apocalyptique crue montrant trois survivants armés marchant dan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Scène de survivant post-apocalyptique réaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Scène de survivant post-apocalyptique réaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -5995,7 +5995,7 @@ Dessinez des décorations symbolisant les Quatre Grands Esprits de ce monde (Feu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Invite de carte du monde fantastique de cartographe royal (scénario détaillé) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Invite de carte du monde fantastique de cartographe royal (scénario détaillé) - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6039,7 +6039,7 @@ Format d'image : 4:3
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Times Square : Écran partagé avec fusion temporelle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Times Square : Écran partagé avec fusion temporelle - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6072,7 +6072,7 @@ Veuillez m'aider à comprendre cet article. Encerclez le contenu important (figu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="Annotation de l'article « Attention Is All You Need » - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="Annotation de l'article « Attention Is All You Need » - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6105,7 +6105,7 @@ Générez une image, imprimez-la, puis ajoutez-y de manière débridée des anno
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Prompt de génération d'image d'impression annotée - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Prompt de génération d'image d'impression annotée - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6138,7 +6138,7 @@ Générez une image, imprimez-la, puis ajoutez-y de manière exubérante des ann
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Annotation d'image et invite de gribouillage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Annotation d'image et invite de gribouillage - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6191,13 +6191,13 @@ Animation 3D ultra-détaillée, cinématographique, immersive.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Écran d'invite du jeu de danse 3D pour Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Écran d'invite du jeu de danse 3D pour Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Écran d'invite du jeu de danse 3D pour Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Écran d'invite du jeu de danse 3D pour Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Détails
@@ -6230,7 +6230,7 @@ Une caricature 3D très stylisée de la personne présente sur l'image télécha
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Générateur de caricatures 3D virales - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Générateur de caricatures 3D virales - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6327,7 +6327,7 @@ Une invite détaillée au format JSON pour générer un selfie naturel et haute 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Selfie de voiture grand-angle avec toit ouvrant panoramique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Selfie de voiture grand-angle avec toit ouvrant panoramique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6391,7 +6391,7 @@ Une invite structurée pour générer un portrait de doodle net et très détail
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Portrait de doodle épuré d'une athlète féminine de volleyball - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Portrait de doodle épuré d'une athlète féminine de volleyball - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6424,7 +6424,7 @@ Une femme élégante se tient devant un mur en béton moderne, vêtue d'une tenu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Prompt pour un portrait de haute couture urbaine minimaliste - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Prompt pour un portrait de haute couture urbaine minimaliste - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6556,7 +6556,7 @@ Une invite JSON très technique et détaillée pour générer un portrait numér
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Portrait de style de vie d'influenceuse aux cheveux roux - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Portrait de style de vie d'influenceuse aux cheveux roux - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6590,7 +6590,7 @@ Mélangez du « bruit » tel que « {argument name="noise 1" default="garbage ho
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Utiliser les invites « Despair » et « Noise » pour un impact émotionnel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Utiliser les invites « Despair » et « Noise » pour un impact émotionnel - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6653,7 +6653,7 @@ Prise de vue cinématographique grand-angle en écran partagé horizontal de {ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Time-Blend en écran partagé - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Time-Blend en écran partagé - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6686,7 +6686,7 @@ Portrait de mode ultra-détaillé d'une adolescente coréenne en tenue Gothic Lo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Portrait de mode Lolita Gothique Ultra-Détaillé - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Portrait de mode Lolita Gothique Ultra-Détaillé - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6725,25 +6725,25 @@ Perspective comique en contre-plongée : Max se dresse comme un titan joueur. De
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Le géant comique Max Verstappen dans la voie des stands - Image 4">
 </div>
 
 #### 📌 Détails
@@ -6812,7 +6812,7 @@ Un prompt JSON très détaillé pour Nano Banana Pro afin de générer une photo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="Prompt pour une photo instantanée d'appareil photo numérique des années 2000 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="Prompt pour une photo instantanée d'appareil photo numérique des années 2000 - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6870,25 +6870,25 @@ Prompt 4 :
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Quatre invites de croquis et de portraits pour Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Détails
@@ -6997,7 +6997,7 @@ Un prompt JSON très détaillé et structuré pour générer une image éditoria
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Prompt pour un éditorial de mode Kawaii Y2K - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Prompt pour un éditorial de mode Kawaii Y2K - Image 1">
 </div>
 
 #### 📌 Détails
@@ -7083,7 +7083,7 @@ Une invite JSON très structurée pour générer une photo cinématographique 8K
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Aventure hivernale cinématographique en 8K à bord d'un train vintage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Aventure hivernale cinématographique en 8K à bord d'un train vintage - Image 1">
 </div>
 
 #### 📌 Détails
@@ -7143,19 +7143,19 @@ Garanties
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="Créer une scène cinématique de style 3D - Image 3">
 </div>
 
 #### 📌 Détails
@@ -7188,13 +7188,13 @@ Haute qualité, 4k, réaliste, jardin fleuri, douceurs, lumineux. Magnifique.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Prompt de génération d'images pour Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Prompt de génération d'images pour Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Prompt de génération d'images pour Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Prompt de génération d'images pour Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Détails
@@ -7227,7 +7227,7 @@ recouvrez cela de gribouillis de conspiration schizophrènes délirants, d'encre
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Superposition de gribouillis de conspiration schizophrénique - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Superposition de gribouillis de conspiration schizophrénique - Image 1">
 </div>
 
 #### 📌 Détails
@@ -7260,7 +7260,7 @@ Le cadre est une photographie ultra-réaliste, de qualité éditoriale, capturan
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Scène de café cinématique en techniques mixtes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Scène de café cinématique en techniques mixtes - Image 1">
 </div>
 
 #### 📌 Détails
@@ -7294,7 +7294,7 @@ Expliquez {argument name="task" default="XX"} en {argument name="number of steps
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Technique d'invite Nano Banana Pro pour les débutants - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Technique d'invite Nano Banana Pro pour les débutants - Image 1">
 </div>
 
 #### 📌 Détails
@@ -7377,6 +7377,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-11T12:28:50.518Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-11T16:20:51.688Z</sub>
 
 </div>

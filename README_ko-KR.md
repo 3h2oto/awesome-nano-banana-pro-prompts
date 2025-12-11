@@ -90,7 +90,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **1099** |
 | ⭐ 추천 | **12** |
-| 🔄 마지막 업데이트 | **2025년 12월 11일 목요일 오후 12시 25분 39초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 11일 목요일 오후 4시 18분 29초 UTC** |
 
 </div>
 
@@ -121,25 +121,25 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="인물 사진과 중국어/영어 맞춤 설정이 가능한 와이드 인용 카드 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -177,13 +177,13 @@ Nano Banana Pro를 소개하는 사람의 손으로 그린 스타일 헤더 이�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="사진에서 손으로 그린 스타일의 헤더 이미지 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="사진에서 손으로 그린 스타일의 헤더 이미지 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="사진에서 손으로 그린 스타일의 헤더 이미지 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="사진에서 손으로 그린 스타일의 헤더 이미지 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -217,7 +217,7 @@ Nano Banana Pro를 소개하는 사람의 손으로 그린 스타일 헤더 이�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="독일 수채화 지도 (주 이름 표시) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="독일 수채화 지도 (주 이름 표시) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -253,13 +253,13 @@ Grok 검색 결과
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="칠판 스타일 AI 뉴스 요약 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="칠판 스타일 AI 뉴스 요약 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="칠판 스타일 AI 뉴스 요약 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="칠판 스타일 AI 뉴스 요약 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="기차 광고 스타일의 도서 광고 이미지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="기차 광고 스타일의 도서 광고 이미지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -357,7 +357,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="참고 이미지를 기반으로 한 럭셔리 미니멀리스트 제품 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="참고 이미지를 기반으로 한 럭셔리 미니멀리스트 제품 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -391,13 +391,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Nano Banana Pro와 함께 런던 야외 레스토랑에서 찍은 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Nano Banana Pro와 함께 런던 야외 레스토랑에서 찍은 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Nano Banana Pro와 함께 런던 야외 레스토랑에서 찍은 인물 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Nano Banana Pro와 함께 런던 야외 레스토랑에서 찍은 인물 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -431,7 +431,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="커비가 비눗방울을 부는 꿈 일기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="커비가 비눗방울을 부는 꿈 일기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -534,7 +534,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="거울 셀카 오타쿠 방 상세 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="거울 셀카 오타쿠 방 상세 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -588,7 +588,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="현대적인 장면을 재해석한 에도 시대 우키요에 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="현대적인 장면을 재해석한 에도 시대 우키요에 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -627,7 +627,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="흑백 스튜디오 측면 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="흑백 스튜디오 측면 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -662,13 +662,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005년 소니 사이버샷 몰 푸드코트 스냅샷 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005년 소니 사이버샷 몰 푸드코트 스냅샷 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005년 소니 사이버샷 몰 푸드코트 스냅샷 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005년 소니 사이버샷 몰 푸드코트 스냅샷 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -706,7 +706,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Nano Banana Pro로 이미지 크기 변경하기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Nano Banana Pro로 이미지 크기 변경하기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -739,7 +739,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="도쿄 타워를 안고 있는 거인 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="도쿄 타워를 안고 있는 거인 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -772,7 +772,7 @@ AI에게 3D 점묘 조각으로 장면을 렌더링하도록 지시하는 이미
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="크리스마스 장식으로 만든 3D 점묘 조각 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="크리스마스 장식으로 만든 3D 점묘 조각 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -805,7 +805,7 @@ AI에게 3D 점묘 조각으로 장면을 렌더링하도록 지시하는 이미
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini A.I.용 이미지 선명화 및 해상도 개선 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini A.I.용 이미지 선명화 및 해상도 개선 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -912,7 +912,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="편집 제품 광고를 위한 범용 JSON 템플릿 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="편집 제품 광고를 위한 범용 JSON 템플릿 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -976,7 +976,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="초현실적인 캐리커처 초상화를 위한 구조화된 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="초현실적인 캐리커처 초상화를 위한 구조화된 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1010,7 +1010,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="사실적인 사이버 미학 미래형 명함 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="사실적인 사이버 미학 미래형 명함 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1044,25 +1044,25 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="시네마틱 스토리텔링 장면 생성 프롬프트 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -1095,13 +1095,13 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="우울한 대리석 흉상 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="우울한 대리석 흉상 초상화 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="우울한 대리석 흉상 초상화 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="우울한 대리석 흉상 초상화 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1154,7 +1154,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013년 텀블러 새드 걸 가을 미학 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013년 텀블러 새드 걸 가을 미학 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1187,7 +1187,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="최애 아이돌을 위한 손글씨 그래피티 메시지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="최애 아이돌을 위한 손글씨 그래피티 메시지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1243,7 +1243,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="발코니에서 촬영한 8K 시네마틱 야외 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="발코니에서 촬영한 8K 시네마틱 야외 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1277,13 +1277,13 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="연예인 셀카 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="연예인 셀카 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="연예인 셀카 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="연예인 셀카 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1316,7 +1316,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="라스베이거스 스피어 이미지 투영 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="라스베이거스 스피어 이미지 투영 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1411,7 +1411,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="렘브란트 조명으로 촬영한 오번 컬러의 친밀한 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="렘브란트 조명으로 촬영한 오번 컬러의 친밀한 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1444,25 +1444,25 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="안경 렌더링 모델 비교 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -1523,13 +1523,13 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Instagram 감성 거울 셀카 (용 폰케이스와 함께) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Instagram 감성 거울 셀카 (용 폰케이스와 함께) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Instagram 감성 거울 셀카 (용 폰케이스와 함께) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Instagram 감성 거울 셀카 (용 폰케이스와 함께) - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1562,13 +1562,13 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="제품과 함께하는 극사실적인 거울 셀카 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="제품과 함께하는 극사실적인 거울 셀카 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="제품과 함께하는 극사실적인 거울 셀카 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="제품과 함께하는 극사실적인 거울 셀카 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1601,7 +1601,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="다채로운 '직업 ABC' 교육 포스터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="다채로운 '직업 ABC' 교육 포스터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1675,25 +1675,25 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="고급 레스토랑에서의 8K 인물 사진 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -1776,7 +1776,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 JSON 템플릿으로, 눈에 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="스페이스 번과 글리터 오버레이를 활용한 스튜디오 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="스페이스 번과 글리터 오버레이를 활용한 스튜디오 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1809,13 +1809,13 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="3D 뷰에서 본 손으로 그린 도시 계획 지도 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="3D 뷰에서 본 손으로 그린 도시 계획 지도 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="3D 뷰에서 본 손으로 그린 도시 계획 지도 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="3D 뷰에서 본 손으로 그린 도시 계획 지도 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -1848,7 +1848,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="초현실적인 수중 매크로 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="초현실적인 수중 매크로 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1882,19 +1882,19 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="아이소메트릭 사진 생성 프롬프트 - Image 3">
 </div>
 
 #### 📌 상세 정보
@@ -1927,7 +1927,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="간단한 모니터 샷 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="간단한 모니터 샷 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1961,13 +1961,13 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="음식 익스트림 매크로 시네마토그래피 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="음식 익스트림 매크로 시네마토그래피 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="음식 익스트림 매크로 시네마토그래피 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="음식 익스트림 매크로 시네마토그래피 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -2000,7 +2000,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="이미지 분석 및 보정 도구 설명 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="이미지 분석 및 보정 도구 설명 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2078,7 +2078,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K 그런지 지하철 셀카 이미지 분석 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K 그런지 지하철 셀카 이미지 분석 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2118,7 +2118,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="역사적 사건을 위한 박물관급 3D 디오라마 포스터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="역사적 사건을 위한 박물관급 3D 디오라마 포스터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2155,7 +2155,7 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="초현실적인 라이프스타일 제품 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="초현실적인 라이프스타일 제품 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2188,13 +2188,13 @@ Google Maps 3D 경사 뷰를 양식화된 손으로 그린 도시 계획 지도�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="상황별 이미지 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="상황별 이미지 생성 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="상황별 이미지 생성 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="상황별 이미지 생성 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -2254,7 +2254,7 @@ Nano Banana Pro가 거울 셀카를 모방하여 부드럽고 미적인 사진�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="거울 포즈 셀카 미학 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="거울 포즈 셀카 미학 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2288,13 +2288,13 @@ Nano Banana Pro에서 패셔너블한 앉은 자세의 인물을 초현실적이
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="TikTok 프레임 오버레이를 사용한 패션 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="TikTok 프레임 오버레이를 사용한 패션 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="TikTok 프레임 오버레이를 사용한 패션 인물 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="TikTok 프레임 오버레이를 사용한 패션 인물 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -2366,7 +2366,7 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="시그니처가 있는 미니멀 실루엣 스포트라이트 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="시그니처가 있는 미니멀 실루엣 스포트라이트 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2467,7 +2467,7 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="바비코어 생일 소녀 축하 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="바비코어 생일 소녀 축하 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2502,25 +2502,25 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="치비 캐릭터가 있는 아이소메트릭 3D 미니어처 룸 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -2590,7 +2590,7 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K 그런지 플래시 사진 스냅샷 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K 그런지 플래시 사진 스냅샷 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2649,13 +2649,13 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="분할 화면 시네마틱 시간 여행 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="분할 화면 시네마틱 시간 여행 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="분할 화면 시네마틱 시간 여행 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="분할 화면 시네마틱 시간 여행 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -2688,25 +2688,25 @@ Nano Banana Pro 3.0용 JSON 프롬프트: 검은색 허공을 배경으로 인�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="주제 대체 프롬프트 (이미지-투-이미지) - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -2755,7 +2755,7 @@ Nano Banana Pro가 초현실적이고 환상적인 크리스마스 장면을 생
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="스노우 글로브 크리스마스 장면 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="스노우 글로브 크리스마스 장면 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2866,7 +2866,7 @@ Nano Banana Pro가 초현실적이고 환상적인 크리스마스 장면을 생
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="시네마틱 따뜻한 텅스텐 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="시네마틱 따뜻한 텅스텐 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2899,7 +2899,7 @@ Nano Banana Pro가 초현실적이고 환상적인 크리스마스 장면을 생
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="극사실주의 마야 피라미드 커피콩 미니어처 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="극사실주의 마야 피라미드 커피콩 미니어처 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2934,7 +2934,7 @@ Nano Banana Pro가 초현실적이고 환상적인 크리스마스 장면을 생
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="인스타그램/X 감성 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="인스타그램/X 감성 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -2967,13 +2967,13 @@ Nano Banana Pro를 사용하여 스타일북 미학, 콜라주 및 스티커의 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="폴라로이드 효과가 있는 카와이 스타일북 콜라주 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="폴라로이드 효과가 있는 카와이 스타일북 콜라주 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="폴라로이드 효과가 있는 카와이 스타일북 콜라주 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="폴라로이드 효과가 있는 카와이 스타일북 콜라주 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3020,7 +3020,7 @@ Nano Banana Pro를 사용하여 스타일북 미학, 콜라주 및 스티커의 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="향상된 시네마틱 느와르 로우 앵글 뷰 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="향상된 시네마틱 느와르 로우 앵글 뷰 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3061,7 +3061,7 @@ Nano Banana Pro를 사용하여 스타일북 미학, 콜라주 및 스티커의 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="사이버펑크 산봉우리 소녀 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="사이버펑크 산봉우리 소녀 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3135,13 +3135,13 @@ e-girl/소프트 고스 미학을 가진 젊은 여성의 클로즈업, 가슴 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/소프트 고스 셀카 인물 사진 JSON 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/소프트 고스 셀카 인물 사진 JSON 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/소프트 고스 셀카 인물 사진 JSON 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/소프트 고스 셀카 인물 사진 JSON 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3209,7 +3209,7 @@ e-girl/소프트 고스 미학을 가진 젊은 여성의 클로즈업, 가슴 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="디지털 빌보드가 있는 영화 같은 도시의 야경 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="디지털 빌보드가 있는 영화 같은 도시의 야경 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3271,7 +3271,7 @@ e-girl/소프트 고스 미학을 가진 젊은 여성의 클로즈업, 가슴 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="이미지 주석 및 칭찬 댓글 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="이미지 주석 및 칭찬 댓글 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3334,7 +3334,7 @@ Nano Banana Pro Agent V1.2를 위한 상세한 시스템 프롬프트로, 시니
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX 재설계 프롬프트 (팝 디자인 스타일) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX 재설계 프롬프트 (팝 디자인 스타일) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3368,13 +3368,13 @@ Nano Banana Pro Agent V1.2를 위한 상세한 시스템 프롬프트로, 시니
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="기발한 아이소메트릭 제품 아키텍처 일러스트레이션 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="기발한 아이소메트릭 제품 아키텍처 일러스트레이션 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="기발한 아이소메트릭 제품 아키텍처 일러스트레이션 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="기발한 아이소메트릭 제품 아키텍처 일러스트레이션 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3412,7 +3412,7 @@ Nano Banana Pro Agent V1.2를 위한 상세한 시스템 프롬프트로, 시니
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="'군림천하' 3D 디오라마 포스터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="'군림천하' 3D 디오라마 포스터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3452,13 +3452,13 @@ Nano Banana Pro Agent V1.2를 위한 상세한 시스템 프롬프트로, 시니
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="매거진 스타일 여행 사진 컬렉션 생성 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="매거진 스타일 여행 사진 컬렉션 생성 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="매거진 스타일 여행 사진 컬렉션 생성 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="매거진 스타일 여행 사진 컬렉션 생성 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3501,7 +3501,7 @@ Nano Banana Pro Agent V1.2를 위한 상세한 시스템 프롬프트로, 시니
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="솔직한 유럽 카페 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="솔직한 유럽 카페 초상화 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3534,13 +3534,13 @@ Nano Banana Pro에 대한 간단한 텍스트 프롬프트로, 주방 이미지�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="주방 구성 요소 분석 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="주방 구성 요소 분석 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="주방 구성 요소 분석 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="주방 구성 요소 분석 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -3574,25 +3574,25 @@ Nano Banana Pro에 대한 간단한 텍스트 프롬프트로, 주방 이미지�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="픽사 스타일 유명인 우주 비행사 캐리커처 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -3630,7 +3630,7 @@ Nano Banana Pro에 단어 하나만 입력하면 즉시 명작을 만들 수 있
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="한 단어 프롬프트로 즉시 명작 만들기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="한 단어 프롬프트로 즉시 명작 만들기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3663,7 +3663,7 @@ Nano Banana Pro에 단어 하나만 입력하면 즉시 명작을 만들 수 있
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="지역 특산물로 만든 터키 지도 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="지역 특산물로 만든 터키 지도 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3696,7 +3696,7 @@ Nano Banana Pro에 단어 하나만 입력하면 즉시 명작을 만들 수 있
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="사이버 그런지 감시 패션 화보 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="사이버 그런지 감시 패션 화보 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3730,7 +3730,7 @@ Nano Banana Pro에 단어 하나만 입력하면 즉시 명작을 만들 수 있
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="칠판에 고등학교 수학 공식 교육 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="칠판에 고등학교 수학 공식 교육 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3764,7 +3764,7 @@ Nano Banana Pro의 결과물 개선을 위한 빠른 팁: 개념을 세 가지 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Nano Banana Pro 사용 팁: 더 나은 이해를 위한 예시 추가 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Nano Banana Pro 사용 팁: 더 나은 이해를 위한 예시 추가 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3883,7 +3883,7 @@ Nano Banana Pro의 결과물 개선을 위한 빠른 팁: 개념을 세 가지 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Y2K 더우인 스타일 직광 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Y2K 더우인 스타일 직광 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3946,7 +3946,7 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K 플래시 크리스마스 카페 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K 플래시 크리스마스 카페 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -3981,13 +3981,13 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="화려한 네온 불빛의 시네마틱 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="화려한 네온 불빛의 시네마틱 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="화려한 네온 불빛의 시네마틱 인물 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="화려한 네온 불빛의 시네마틱 인물 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4029,7 +4029,7 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="분할 화면 시간 여행 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="분할 화면 시간 여행 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4092,13 +4092,13 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="하이퍼리얼리스틱 Y2K 디지털 카메라 스타일 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="하이퍼리얼리스틱 Y2K 디지털 카메라 스타일 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="하이퍼리얼리스틱 Y2K 디지털 카메라 스타일 인물 사진 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="하이퍼리얼리스틱 Y2K 디지털 카메라 스타일 인물 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4138,7 +4138,7 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="영화/소설 장면을 위한 3D 디오라마 포스터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="영화/소설 장면을 위한 3D 디오라마 포스터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4171,7 +4171,7 @@ Y2K 디지털 카메라 스타일로 여성의 초현실적인 인물 사진을 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="우주적 대재앙 정전 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="우주적 대재앙 정전 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4204,7 +4204,7 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Nano Banana Pro용 카드 기반 이미지 생성 방법 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Nano Banana Pro용 카드 기반 이미지 생성 방법 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4239,13 +4239,13 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="시크한 심야 스트리트 스타일 화보 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="시크한 심야 스트리트 스타일 화보 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="시크한 심야 스트리트 스타일 화보 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="시크한 심야 스트리트 스타일 화보 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4331,13 +4331,13 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="초현실적인 해군 패션 화보 촬영 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="초현실적인 해군 패션 화보 촬영 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="초현실적인 해군 패션 화보 촬영 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="초현실적인 해군 패션 화보 촬영 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4370,7 +4370,7 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Nano Banana Pro를 위한 Roast Me 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Nano Banana Pro를 위한 Roast Me 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4403,25 +4403,25 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="이미지 생성 비교 프롬프트: 소녀의 얼굴을 극단적으로 확대 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -4454,7 +4454,7 @@ Nano Banana Pro에서 이미지를 생성하는 방법은 프롬프트를 텍스
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="디지털 카메라 화면 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="디지털 카메라 화면 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4487,25 +4487,25 @@ nano banana pro에 장소 이름을 입력하면, 해당 지역의 특산물, �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="식탁 위의 도시: 현지 음식과 랜드마크의 융합 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -4538,7 +4538,7 @@ Nano Banana Pro로 이미지를 생성하는 데 사용된 간단한 한 단어 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="한 단어의 세라픽 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="한 단어의 세라픽 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4605,13 +4605,13 @@ Nano Banana Pro(Gemini 3.0을 통해 사용)용으로 구조화된 JSON 프롬�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="AI 프로필 사진 생성 프롬프트 (앵글 샷 수정) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="AI 프로필 사진 생성 프롬프트 (앵글 샷 수정) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="AI 프로필 사진 생성 프롬프트 (앵글 샷 수정) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="AI 프로필 사진 생성 프롬프트 (앵글 샷 수정) - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4688,25 +4688,25 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="2단계 파워 릴리스 변환 프롬프트 (일본어) - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -4742,13 +4742,13 @@ Nano Banana Pro용으로 제작된 상세하고 극사실적인 이미지 생성
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="초현실적인 운송 수단 진화 파노라마 풍경 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="초현실적인 운송 수단 진화 파노라마 풍경 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="초현실적인 운송 수단 진화 파노라마 풍경 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="초현실적인 운송 수단 진화 파노라마 풍경 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -4811,7 +4811,7 @@ RE4 리메이크의 에이다 웡을 코스프레한 여성의 사실적인 전�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="실사 같은 에이다 웡 코스프레 셀카 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="실사 같은 에이다 웡 코스프레 셀카 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4870,7 +4870,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="헤드탑 디오라마 프롬프트 (나노 바나나 프로 에이전트 V1.2, 아프로/클라우드 놀이공원) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="헤드탑 디오라마 프롬프트 (나노 바나나 프로 에이전트 V1.2, 아프로/클라우드 놀이공원) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4903,7 +4903,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="과장된 긴 다리 이미지 생성 프롬프트 (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="과장된 긴 다리 이미지 생성 프롬프트 (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -4961,7 +4961,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="쌍둥이의 부드러운 미학적 시네마틱 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="쌍둥이의 부드러운 미학적 시네마틱 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5018,7 +5018,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="솔직하고 따뜻한 실내 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="솔직하고 따뜻한 실내 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5062,25 +5062,25 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="고딕 스티플 아트 시각화 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -5113,7 +5113,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="환영 이미지: 보이지 않는 몸통 잘라내기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="환영 이미지: 보이지 않는 몸통 잘라내기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5212,7 +5212,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="상세한 소셜 미디어 거울 셀카 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="상세한 소셜 미디어 거울 셀카 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5316,7 +5316,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="공포스러운 반전이 있는 사실적인 휴대폰 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="공포스러운 반전이 있는 사실적인 휴대폰 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5370,7 +5370,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="드라마틱한 레드 패션 에디토리얼 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="드라마틱한 레드 패션 에디토리얼 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5404,25 +5404,25 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="유명인의 3D 네온 캐리커처 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -5497,7 +5497,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="초근접 강아지 셀카 프롬프트 (저조도) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="초근접 강아지 셀카 프롬프트 (저조도) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5592,7 +5592,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="잠무 & 카슈미르의 8K 시네마틱 겨울 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="잠무 & 카슈미르의 8K 시네마틱 겨울 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5727,7 +5727,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="팝아트 낙서가 가미된 혼합 매체 인물화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="팝아트 낙서가 가미된 혼합 매체 인물화 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5764,7 +5764,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="드레이크 포인팅 밈 변환 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="드레이크 포인팅 밈 변환 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5899,7 +5899,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="노년 여성의 선택적 색상 도시 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="노년 여성의 선택적 색상 도시 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -5932,7 +5932,7 @@ Nano Banana Pro의 추론 능력을 활용하여 그림을 그리기 전에 다�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="거친 포스트 아포칼립스 생존자 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="거친 포스트 아포칼립스 생존자 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6012,7 +6012,7 @@ Nano Banana Pro의 추론 기능을 활용하여 다음 사고 과정을 거친 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="왕실 지도 제작자의 판타지 세계 지도 프롬프트 (상세 시나리오) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="왕실 지도 제작자의 판타지 세계 지도 프롬프트 (상세 시나리오) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6056,7 +6056,7 @@ Nano Banana Pro의 추론 기능을 활용하여 다음 사고 과정을 거친 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="타임스 스퀘어 타임 블렌드 분할 화면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="타임스 스퀘어 타임 블렌드 분할 화면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6089,7 +6089,7 @@ Nano Banana Pro의 추론 기능을 활용하여 다음 사고 과정을 거친 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="'Attention Is All You Need' 논문 주석 달기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="'Attention Is All You Need' 논문 주석 달기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6122,7 +6122,7 @@ AI에게 이미지를 생성하고, 이를 인쇄한 다음, 원본 트윗의 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="주석이 달린 인쇄물 이미지 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="주석이 달린 인쇄물 이미지 생성 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6155,7 +6155,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="이미지 주석 및 낙서 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="이미지 주석 및 낙서 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6208,13 +6208,13 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro용 3D 댄스 게임 화면 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro용 3D 댄스 게임 화면 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro용 3D 댄스 게임 화면 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro용 3D 댄스 게임 화면 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -6247,7 +6247,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="바이럴 3D 캐리커처 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="바이럴 3D 캐리커처 생성 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6344,7 +6344,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="파노라마 선루프와 함께 찍는 와이드 앵글 차량 셀카 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="파노라마 선루프와 함께 찍는 와이드 앵글 차량 셀카 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6408,7 +6408,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="여자 배구 선수의 깔끔한 낙서 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="여자 배구 선수의 깔끔한 낙서 초상화 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6441,7 +6441,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="미니멀리스트 어반 하이패션 인물 사진 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="미니멀리스트 어반 하이패션 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6573,7 +6573,7 @@ AI에게 이미지를 생성하고, 가상으로 인쇄한 다음, 손글씨 중
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="생강색 머리를 가진 인플루언서 라이프스타일 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="생강색 머리를 가진 인플루언서 라이프스타일 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6607,7 +6607,7 @@ Nano Banana Pro에서 'garbage house' 또는 'depressed person'과 같은 '노�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="정서적 영향을 위한 '절망' 및 '소음' 프롬프트 사용 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="정서적 영향을 위한 '절망' 및 '소음' 프롬프트 사용 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6670,7 +6670,7 @@ Nano Banana Pro에서 'garbage house' 또는 'depressed person'과 같은 '노�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="도쿄 타임 블렌드 분할 화면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="도쿄 타임 블렌드 분할 화면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6703,7 +6703,7 @@ Nano Banana Pro에서 'garbage house' 또는 'depressed person'과 같은 '노�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="초고화질 고딕 로리타 패션 인물 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="초고화질 고딕 로리타 패션 인물 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6742,25 +6742,25 @@ Nano Banana Pro에서 'garbage house' 또는 'depressed person'과 같은 '노�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="피트 레인의 코미디 거장, 막스 페르스타펜 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -6829,7 +6829,7 @@ Nano Banana Pro가 2000년대 초반의 컴팩트 디지털 카메라로 촬영�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000년대 디지털 카메라 스냅샷 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000년대 디지털 카메라 스냅샷 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -6887,25 +6887,25 @@ Nano Banana Pro가 2000년대 초반의 컴팩트 디지털 카메라로 촬영�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro를 위한 스케치 및 인물화 프롬프트 4가지 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -7014,7 +7014,7 @@ Nano Banana Pro가 2000년대 초반의 컴팩트 디지털 카메라로 촬영�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K 카와이 패션 에디토리얼 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K 카와이 패션 에디토리얼 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -7100,7 +7100,7 @@ Nano Banana Pro가 2000년대 초반의 컴팩트 디지털 카메라로 촬영�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="빈티지 기차에서 찍은 8K 시네마틱 겨울 모험 사진 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="빈티지 기차에서 찍은 8K 시네마틱 겨울 모험 사진 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -7160,19 +7160,19 @@ Nano Banana Pro가 2000년대 초반의 컴팩트 디지털 카메라로 촬영�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="3D 스타일의 시네마틱 장면 만들기 - Image 3">
 </div>
 
 #### 📌 상세 정보
@@ -7205,13 +7205,13 @@ Nano Banana Pro를 포함한 다양한 모델에 사용되는 간단하고 설�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro용 이미지 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro용 이미지 생성 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro용 이미지 생성 프롬프트 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro용 이미지 생성 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
@@ -7244,7 +7244,7 @@ Nano Banana Pro를 포함한 다양한 모델에 사용되는 간단하고 설�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="조현병적 음모 낙서 오버레이 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="조현병적 음모 낙서 오버레이 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -7277,7 +7277,7 @@ Nano Banana Pro를 포함한 다양한 모델에 사용되는 간단하고 설�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="혼합 미디어 시네마틱 카페 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="혼합 미디어 시네마틱 카페 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -7311,7 +7311,7 @@ Nano Banana Pro를 사용하여 복잡한 작업을 단순화하는 프롬프트
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="초보자를 위한 나노 바나나 프로 프롬프트 기법 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="초보자를 위한 나노 바나나 프로 프롬프트 기법 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -7394,6 +7394,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-11T12:25:39.165Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-11T16:18:29.221Z</sub>
 
 </div>

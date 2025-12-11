@@ -90,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **1099** |
 | ⭐ Nổi bật | **12** |
-| 🔄 Cập nhật lần cuối | **lúc 12:26:31 UTC Thứ Năm, 11 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 16:19:15 UTC Thứ Năm, 11 tháng 12, 2025** |
 
 </div>
 
@@ -121,25 +121,25 @@ Một thẻ trích dẫn rộng có hình một người nổi tiếng, với n�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Thẻ trích dẫn rộng với ảnh chân dung và tùy chỉnh tiếng Trung/tiếng Anh - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -177,13 +177,13 @@ Văn bản tiêu đề: “Giải thích chuyên sâu về AI mới của Google
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Lời nhắc hình ảnh tiêu đề phong cách vẽ tay từ ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Lời nhắc hình ảnh tiêu đề phong cách vẽ tay từ ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Lời nhắc hình ảnh tiêu đề phong cách vẽ tay từ ảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Lời nhắc hình ảnh tiêu đề phong cách vẽ tay từ ảnh - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -217,7 +217,7 @@ Tạo bản đồ nước Đức theo phong cách màu nước, trên đó tất
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Bản đồ màu nước của Đức với các bang được gắn nhãn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Bản đồ màu nước của Đức với các bang được gắn nhãn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -253,13 +253,13 @@ Kết quả tìm kiếm từ Grok
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Tóm tắt tin tức AI theo phong cách bảng đen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Tóm tắt tin tức AI theo phong cách bảng đen - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Tóm tắt tin tức AI theo phong cách bảng đen - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Tóm tắt tin tức AI theo phong cách bảng đen - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Hình ảnh quảng cáo sách theo phong cách tàu hỏa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Hình ảnh quảng cáo sách theo phong cách tàu hỏa - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -357,7 +357,7 @@ Kết quả cuối cùng phải là một hình ảnh chủ đạo thương mạ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Chụp ảnh sản phẩm tối giản sang trọng dựa trên hình ảnh tham khảo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Chụp ảnh sản phẩm tối giản sang trọng dựa trên hình ảnh tham khảo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -392,13 +392,13 @@ Tạo một hình ảnh chân thực về một phụ nữ trẻ đang ngồi t�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Chân dung nhà hàng ngoài trời ở London với Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Chân dung nhà hàng ngoài trời ở London với Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Chân dung nhà hàng ngoài trời ở London với Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Chân dung nhà hàng ngoài trời ở London với Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -432,7 +432,7 @@ Nhật ký giấc mơ. Một chú Kirby màu hồng đang ngủ trên ngôi sao,
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Nhật ký giấc mơ với Kirby thổi bong bóng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Nhật ký giấc mơ với Kirby thổi bong bóng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -535,7 +535,7 @@ Một prompt Nano Banana rất chi tiết mô tả ảnh selfie trước gương
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Cảnh căn phòng otaku chụp ảnh selfie qua gương chi tiết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Cảnh căn phòng otaku chụp ảnh selfie qua gương chi tiết - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -589,7 +589,7 @@ Tỷ lệ khung hình là 3:4 cho poster dọc. Bao gồm chữ thư pháp Nhậ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Tái hiện một cảnh hiện đại theo phong cách tranh Ukiyo-e thời Edo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Tái hiện một cảnh hiện đại theo phong cách tranh Ukiyo-e thời Edo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -628,7 +628,7 @@ Một lời nhắc Nano Banana Pro ngắn gọn để tạo ảnh chân dung stu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Lời nhắc tạo ảnh chân dung studio đen trắng chụp nghiêng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Lời nhắc tạo ảnh chân dung studio đen trắng chụp nghiêng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -663,13 +663,13 @@ Một bức ảnh kỹ thuật số độ phân giải thấp được chụp b�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="Ảnh chụp nhanh khu ẩm thực trung tâm thương mại Sony CyberShot năm 2005 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="Ảnh chụp nhanh khu ẩm thực trung tâm thương mại Sony CyberShot năm 2005 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="Ảnh chụp nhanh khu ẩm thực trung tâm thương mại Sony CyberShot năm 2005 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="Ảnh chụp nhanh khu ẩm thực trung tâm thương mại Sony CyberShot năm 2005 - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -707,7 +707,7 @@ Tải lên hình ảnh bạn muốn thay đổi kích thước và yêu cầu, "
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Thay đổi kích thước hình ảnh với Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Thay đổi kích thước hình ảnh với Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -740,7 +740,7 @@ Một prompt cho Nano Banana Pro để tạo ra một hình ảnh siêu thực, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Gợi ý ảnh: Người khổng lồ ôm Tháp Tokyo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Gợi ý ảnh: Người khổng lồ ôm Tháp Tokyo - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -773,7 +773,7 @@ Dựa trên hình ảnh tham khảo, tái tạo cảnh vật thành một tác p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Tác phẩm điêu khắc 3D theo trường phái Pointillism từ những quả châu Giáng sinh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Tác phẩm điêu khắc 3D theo trường phái Pointillism từ những quả châu Giáng sinh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -806,7 +806,7 @@ Vui lòng làm sắc nét và cải thiện độ phân giải của bức tranh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Lời nhắc cải thiện độ sắc nét và độ phân giải hình ảnh cho Google Gemini A.I. - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Lời nhắc cải thiện độ sắc nét và độ phân giải hình ảnh cho Google Gemini A.I. - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -913,7 +913,7 @@ Một mẫu JSON toàn diện được thiết kế cho Nano Banana Pro để t�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Mẫu JSON Chung cho Quảng cáo Sản phẩm Biên tập - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Mẫu JSON Chung cho Quảng cáo Sản phẩm Biên tập - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -977,7 +977,7 @@ Một lời nhắc JSON chi tiết, có cấu trúc dành cho Google Gemini/Nano
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Prompt có cấu trúc để tạo Chân dung Biếm họa Siêu thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Prompt có cấu trúc để tạo Chân dung Biếm họa Siêu thực - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1011,7 +1011,7 @@ Một bức ảnh danh thiếp kinh doanh tương lai theo phong cách cyber-aes
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Danh thiếp kinh doanh tương lai theo phong cách Cyber-Aesthetic chân thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Danh thiếp kinh doanh tương lai theo phong cách Cyber-Aesthetic chân thực - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1045,25 +1045,25 @@ Cảnh kể chuyện điện ảnh về {argument name="characters" default="cha
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Lời nhắc tạo cảnh kể chuyện điện ảnh - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1096,13 +1096,13 @@ Người phụ nữ tóc đỏ trong chiếc váy cổ điển thêu xuyên th�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Bức Tượng Bán Thân Cẩm Thạch U Sầu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Bức Tượng Bán Thân Cẩm Thạch U Sầu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Bức Tượng Bán Thân Cẩm Thạch U Sầu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Bức Tượng Bán Thân Cẩm Thạch U Sầu - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1148,7 +1148,7 @@ Một lời nhắc JSON cho Nano Banana Pro được thiết kế để tạo ra
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="Gợi ý về phong cách Thẩm mỹ Cô gái Buồn Mùa thu trên Tumblr năm 2013 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="Gợi ý về phong cách Thẩm mỹ Cô gái Buồn Mùa thu trên Tumblr năm 2013 - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1181,7 +1181,7 @@ Tạo một hình ảnh có họa tiết mô phỏng bản in, phủ lên đó l
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Tin nhắn Graffiti viết tay gửi Thần tượng yêu thích - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Tin nhắn Graffiti viết tay gửi Thần tượng yêu thích - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1237,7 +1237,7 @@ Một câu lệnh có cấu trúc để tạo ra một bức chân dung ngoài t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Chân dung điện ảnh 8K ngoài trời trên ban công - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Chân dung điện ảnh 8K ngoài trời trên ban công - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1271,13 +1271,13 @@ Một câu lệnh hình ảnh đơn giản để tạo ảnh những người n�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Ảnh tự sướng cùng người nổi tiếng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Ảnh tự sướng cùng người nổi tiếng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Ảnh tự sướng cùng người nổi tiếng - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Ảnh tự sướng cùng người nổi tiếng - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1310,7 +1310,7 @@ Cho tôi xem hình ảnh này được chiếu trên quả cầu Las Vegas từ 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Chiếu hình ảnh lên Las Vegas Sphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Chiếu hình ảnh lên Las Vegas Sphere - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1405,7 +1405,7 @@ Một lời nhắc JSON cực kỳ chi tiết để tạo ra một bức chân d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Lời nhắc: Chân dung thân mật màu nâu đỏ với ánh sáng Rembrandt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Lời nhắc: Chân dung thân mật màu nâu đỏ với ánh sáng Rembrandt - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1438,25 +1438,25 @@ Hãy cho họ đeo kính. Kính gọng tròn không vành.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="So sánh các mô hình kết xuất kính - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1517,13 +1517,13 @@ Một lời nhắc chi tiết định dạng JSON để tạo ảnh selfie cận
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Ảnh Tự Chụp Gương Phong Cách Instagram Với Ốp Lưng Điện Thoại Hình Rồng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Ảnh Tự Chụp Gương Phong Cách Instagram Với Ốp Lưng Điện Thoại Hình Rồng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Ảnh Tự Chụp Gương Phong Cách Instagram Với Ốp Lưng Điện Thoại Hình Rồng - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Ảnh Tự Chụp Gương Phong Cách Instagram Với Ốp Lưng Điện Thoại Hình Rồng - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1556,13 +1556,13 @@ Tạo một bức ảnh selfie siêu thực trong gương, trong đó có một 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Ảnh Tự Sướng Gương Siêu Thực Kèm Sản Phẩm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Ảnh Tự Sướng Gương Siêu Thực Kèm Sản Phẩm - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Ảnh Tự Sướng Gương Siêu Thực Kèm Sản Phẩm - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Ảnh Tự Sướng Gương Siêu Thực Kèm Sản Phẩm - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1595,7 +1595,7 @@ Tạo một áp phích "Bảng chữ cái nghề nghiệp" đầy màu sắc cho
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Áp phích giáo dục đầy màu sắc "Bảng chữ cái nghề nghiệp" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Áp phích giáo dục đầy màu sắc "Bảng chữ cái nghề nghiệp" - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1658,25 +1658,25 @@ Không chụp ảnh bằng đèn flash
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Chân dung 8K trong nhà hàng sang trọng - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1759,7 +1759,7 @@ Một JSON prompt chi tiết để tạo ảnh chân dung studio chất lượng
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Chụp Chân Dung Studio Với Tóc Búi Không Gian Và Lớp Phủ Kim Tuyến - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Chụp Chân Dung Studio Với Tóc Búi Không Gian Và Lớp Phủ Kim Tuyến - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1792,13 +1792,13 @@ bản đồ quy hoạch đô thị vẽ tay
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="Bản đồ quy hoạch đô thị vẽ tay từ góc nhìn 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="Bản đồ quy hoạch đô thị vẽ tay từ góc nhìn 3D - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="Bản đồ quy hoạch đô thị vẽ tay từ góc nhìn 3D - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="Bản đồ quy hoạch đô thị vẽ tay từ góc nhìn 3D - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1831,7 +1831,7 @@ Một lời nhắc được thiết kế để tạo ra một bức chân dung c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Chân dung cận cảnh siêu thực dưới nước - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Chân dung cận cảnh siêu thực dưới nước - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1865,19 +1865,19 @@ Tạo một bức ảnh hoàn toàn đẳng cự. Đây không phải là ảnh 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="Lời nhắc tạo ảnh Isometric - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -1910,7 +1910,7 @@ hướng về phía trước, màn hình thẳng, cận cảnh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Lời nhắc chụp màn hình đơn giản - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Lời nhắc chụp màn hình đơn giản - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1944,13 +1944,13 @@ Quay phim macro cực cận cảnh {argument name="Food Item" default="[Food Ite
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Quay phim cận cảnh siêu macro về thực phẩm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Quay phim cận cảnh siêu macro về thực phẩm - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Quay phim cận cảnh siêu macro về thực phẩm - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Quay phim cận cảnh siêu macro về thực phẩm - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -1983,7 +1983,7 @@ Một trò chơi tự động phân tích và chỉnh sửa hình ảnh.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Mô tả công cụ phân tích và chỉnh sửa hình ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Mô tả công cụ phân tích và chỉnh sửa hình ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2061,7 +2061,7 @@ Một lời nhắc JSON chi tiết cho Gemini Nano Banana Pro, hoạt động nh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Yêu cầu phân tích hình ảnh: Ảnh tự chụp trong tàu điện ngầm phong cách Y2K Grunge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Yêu cầu phân tích hình ảnh: Ảnh tự chụp trong tàu điện ngầm phong cách Y2K Grunge - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2101,7 +2101,7 @@ Bước 3, Bố cục và Văn bản: Tạo kiểu chữ tiếng Trung được 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Tranh áp phích 3D Diorama chuẩn bảo tàng về các sự kiện lịch sử - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Tranh áp phích 3D Diorama chuẩn bảo tàng về các sự kiện lịch sử - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2138,7 +2138,7 @@ Một mẫu JSON prompt chi tiết để tạo ảnh sản phẩm phong cách s�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Lời nhắc tạo ảnh sản phẩm phong cách sống siêu thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Lời nhắc tạo ảnh sản phẩm phong cách sống siêu thực - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2171,13 +2171,13 @@ Cho tôi xem 5 phút trước đó để tôi biết tại sao anh ấy lại kh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Lời nhắc tạo ảnh theo ngữ cảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Lời nhắc tạo ảnh theo ngữ cảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Lời nhắc tạo ảnh theo ngữ cảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Lời nhắc tạo ảnh theo ngữ cảnh - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -2237,7 +2237,7 @@ Một JSON prompt cho Nano Banana Pro để tạo ra một bức ảnh mềm m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Gợi ý về ảnh selfie tạo dáng trước gương có tính thẩm mỹ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Gợi ý về ảnh selfie tạo dáng trước gương có tính thẩm mỹ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2271,13 +2271,13 @@ Chân dung một nhân vật đang ngồi thời trang, với đường viền v
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="Chân dung thời trang với lớp phủ khung TikTok - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="Chân dung thời trang với lớp phủ khung TikTok - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="Chân dung thời trang với lớp phủ khung TikTok - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="Chân dung thời trang với lớp phủ khung TikTok - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -2349,7 +2349,7 @@ Một JSON prompt cho Nano Banana Pro 3.0 để tạo ra một hình ảnh tối
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Đèn Spotlight Silhouette Tối Giản với Chữ Ký - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Đèn Spotlight Silhouette Tối Giản với Chữ Ký - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2450,7 +2450,7 @@ Một lời nhắc chi tiết định dạng JSON để tạo ra hình ảnh ch�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Tiệc sinh nhật chủ đề Barbie-Core cho cô gái nhỏ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Tiệc sinh nhật chủ đề Barbie-Core cho cô gái nhỏ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2485,25 +2485,25 @@ Nhân vật: theo phong cách chibi/tượng nhỏ — [{argument name="characte
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Phòng thu nhỏ 3D Isometric với nhân vật Chibi - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -2573,7 +2573,7 @@ Một lời nhắc tạo ảnh chi tiết cho một bức ảnh chụp nhanh, g�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Ảnh chụp nhanh phong cách Y2K Grunge Flash - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Ảnh chụp nhanh phong cách Y2K Grunge Flash - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2632,13 +2632,13 @@ Aspect_Ratio: {argument name="example aspect ratio" default="4:7"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Lời Nhắc Du Hành Thời Gian Điện Ảnh Chia Đôi Màn Hình - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Lời Nhắc Du Hành Thời Gian Điện Ảnh Chia Đôi Màn Hình - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Lời Nhắc Du Hành Thời Gian Điện Ảnh Chia Đôi Màn Hình - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Lời Nhắc Du Hành Thời Gian Điện Ảnh Chia Đôi Màn Hình - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -2671,25 +2671,25 @@ Thay thế chủ thể trong @img2 bằng chủ thể trong @img1.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Nhắc Thay Thế Chủ Thể (Ảnh sang Ảnh) - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -2738,7 +2738,7 @@ Cảnh Giáng sinh siêu thực và kỳ ảo, một quả cầu tuyết khổng
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Gợi ý cảnh Giáng sinh quả cầu tuyết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Gợi ý cảnh Giáng sinh quả cầu tuyết - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2848,7 +2848,7 @@ Một JSON prompt rất chi tiết để tạo ra một bức chân dung cận c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Chân Dung Điện Ảnh Ấm Áp Với Ánh Sáng Tungsten - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Chân Dung Điện Ảnh Ấm Áp Với Ánh Sáng Tungsten - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2881,7 +2881,7 @@ Khu phức hợp kim tự tháp Maya cổ đại siêu thực được xây dự
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Lời nhắc: Mô hình kim tự tháp Maya siêu thực từ hạt cà phê - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Lời nhắc: Mô hình kim tự tháp Maya siêu thực từ hạt cà phê - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2916,7 +2916,7 @@ Màu sắc tổng thể nên nhạt và được thể hiện mềm mại.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Lời nhắc ảnh thẩm mỹ cho Instagram/X - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Lời nhắc ảnh thẩm mỹ cho Instagram/X - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -2949,13 +2949,13 @@ Stylebook, Collage, strong stickers, Polaroid, nhiều ảnh của cùng một n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Sổ tay phong cách Kawaii cắt dán với hiệu ứng Polaroid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Sổ tay phong cách Kawaii cắt dán với hiệu ứng Polaroid - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Sổ tay phong cách Kawaii cắt dán với hiệu ứng Polaroid - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Sổ tay phong cách Kawaii cắt dán với hiệu ứng Polaroid - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3002,7 +3002,7 @@ Tâm trạng & Tường thuật: Căng thẳng tân noir — một cuộc đánh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Góc nhìn từ dưới lên kiểu phim Noir điện ảnh nâng cao - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Góc nhìn từ dưới lên kiểu phim Noir điện ảnh nâng cao - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3043,7 +3043,7 @@ Một lời nhắc để tạo ra hình ảnh khoa học viễn tưởng cyberpu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Cô Gái Đỉnh Núi Cyberpunk - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Cô Gái Đỉnh Núi Cyberpunk - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3117,13 +3117,13 @@ Một JSON prompt chi tiết để tạo ảnh selfie chân dung cận cảnh, c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="Lời nhắc JSON Chân dung tự chụp E-Girl/Soft Goth - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="Lời nhắc JSON Chân dung tự chụp E-Girl/Soft Goth - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="Lời nhắc JSON Chân dung tự chụp E-Girl/Soft Goth - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="Lời nhắc JSON Chân dung tự chụp E-Girl/Soft Goth - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3191,7 +3191,7 @@ Một lời nhắc tạo ảnh chi tiết cho cảnh đêm thành phố điện 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Cảnh đêm đô thị điện ảnh với bảng quảng cáo kỹ thuật số - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Cảnh đêm đô thị điện ảnh với bảng quảng cáo kỹ thuật số - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3253,7 +3253,7 @@ Tạo một bố cục sổ lưu niệm-nhật ký trực quan mạnh mẽ, ch�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Lời nhắc chú thích hình ảnh và bình luận khen ngợi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Lời nhắc chú thích hình ảnh và bình luận khen ngợi - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3316,7 +3316,7 @@ Xây dựng thiết kế bằng cách thực hiện quy trình tư duy sau trư�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="Gợi ý thiết kế lại UI/UX (Phong cách Pop Design) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="Gợi ý thiết kế lại UI/UX (Phong cách Pop Design) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3350,13 +3350,13 @@ Một hình minh họa 2D phẳng đầy ngẫu hứng về MỘT chai {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Minh họa Kiến trúc Sản phẩm Isometric Kỳ ảo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Minh họa Kiến trúc Sản phẩm Isometric Kỳ ảo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Minh họa Kiến trúc Sản phẩm Isometric Kỳ ảo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Minh họa Kiến trúc Sản phẩm Isometric Kỳ ảo - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3394,7 +3394,7 @@ Cuối cùng, đối với bố cục ở phía dưới, hãy tạo văn bản t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="Poster Diorama 3D cho 'Lord of the Mysteries' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="Poster Diorama 3D cho 'Lord of the Mysteries' - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3434,13 +3434,13 @@ Vui lòng tích hợp nhân vật được chỉ định vào khung cảnh thự
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Tạo bộ sưu tập ảnh du lịch phong cách tạp chí - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Tạo bộ sưu tập ảnh du lịch phong cách tạp chí - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Tạo bộ sưu tập ảnh du lịch phong cách tạp chí - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Tạo bộ sưu tập ảnh du lịch phong cách tạp chí - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3483,7 +3483,7 @@ Một lời nhắc chi tiết để tạo ra hình ảnh chụp ảnh đường 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Chân dung quán cà phê châu Âu tự nhiên - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Chân dung quán cà phê châu Âu tự nhiên - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3516,13 +3516,13 @@ Một lời nhắc văn bản đơn giản cho Nano Banana Pro, hướng dẫn n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Yêu cầu phân tích thành phần nhà bếp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Yêu cầu phân tích thành phần nhà bếp - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Yêu cầu phân tích thành phần nhà bếp - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Yêu cầu phân tích thành phần nhà bếp - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3556,25 +3556,25 @@ Một bức biếm họa 3D cách điệu của {argument name="celebrity" defau
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Biếm họa phi hành gia nổi tiếng phong cách Pixar - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -3612,7 +3612,7 @@ tác phẩm nghệ thuật tức thì. 👀🍌✨
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Gợi ý Một Từ Để Tạo Kiệt Tác Ngay Lập Tức - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Gợi ý Một Từ Để Tạo Kiệt Tác Ngay Lập Tức - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3645,7 +3645,7 @@ tạo một bản đồ Thổ Nhĩ Kỳ trong đó mỗi thành phố được t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Bản đồ Thổ Nhĩ Kỳ làm từ thực phẩm địa phương - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Bản đồ Thổ Nhĩ Kỳ làm từ thực phẩm địa phương - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3678,7 +3678,7 @@ Bài xã luận thời trang giám sát phong cách cyber-grunge, 8K Ultra-HD 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Biên tập Thời trang Giám sát Cyber-Grunge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Biên tập Thời trang Giám sát Cyber-Grunge - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3712,7 +3712,7 @@ Các công thức nên được mã hóa màu sắc riêng biệt, tạo ra mộ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Lời nhắc giáo dục về các công thức toán học cấp trung học trên bảng đen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Lời nhắc giáo dục về các công thức toán học cấp trung học trên bảng đen - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3746,7 +3746,7 @@ Một mẹo nhanh để cải thiện đầu ra của Nano Banana Pro bằng cá
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Mẹo sử dụng Nano Banana Pro: Thêm ví dụ để dễ hiểu hơn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Mẹo sử dụng Nano Banana Pro: Thêm ví dụ để dễ hiểu hơn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3865,7 +3865,7 @@ Một JSON prompt cực kỳ chi tiết để tạo ra bức chân dung siêu th
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Chân dung phong cách Douyin Y2K với đèn flash trực tiếp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Chân dung phong cách Douyin Y2K với đèn flash trực tiếp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3928,7 +3928,7 @@ Chủ thể nên xuất hiện sáng và nổi bật rõ ràng so với nền.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K Flash Portrait trong Quán cà phê Giáng sinh Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K Flash Portrait trong Quán cà phê Giáng sinh Prompt - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3963,13 +3963,13 @@ Một lời nhắc hình ảnh 8K chi tiết, siêu thực cho bức chân dung 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Chân dung điện ảnh lộng lẫy với ánh đèn neon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Chân dung điện ảnh lộng lẫy với ánh đèn neon - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Chân dung điện ảnh lộng lẫy với ánh đèn neon - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Chân dung điện ảnh lộng lẫy với ánh đèn neon - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4011,7 +4011,7 @@ Một cảnh quay điện ảnh chia đôi màn hình theo chiều ngang của {
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Cảnh du hành thời gian chia đôi màn hình - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Cảnh du hành thời gian chia đôi màn hình - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4074,13 +4074,13 @@ Chủ thể nên xuất hiện sáng và nổi bật rõ ràng so với nền.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Chân dung phong cách máy ảnh kỹ thuật số Y2K siêu thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Chân dung phong cách máy ảnh kỹ thuật số Y2K siêu thực - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Chân dung phong cách máy ảnh kỹ thuật số Y2K siêu thực - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Chân dung phong cách máy ảnh kỹ thuật số Y2K siêu thực - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4120,7 +4120,7 @@ Cuối cùng, đối với bố cục ở phía dưới, hãy tạo văn bản t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Poster Diorama 3D cho Cảnh Phim/Tiểu Thuyết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Poster Diorama 3D cho Cảnh Phim/Tiểu Thuyết - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4153,7 +4153,7 @@ Trái đất giữa ban ngày — nhưng đột nhiên mọi thứ chìm vào b�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Cảnh mất điện thảm họa vũ trụ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Cảnh mất điện thảm họa vũ trụ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4186,7 +4186,7 @@ Tạo hình minh họa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Phương pháp tạo ảnh dựa trên thẻ cho Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Phương pháp tạo ảnh dựa trên thẻ cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4221,13 +4221,13 @@ Một JSON prompt chi tiết để tạo ra bức ảnh theo phong cách biên t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Phong cách đường phố sành điệu về đêm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Phong cách đường phố sành điệu về đêm - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Phong cách đường phố sành điệu về đêm - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Phong cách đường phố sành điệu về đêm - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4313,13 +4313,13 @@ Một JSON prompt có cấu trúc cao để tạo ra một hình ảnh thời tr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Buổi chụp ảnh thời trang Hải quân siêu thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Buổi chụp ảnh thời trang Hải quân siêu thực - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Buổi chụp ảnh thời trang Hải quân siêu thực - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Buổi chụp ảnh thời trang Hải quân siêu thực - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4352,7 +4352,7 @@ Này, hãy "roast" tôi bằng cách thêm các ghi chú màu đỏ, viết bấ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Roast Me Prompt cho Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Roast Me Prompt cho Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4385,25 +4385,25 @@ Cận cảnh khuôn mặt một cô gái. Ngước nhìn ánh sáng vàng, ánh 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="So sánh tạo ảnh theo lời nhắc: Cận cảnh khuôn mặt một cô gái - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -4436,7 +4436,7 @@ Màn hình máy ảnh kỹ thuật số hiển thị một bức chân dung siê
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Chụp chân dung trên màn hình máy ảnh kỹ thuật số - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Chụp chân dung trên màn hình máy ảnh kỹ thuật số - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4469,25 +4469,25 @@ Nhập tên địa điểm vào nano banana pro, hình ảnh xuất ra sẽ kế
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="Thành Phố Trên Bàn Ăn: Sự Kết Hợp Giữa Ẩm Thực Địa Phương và Các Danh Lam Thắng Cảnh - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -4520,7 +4520,7 @@ Seraphic
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Lời Nhắc Seraphic Một Từ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Lời Nhắc Seraphic Một Từ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4587,13 +4587,13 @@ Một lời nhắc JSON có cấu trúc cho Nano Banana Pro (được sử dụn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Lời nhắc tạo ảnh đại diện AI (Chỉnh sửa góc chụp) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Lời nhắc tạo ảnh đại diện AI (Chỉnh sửa góc chụp) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Lời nhắc tạo ảnh đại diện AI (Chỉnh sửa góc chụp) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Lời nhắc tạo ảnh đại diện AI (Chỉnh sửa góc chụp) - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4672,25 +4672,25 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="Lời nhắc chuyển đổi giải phóng sức mạnh hai bước (tiếng Nhật) - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -4726,13 +4726,13 @@ Hình minh họa kỹ thuật số siêu thực về sự tiến hóa của giao
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Phong cảnh toàn cảnh về sự phát triển giao thông siêu thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Phong cảnh toàn cảnh về sự phát triển giao thông siêu thực - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Phong cảnh toàn cảnh về sự phát triển giao thông siêu thực - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Phong cảnh toàn cảnh về sự phát triển giao thông siêu thực - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4795,7 +4795,7 @@ Một lời nhắc có cấu trúc để tạo ra một bức ảnh selfie toàn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Ảnh Selfie Cosplay Ada Wong Siêu Chân Thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Ảnh Selfie Cosplay Ada Wong Siêu Chân Thực - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4854,7 +4854,7 @@ Sử dụng khả năng suy luận của Nano Banana Pro và thực hiện quy t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Head-top Diorama Prompt cho Nano Banana Pro Agent V1.2 (Công viên giải trí Afro/Cloud) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Head-top Diorama Prompt cho Nano Banana Pro Agent V1.2 (Công viên giải trí Afro/Cloud) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4887,7 +4887,7 @@ Toàn thân một người phụ nữ với đôi chân dài ngoằng, phóng đ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Prompt tạo ảnh chân dài quá khổ (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Prompt tạo ảnh chân dài quá khổ (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4945,7 +4945,7 @@ Một JSON prompt cho Nano Banana Pro để tạo ra một bức chân dung đi�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="Lời nhắc: Chân dung điện ảnh mềm mại, thẩm mỹ của cặp song sinh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="Lời nhắc: Chân dung điện ảnh mềm mại, thẩm mỹ của cặp song sinh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5002,7 +5002,7 @@ Một lời nhắc có cấu trúc để tạo ra một bức chân dung trong n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Chân dung ấm áp trong nhà không dàn dựng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Chân dung ấm áp trong nhà không dàn dựng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5046,25 +5046,25 @@ Phong cách vẽ chấm, kết xuất Pointillism, khắc đen trắng, Gothic �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Trực quan hóa thơ nghệ thuật chấm Gothic - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -5097,7 +5097,7 @@ Một người đàn ông mặc thường phục đang ngồi trên thanh gỗ c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="Ảo ảnh hình ảnh: Cắt hình thân người vô hình - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="Ảo ảnh hình ảnh: Cắt hình thân người vô hình - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5196,7 +5196,7 @@ Một lời nhắc JSON cực kỳ chi tiết, có cấu trúc để tạo ra m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Chân dung selfie gương trên mạng xã hội chi tiết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Chân dung selfie gương trên mạng xã hội chi tiết - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5300,7 +5300,7 @@ Một lời nhắc phức tạp được định dạng JSON, được thiết k
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Ảnh điện thoại chân thực với một chút kinh dị - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Ảnh điện thoại chân thực với một chút kinh dị - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5354,7 +5354,7 @@ Một lời nhắc JSON có cấu trúc cao để tạo ra một bức ảnh th�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Chân Dung Thời Trang Đỏ Đậm Mang Tính Kịch Tính - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Chân Dung Thời Trang Đỏ Đậm Mang Tính Kịch Tính - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5388,25 +5388,25 @@ Một bức biếm họa 3D dễ thương, được cách điệu cao của {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Biếm họa 3D Neon về Người nổi tiếng - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -5481,7 +5481,7 @@ Một lời nhắc JSON chi tiết cho Nano Banana Pro để tạo ra một hìn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Gợi ý chụp ảnh selfie cận cảnh cực đại chú chó con (thiếu sáng) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Gợi ý chụp ảnh selfie cận cảnh cực đại chú chó con (thiếu sáng) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5576,7 +5576,7 @@ Một lời nhắc JSON có cấu trúc cao để tạo ra một bức chân dun
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Chân dung mùa đông điện ảnh 8K ở Jammu & Kashmir - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Chân dung mùa đông điện ảnh 8K ở Jammu & Kashmir - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5711,7 +5711,7 @@ Một lời nhắc phức tạp định dạng JSON để tạo một bức châ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Chân Dung Truyền Thông Hỗn Hợp Với Hình Vẽ Doodles Phong Cách Pop Art - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Chân Dung Truyền Thông Hỗn Hợp Với Hình Vẽ Doodles Phong Cách Pop Art - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5748,7 +5748,7 @@ Khung hình 2: chấp thuận với sự phấn khích, mỉm cười, chỉ v�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Biến hóa meme Drake chỉ trỏ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Biến hóa meme Drake chỉ trỏ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5883,7 +5883,7 @@ Một lời nhắc phức tạp định dạng JSON để tạo ra một bức c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Chân dung đô thị chọn lọc màu của người phụ nữ lớn tuổi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Chân dung đô thị chọn lọc màu của người phụ nữ lớn tuổi - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5916,7 +5916,7 @@ Một khung cảnh hậu tận thế gai góc với ba người sống sót có 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Cảnh sinh tồn hậu tận thế khắc nghiệt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Cảnh sinh tồn hậu tận thế khắc nghiệt - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -5996,7 +5996,7 @@ Vẽ các họa tiết tượng trưng cho Tứ Đại Linh Thần của thế g
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Lời nhắc tạo bản đồ thế giới giả tưởng của Royal Cartographer (Kịch bản chi tiết) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Lời nhắc tạo bản đồ thế giới giả tưởng của Royal Cartographer (Kịch bản chi tiết) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6040,7 +6040,7 @@ Tỷ lệ khung hình: 4:3
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Màn hình chia đôi Time-Blend Quảng trường Thời đại - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Màn hình chia đôi Time-Blend Quảng trường Thời đại - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6073,7 +6073,7 @@ Vui lòng giúp tôi hiểu bài báo này. Đánh dấu các nội dung quan tr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="Chú thích bài báo 'Attention Is All You Need' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="Chú thích bài báo 'Attention Is All You Need' - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6106,7 +6106,7 @@ Tạo một hình ảnh, in ra, sau đó thêm ngẫu nhiên các chú thích vi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Lời nhắc tạo ảnh in có chú thích - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Lời nhắc tạo ảnh in có chú thích - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6139,7 +6139,7 @@ Tạo một hình ảnh, in ra, sau đó thêm ngẫu hứng các chú thích ti
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Gợi ý chú thích và vẽ nguệch ngoạc trên hình ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Gợi ý chú thích và vẽ nguệch ngoạc trên hình ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6192,13 +6192,13 @@ Hoạt ảnh 3D siêu chi tiết, điện ảnh, sống động.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Màn hình gợi ý trò chơi nhảy 3D cho Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Màn hình gợi ý trò chơi nhảy 3D cho Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Màn hình gợi ý trò chơi nhảy 3D cho Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Màn hình gợi ý trò chơi nhảy 3D cho Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -6231,7 +6231,7 @@ Một bức biếm họa 3D được cách điệu cao của người trong ản
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Lời nhắc tạo hình biếm họa 3D lan truyền - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Lời nhắc tạo hình biếm họa 3D lan truyền - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6328,7 +6328,7 @@ Một lời nhắc chi tiết định dạng JSON để tạo ảnh selfie tự 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Ảnh tự sướng góc rộng trong ô tô với cửa sổ trời toàn cảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Ảnh tự sướng góc rộng trong ô tô với cửa sổ trời toàn cảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6392,7 +6392,7 @@ Một lời nhắc có cấu trúc để tạo ra một bức chân dung vẽ ng
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Chân dung nữ vận động viên bóng chuyền vẽ kiểu Doodle sạch sẽ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Chân dung nữ vận động viên bóng chuyền vẽ kiểu Doodle sạch sẽ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6425,7 +6425,7 @@ Một người phụ nữ sành điệu đứng tựa vào bức tường bê t�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Gợi ý tạo ảnh chân dung thời trang cao cấp tối giản phong cách đô thị - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Gợi ý tạo ảnh chân dung thời trang cao cấp tối giản phong cách đô thị - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6557,7 +6557,7 @@ Một lời nhắc JSON có tính kỹ thuật cao và chi tiết để tạo ra
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Chân dung Người có ảnh hưởng Phong cách sống với Mái tóc màu Gừng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Chân dung Người có ảnh hưởng Phong cách sống với Mái tóc màu Gừng - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6591,7 +6591,7 @@ Trộn 'nhiễu' như "{argument name="noise 1" default="garbage house"}" và "{
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Sử dụng lời nhắc "Despair" và "Noise" để tạo tác động cảm xúc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Sử dụng lời nhắc "Despair" và "Noise" để tạo tác động cảm xúc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6654,7 +6654,7 @@ Cảnh quay điện ảnh góc rộng, chia đôi màn hình theo chiều ngang 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Màn hình chia đôi Tokyo Time-Blend - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Màn hình chia đôi Tokyo Time-Blend - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6687,7 +6687,7 @@ Chân dung thời trang siêu chi tiết của một cô gái tuổi teen Hàn Q
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Chân dung thời trang Gothic Lolita siêu chi tiết - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Chân dung thời trang Gothic Lolita siêu chi tiết - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6726,25 +6726,25 @@ Góc nhìn hài hước từ dưới lên: Max sừng sững như một người
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Người khổng lồ hài hước Max Verstappen trong làn pit - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -6813,7 +6813,7 @@ Một JSON prompt cực kỳ chi tiết dành cho Nano Banana Pro để tạo ra
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="Lời nhắc chụp ảnh kỹ thuật số thập niên 2000 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="Lời nhắc chụp ảnh kỹ thuật số thập niên 2000 - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6871,25 +6871,25 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Bốn gợi ý phác thảo và chân dung cho Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -6998,7 +6998,7 @@ Một lời nhắc JSON có cấu trúc, chi tiết cao để tạo ra một hì
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Lời nhắc biên tập thời trang Kawaii Y2K - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Lời nhắc biên tập thời trang Kawaii Y2K - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -7084,7 +7084,7 @@ Một lời nhắc JSON có cấu trúc cao để tạo ra một bức ảnh đi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Ảnh phiêu lưu mùa đông điện ảnh 8K trên chuyến tàu cổ điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Ảnh phiêu lưu mùa đông điện ảnh 8K trên chuyến tàu cổ điển - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -7144,19 +7144,19 @@ Tất cả các yếu tố được kết nối với nhau bằng những cây c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="Tạo cảnh phim điện ảnh theo phong cách 3D - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -7189,13 +7189,13 @@ Chất lượng cao, 4k, chân thực, vườn hoa, đồ ngọt, tươi sáng. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Lời nhắc tạo hình ảnh cho Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Lời nhắc tạo hình ảnh cho Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Lời nhắc tạo hình ảnh cho Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Lời nhắc tạo hình ảnh cho Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -7228,7 +7228,7 @@ phủ lên cái này bằng những nét vẽ, hình vẽ nguệch ngoạc, nh�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Schizophrenic Conspiracy Scribbles Overlay - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Schizophrenic Conspiracy Scribbles Overlay - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -7261,7 +7261,7 @@ Bối cảnh là một bức ảnh chất lượng biên tập, siêu thực, gh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Cảnh quán cà phê điện ảnh đa phương tiện - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Cảnh quán cà phê điện ảnh đa phương tiện - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -7295,7 +7295,7 @@ Giải thích {argument name="task" default="XX"} theo {argument name="number of
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Kỹ thuật Nano Banana Pro Prompt cho người mới bắt đầu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Kỹ thuật Nano Banana Pro Prompt cho người mới bắt đầu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -7378,6 +7378,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T12:26:32.011Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T16:19:15.825Z</sub>
 
 </div>

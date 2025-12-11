@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **1099** |
 | ⭐ 精選 | **12** |
-| 🔄 最後更新 | **2025年12月11日 星期四 中午12:24:46 [UTC]** |
+| 🔄 最後更新 | **2025年12月11日 星期四 下午4:17:55 [UTC]** |
 
 </div>
 
@@ -121,25 +121,25 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="寬版引言卡，附人像及中英文自訂選項 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -177,13 +177,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="手繪風格標題圖片提示，源自照片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="手繪風格標題圖片提示，源自照片 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="手繪風格標題圖片提示，源自照片 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="手繪風格標題圖片提示，源自照片 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -217,7 +217,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="德國水彩地圖，附各邦標籤 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="德國水彩地圖，附各邦標籤 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -253,13 +253,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="黑板風格的 AI 新聞摘要 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="黑板風格的 AI 新聞摘要 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="黑板風格的 AI 新聞摘要 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="黑板風格的 AI 新聞摘要 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="火車廣告風格的書籍廣告圖片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="火車廣告風格的書籍廣告圖片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -357,7 +357,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="根據參考圖片拍攝的奢華簡約產品攝影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="根據參考圖片拍攝的奢華簡約產品攝影 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -392,13 +392,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="倫敦戶外餐廳人像照，使用 Nano Banana Pro 拍攝 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -432,7 +432,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="夢想日記：卡比吹泡泡 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="夢想日記：卡比吹泡泡 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -535,7 +535,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="詳細的鏡中自拍御宅族房間場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="詳細的鏡中自拍御宅族房間場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -589,7 +589,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="江戶時代浮世繪風格的現代場景再詮釋 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="江戶時代浮世繪風格的現代場景再詮釋 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -628,7 +628,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="黑白工作室側身肖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="黑白工作室側身肖像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -663,13 +663,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005 年 Sony CyberShot 商場美食廣場快照提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -707,7 +707,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="使用 Nano Banana Pro 更改圖片大小 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="使用 Nano Banana Pro 更改圖片大小 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -740,7 +740,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="巨型擁抱東京鐵塔照片提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="巨型擁抱東京鐵塔照片提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -773,7 +773,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="聖誕飾品 3D 點彩雕塑 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="聖誕飾品 3D 點彩雕塑 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -806,7 +806,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini AI 的影像銳化與解析度提升提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini AI 的影像銳化與解析度提升提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -913,7 +913,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="用於編輯產品廣告的通用 JSON 範本 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="用於編輯產品廣告的通用 JSON 範本 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -977,7 +977,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="超寫實漫畫肖像的結構化提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="超寫實漫畫肖像的結構化提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1011,7 +1011,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="寫實的賽博美學未來感名片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="寫實的賽博美學未來感名片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1045,25 +1045,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="電影級故事敘述場景生成提示 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1096,13 +1096,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="憂鬱大理石半身像肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="憂鬱大理石半身像肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="憂鬱大理石半身像肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="憂鬱大理石半身像肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1148,7 +1148,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 年 Tumblr 傷感女孩秋季美學提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 年 Tumblr 傷感女孩秋季美學提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1181,7 +1181,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="給最愛偶像的手寫塗鴉訊息 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="給最愛偶像的手寫塗鴉訊息 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1237,7 +1237,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="陽台上的 8K 電影級戶外人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="陽台上的 8K 電影級戶外人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1271,13 +1271,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="名人自拍照 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="名人自拍照 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="名人自拍照 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="名人自拍照 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1310,7 +1310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="圖像投影至拉斯維加斯球體 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="圖像投影至拉斯維加斯球體 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1405,7 +1405,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="親密的赤褐色人像，搭配林布蘭光線提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="親密的赤褐色人像，搭配林布蘭光線提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1438,25 +1438,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="眼鏡渲染模型比較 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="眼鏡渲染模型比較 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="眼鏡渲染模型比較 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="眼鏡渲染模型比較 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="眼鏡渲染模型比較 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="眼鏡渲染模型比較 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="眼鏡渲染模型比較 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="眼鏡渲染模型比較 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1517,13 +1517,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Instagram 美學鏡面自拍，搭配龍圖案手機殼 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Instagram 美學鏡面自拍，搭配龍圖案手機殼 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Instagram 美學鏡面自拍，搭配龍圖案手機殼 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Instagram 美學鏡面自拍，搭配龍圖案手機殼 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1556,13 +1556,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="產品超逼真鏡面自拍 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="產品超逼真鏡面自拍 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="產品超逼真鏡面自拍 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="產品超逼真鏡面自拍 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1595,7 +1595,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="色彩繽紛的「職業 ABC」教育海報 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="色彩繽紛的「職業 ABC」教育海報 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1669,25 +1669,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="豪華餐廳中的 8K 人像 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1770,7 +1770,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="太空髮髻和閃光疊圖的攝影棚肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="太空髮髻和閃光疊圖的攝影棚肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1803,13 +1803,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="從 3D 視角繪製的手繪城市規劃地圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="從 3D 視角繪製的手繪城市規劃地圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="從 3D 視角繪製的手繪城市規劃地圖 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="從 3D 視角繪製的手繪城市規劃地圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1842,7 +1842,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="超現實水下微距肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="超現實水下微距肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1876,19 +1876,19 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="等距照片生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="等距照片生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="等距照片生成提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="等距照片生成提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="等距照片生成提示 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="等距照片生成提示 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -1921,7 +1921,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="簡單的螢幕截圖提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="簡單的螢幕截圖提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1955,13 +1955,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="食物的極致微距攝影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="食物的極致微距攝影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="食物的極致微距攝影 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="食物的極致微距攝影 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -1994,7 +1994,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="影像分析與校正工具說明 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="影像分析與校正工具說明 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2072,7 +2072,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K 頹廢風地鐵自拍圖像分析提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K 頹廢風地鐵自拍圖像分析提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2112,7 +2112,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="博物館級 3D 立體透視海報，重現歷史事件 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="博物館級 3D 立體透視海報，重現歷史事件 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2149,7 +2149,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="超逼真生活風格產品照片提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="超逼真生活風格產品照片提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2182,13 +2182,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="情境式圖像生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="情境式圖像生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="情境式圖像生成提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="情境式圖像生成提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2248,7 +2248,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="鏡面姿勢自拍美學提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="鏡面姿勢自拍美學提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2282,13 +2282,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="時尚人像搭配 TikTok 邊框疊圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="時尚人像搭配 TikTok 邊框疊圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="時尚人像搭配 TikTok 邊框疊圖 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="時尚人像搭配 TikTok 邊框疊圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2360,7 +2360,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Minimal Silhouette Spotlight Prompt with Signature - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="Minimal Silhouette Spotlight Prompt with Signature - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2461,7 +2461,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Barbie-Core 生日女孩慶祝活動 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Barbie-Core 生日女孩慶祝活動 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2496,25 +2496,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="等距 3D 迷你房間與 Q 版角色 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2584,7 +2584,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K 頹廢閃光攝影快照 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K 頹廢閃光攝影快照 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2643,13 +2643,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="分屏電影式時光旅行提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="分屏電影式時光旅行提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="分屏電影式時光旅行提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="分屏電影式時光旅行提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -2682,25 +2682,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="主體替換提示（圖片轉圖片） - Image 4">
 </div>
 
 #### 📌 詳情
@@ -2749,7 +2749,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="雪花球聖誕場景提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="雪花球聖誕場景提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2860,7 +2860,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="電影感暖鎢絲肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="電影感暖鎢絲肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2893,7 +2893,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="超寫實瑪雅金字塔咖啡豆微縮模型提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="超寫實瑪雅金字塔咖啡豆微縮模型提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2928,7 +2928,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Instagram/X 美學照片提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Instagram/X 美學照片提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -2961,13 +2961,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="可愛風格指南拍立得拼貼 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="可愛風格指南拍立得拼貼 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="可愛風格指南拍立得拼貼 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="可愛風格指南拍立得拼貼 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3014,7 +3014,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="強化電影黑色仰視視角 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="強化電影黑色仰視視角 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3055,7 +3055,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="賽博龐克山峰女孩 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="賽博龐克山峰女孩 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3129,13 +3129,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/柔和哥德風自拍肖像 JSON 提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/柔和哥德風自拍肖像 JSON 提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/柔和哥德風自拍肖像 JSON 提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/柔和哥德風自拍肖像 JSON 提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3203,7 +3203,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="數位廣告牌的電影感都市夜景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="數位廣告牌的電影感都市夜景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3265,7 +3265,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="圖像註釋和讚美評論提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="圖像註釋和讚美評論提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3328,7 +3328,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX 重新設計提示（普普風設計風格） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX 重新設計提示（普普風設計風格） - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3362,13 +3362,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="異想天開的等距產品架構插圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="異想天開的等距產品架構插圖 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="異想天開的等距產品架構插圖 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="異想天開的等距產品架構插圖 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3406,7 +3406,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="《詭秘之主》3D 立體透視模型海報 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="《詭秘之主》3D 立體透視模型海報 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3446,13 +3446,13 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="雜誌風格的旅遊照片集錦生成 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="雜誌風格的旅遊照片集錦生成 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="雜誌風格的旅遊照片集錦生成 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="雜誌風格的旅遊照片集錦生成 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3495,7 +3495,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="歐洲咖啡館寫實肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="歐洲咖啡館寫實肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3528,13 +3528,13 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="廚房組件分析提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="廚房組件分析提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="廚房組件分析提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="廚房組件分析提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -3568,25 +3568,25 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Pixar 風格名人太空人漫畫 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -3624,7 +3624,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="一個字提示，即刻創造傑作 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="一個字提示，即刻創造傑作 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3657,7 +3657,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="用當地食材製成的土耳其地圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="用當地食材製成的土耳其地圖 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3690,7 +3690,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="賽博龐克監控時尚專題 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="賽博龐克監控時尚專題 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3724,7 +3724,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="黑板上的高中數學公式教育提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="黑板上的高中數學公式教育提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3758,7 +3758,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="使用 Nano Banana Pro 的秘訣：加入範例以提升理解度 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="使用 Nano Banana Pro 的秘訣：加入範例以提升理解度 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3877,7 +3877,7 @@ Prompt (特輯頁面版本)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Y2K 抖音風格直閃人像提示詞 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Y2K 抖音風格直閃人像提示詞 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3940,7 +3940,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的膠片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K 閃光肖像聖誕咖啡館提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K 閃光肖像聖誕咖啡館提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -3975,13 +3975,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的膠片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="霓虹燈下的迷人電影肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="霓虹燈下的迷人電影肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="霓虹燈下的迷人電影肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="霓虹燈下的迷人電影肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4023,7 +4023,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的膠片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="分割畫面時光旅行場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="分割畫面時光旅行場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4086,13 +4086,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="超寫實 Y2K 數碼相機風格肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="超寫實 Y2K 數碼相機風格肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="超寫實 Y2K 數碼相機風格肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="超寫實 Y2K 數碼相機風格肖像 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4132,7 +4132,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="電影/小說場景的 3D 立體模型海報 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="電影/小說場景的 3D 立體模型海報 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4165,7 +4165,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="宇宙災難停電場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="宇宙災難停電場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4198,7 +4198,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="適用於 Nano Banana Pro 的卡片式圖像生成方法 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="適用於 Nano Banana Pro 的卡片式圖像生成方法 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4233,13 +4233,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="時尚深夜街頭風格特輯 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="時尚深夜街頭風格特輯 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="時尚深夜街頭風格特輯 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="時尚深夜街頭風格特輯 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4325,13 +4325,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="超寫實海軍時尚攝影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="超寫實海軍時尚攝影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="超寫實海軍時尚攝影 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="超寫實海軍時尚攝影 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4364,7 +4364,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="為 Nano Banana Pro 提供的「批評我」提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="為 Nano Banana Pro 提供的「批評我」提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4397,25 +4397,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="圖片生成比較提示：女孩臉部的極致特寫 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -4448,7 +4448,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="數碼相機螢幕人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="數碼相機螢幕人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4481,25 +4481,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="餐桌上的城市：在地美食與地標的融合 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -4532,7 +4532,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="一字熾天使提示詞 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="一字熾天使提示詞 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4599,13 +4599,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="AI 個人資料照片生成提示（斜角拍攝修改） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="AI 個人資料照片生成提示（斜角拍攝修改） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="AI 個人資料照片生成提示（斜角拍攝修改） - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="AI 個人資料照片生成提示（斜角拍攝修改） - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4683,25 +4683,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="兩階段力量釋放轉換提示 (日文) - Image 4">
 </div>
 
 #### 📌 詳情
@@ -4737,13 +4737,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="超寫實交通演進全景景觀提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="超寫實交通演進全景景觀提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="超寫實交通演進全景景觀提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="超寫實交通演進全景景觀提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -4806,7 +4806,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="寫實風格的 Ada Wong Cosplay 自拍 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="寫實風格的 Ada Wong Cosplay 自拍 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4865,7 +4865,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="頭頂立體透視模型提示，適用於 Nano Banana Pro Agent V1.2 (非洲裔/雲端遊樂園) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="頭頂立體透視模型提示，適用於 Nano Banana Pro Agent V1.2 (非洲裔/雲端遊樂園) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4898,7 +4898,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="誇張長腿圖像生成提示 (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="誇張長腿圖像生成提示 (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4956,7 +4956,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="柔和唯美電影風格雙胞胎肖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="柔和唯美電影風格雙胞胎肖像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5013,7 +5013,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="真誠溫暖的室內肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="真誠溫暖的室內肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5057,25 +5057,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="歌德式點畫藝術詩歌視覺化 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5108,7 +5108,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="幻影圖像：隱形軀幹鏤空 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="幻影圖像：隱形軀幹鏤空 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5207,7 +5207,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="社群媒體鏡面自拍肖像特寫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="社群媒體鏡面自拍肖像特寫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5311,7 +5311,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="恐怖風格的寫實手機照片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="恐怖風格的寫實手機照片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5365,7 +5365,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="戲劇性紅色時尚編輯肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="戲劇性紅色時尚編輯肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5399,25 +5399,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="名人的 3D 霓虹漫畫 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5492,7 +5492,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="超近距離小狗自拍提示（低光源） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="超近距離小狗自拍提示（低光源） - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5587,7 +5587,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="查謨與克什米爾 8K 電影級冬季人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="查謨與克什米爾 8K 電影級冬季人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5722,7 +5722,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="普普藝術塗鴉混合媒體肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="普普藝術塗鴉混合媒體肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5759,7 +5759,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Drake 指點迷因轉換 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Drake 指點迷因轉換 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5894,7 +5894,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="選擇性色彩的都會長者肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="選擇性色彩的都會長者肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5927,7 +5927,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="嚴峻的末日倖存者場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="嚴峻的末日倖存者場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6007,7 +6007,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="皇家製圖師奇幻世界地圖提示（詳細情境） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="皇家製圖師奇幻世界地圖提示（詳細情境） - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6051,7 +6051,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="時代廣場時光融合分屏 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="時代廣場時光融合分屏 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6084,7 +6084,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="註解「Attention Is All You Need」論文 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="註解「Attention Is All You Need」論文 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6117,7 +6117,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="帶註解的列印輸出圖像生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="帶註解的列印輸出圖像生成提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6150,7 +6150,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="圖片註釋和塗鴉提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="圖片註釋和塗鴉提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6203,13 +6203,13 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro 的 3D 舞蹈遊戲螢幕提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro 的 3D 舞蹈遊戲螢幕提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro 的 3D 舞蹈遊戲螢幕提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro 的 3D 舞蹈遊戲螢幕提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -6242,7 +6242,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="瘋傳的 3D 漫畫人物生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="瘋傳的 3D 漫畫人物生成提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6343,7 +6343,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="廣角汽車自拍，搭配全景天窗 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="廣角汽車自拍，搭配全景天窗 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6407,7 +6407,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="女性排球運動員的簡潔塗鴉肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="女性排球運動員的簡潔塗鴉肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6440,7 +6440,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="極簡都會高級時裝肖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="極簡都會高級時裝肖像提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6572,7 +6572,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="網紅生活風格肖像，搭配薑色頭髮 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="網紅生活風格肖像，搭配薑色頭髮 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6606,7 +6606,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="運用「絕望」與「噪音」提示詞來營造情感衝擊 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="運用「絕望」與「噪音」提示詞來營造情感衝擊 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6669,7 +6669,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="東京時光交錯分屏 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="東京時光交錯分屏 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6702,7 +6702,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="超精緻哥德蘿莉塔時尚肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="超精緻哥德蘿莉塔時尚肖像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6741,25 +6741,25 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="維斯塔潘在維修區的喜劇巨星風采 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -6829,7 +6829,7 @@ Fuji Film Pro 400H 色彩風格，帶有老鏡頭濾鏡和輕微的底片顆粒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000 年代數碼相機快照提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000 年代數碼相機快照提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -6887,25 +6887,25 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro 的四個素描和肖像提示 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -7014,7 +7014,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K 可愛時尚編輯提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K 可愛時尚編輯提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7100,7 +7100,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="8K 電影級冬季冒險復古火車照片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="8K 電影級冬季冒險復古火車照片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7160,19 +7160,19 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="建立 3D 風格的電影場景 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -7205,13 +7205,13 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro 的圖像生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro 的圖像生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro 的圖像生成提示 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro 的圖像生成提示 - Image 2">
 </div>
 
 #### 📌 詳情
@@ -7244,7 +7244,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="精神分裂症陰謀塗鴉覆蓋 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="精神分裂症陰謀塗鴉覆蓋 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7277,7 +7277,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="混合媒體電影咖啡館場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="混合媒體電影咖啡館場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7311,7 +7311,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Nano Banana Pro 新手提示技巧 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Nano Banana Pro 新手提示技巧 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -7394,6 +7394,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-11T12:24:46.156Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-11T16:17:55.941Z</sub>
 
 </div>

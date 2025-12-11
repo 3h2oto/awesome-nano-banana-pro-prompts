@@ -90,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1099** |
 | ⭐ Öne Çıkan | **12** |
-| 🔄 Son Güncelleme | **11 Aralık 2025 Perşembe 12:30:41 UTC** |
+| 🔄 Son Güncelleme | **11 Aralık 2025 Perşembe 16:22:28 UTC** |
 
 </div>
 
@@ -121,25 +121,25 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="Portreli ve Çince/İngilizce kişiselleştirmeli geniş alıntı kartı - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -177,13 +177,13 @@ Başlık metni: "Google'ın yeni yapay zekası 'Nano Banana Pro'nun derinlemesin
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Fotoğraftan elle çizilmiş tarzda başlık görseli istemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="Fotoğraftan elle çizilmiş tarzda başlık görseli istemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Fotoğraftan elle çizilmiş tarzda başlık görseli istemi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="Fotoğraftan elle çizilmiş tarzda başlık görseli istemi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -217,7 +217,7 @@ Tüm federal eyaletlerin tükenmez kalemle etiketlendiği, suluboya tarzında bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Etiketli eyaletleri olan Almanya suluboya haritası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="Etiketli eyaletleri olan Almanya suluboya haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -253,13 +253,13 @@ Grok'tan arama sonuçları
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Kara tahta tarzı yapay zeka haber özeti - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="Kara tahta tarzı yapay zeka haber özeti - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Kara tahta tarzı yapay zeka haber özeti - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="Kara tahta tarzı yapay zeka haber özeti - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Tren reklamı tarzı kitap reklamı görseli - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="Tren reklamı tarzı kitap reklamı görseli - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -357,7 +357,7 @@ Nihai sonuç, bir derginin arka kapağı veya üst düzey bir marka duyuru poste
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Referans görsele dayalı lüks minimalist ürün fotoğrafçılığı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="Referans görsele dayalı lüks minimalist ürün fotoğrafçılığı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -392,13 +392,13 @@ Mart {argument name="year in english" default="2025"} yılının serin bir Çar�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Nano Banana Pro ile Londra açık hava restoran portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="Nano Banana Pro ile Londra açık hava restoran portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Nano Banana Pro ile Londra açık hava restoran portresi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="Nano Banana Pro ile Londra açık hava restoran portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -432,7 +432,7 @@ Rüya günlüğü. Ağzından gökkuşağı renkli baloncuklar üfleyen, yıldı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Kirby'nin baloncuk üflediği rüya günlüğü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="Kirby'nin baloncuk üflediği rüya günlüğü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -535,7 +535,7 @@ Otaku tarzı bir bilgisayar köşesinde ayna özçekimi, mavi renk tonu.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Ayrıntılı ayna-selfie otaku oda sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="Ayrıntılı ayna-selfie otaku oda sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -589,7 +589,7 @@ En boy oranı 3:4 dikey posterdir. Sahneyi tanımlayan dikey Japon kaligrafisi v
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Modern bir sahnenin Edo dönemi Ukiyo-e yeniden yorumu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="Modern bir sahnenin Edo dönemi Ukiyo-e yeniden yorumu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -628,7 +628,7 @@ Ekli bir referans görseli kullanarak ve boyut ile çıktı sayısını belirter
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Siyah beyaz stüdyo yan profil portre istemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="Siyah beyaz stüdyo yan profil portre istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -663,13 +663,13 @@ Erken dönem dijital fotoğraf makineleriyle çekilmiş, gençlerin olduğu bir 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005 Sony CyberShot alışveriş merkezi yemek alanı anlık görüntü komutu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="2005 Sony CyberShot alışveriş merkezi yemek alanı anlık görüntü komutu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005 Sony CyberShot alışveriş merkezi yemek alanı anlık görüntü komutu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="2005 Sony CyberShot alışveriş merkezi yemek alanı anlık görüntü komutu - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -707,7 +707,7 @@ Boyutunu değiştirmek istediğiniz görseli yükleyin ve şunu isteyin: "En boy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Nano Banana Pro ile Görüntü Boyutunu Değiştirme - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="Nano Banana Pro ile Görüntü Boyutunu Değiştirme - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -740,7 +740,7 @@ Nano Banana Pro için, modern Tokyo şehir manzarası üzerinde çömelmiş dev 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Dev Tokyo Kulesi'ne Sarılan Fotoğraf İsteği - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="Dev Tokyo Kulesi'ne Sarılan Fotoğraf İsteği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -773,7 +773,7 @@ Referans görüntüye dayanarak, sahneyi tamamen sayısız küçük Noel ağacı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Yılbaşı Süslerinden 3 Boyutlu Puantilist Heykel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="Yılbaşı Süslerinden 3 Boyutlu Puantilist Heykel - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -806,7 +806,7 @@ Lütfen bu tablonun çözünürlüğünü, özgünlüğünü koruyarak keskinle�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini A.I. için Görüntü Netleştirme ve Çözünürlük İyileştirme İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Google Gemini A.I. için Görüntü Netleştirme ve Çözünürlük İyileştirme İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -913,7 +913,7 @@ Nano Banana Pro için tasarlanmış, görünür logoları olmayan herhangi bir �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Editoryal Ürün Reklamları için Evrensel JSON Şablonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="Editoryal Ürün Reklamları için Evrensel JSON Şablonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -977,7 +977,7 @@ Yaşlı bir adamın hiperrealist karikatür portresini oluşturmak üzere tasarl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Hiperrealist Karikatür Portre için Yapılandırılmış İstek Metni - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="Hiperrealist Karikatür Portre için Yapılandırılmış İstek Metni - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1011,7 +1011,7 @@ Gerçekçi bir siber-estetik fütüristik kartvizit fotoğrafı: Çerçevenin ç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Gerçekçi Siber-Estetik Fütüristik Kartvizit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="Gerçekçi Siber-Estetik Fütüristik Kartvizit - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1045,25 +1045,25 @@ Nano Banana Pro için, hikaye anlatımı sahnesi için sinematik kareler (kurucu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="Sinematik Hikaye Anlatımı Sahne Oluşturma İstemleri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1096,13 +1096,13 @@ Nano Banana Pro için dramatik, samimi bir sahneye odaklanan kısa bir komut ist
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Melankolik Mermer Büst Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="Melankolik Mermer Büst Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Melankolik Mermer Büst Portresi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="Melankolik Mermer Büst Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1148,7 +1148,7 @@ Nano Banana Pro için dramatik, samimi bir sahneye odaklanan kısa bir komut ist
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 Tumblr Hüzünlü Kız Sonbahar Estetiği İstemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 Tumblr Hüzünlü Kız Sonbahar Estetiği İstemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1181,7 +1181,7 @@ Bir çıktıyı simüle eden dokuya sahip bir görsel oluşturun, üzerine favor
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Favori İdol İçin El Yazısı Graffiti Mesajı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="Favori İdol İçin El Yazısı Graffiti Mesajı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1237,7 +1237,7 @@ Beton bir balkonda genç bir kadının 8K ultra gerçekçi, sinematik dış meka
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Balkonda 8K Sinematik Dış Mekan Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="Balkonda 8K Sinematik Dış Mekan Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1271,13 +1271,13 @@ Beton bir balkonda genç bir kadının 8K ultra gerçekçi, sinematik dış meka
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Ünlü Selfie Fotoğrafı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="Ünlü Selfie Fotoğrafı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Ünlü Selfie Fotoğrafı - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="Ünlü Selfie Fotoğrafı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1310,7 +1310,7 @@ Bu görüntüyü Las Vegas Sphere'da geceleri dışarıdan oynatılmış şekild
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Las Vegas Sphere Üzerine Görüntü Yansıtma - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="Las Vegas Sphere Üzerine Görüntü Yansıtma - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1405,7 +1405,7 @@ Kızıl saçlı ve çilli bir kişinin samimi, yoğun bir portresini oluşturmak
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Rembrandt Aydınlatmalı Samimi Auburn Portre İstemci Metni - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="Rembrandt Aydınlatmalı Samimi Auburn Portre İstemci Metni - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1438,25 +1438,25 @@ Onlara gözlük taktırın. Çerçevesiz yuvarlak gözlükler.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="Gözlük Oluşturma Modellerinin Karşılaştırılması - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1517,13 +1517,13 @@ Konu kişinin tam profesyonel makyajına, koyu dalgalı saçlarına ve parlak ma
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Ejderha Telefon Kılıflı Instagram Estetik Ayna Selfie'si - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="Ejderha Telefon Kılıflı Instagram Estetik Ayna Selfie'si - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Ejderha Telefon Kılıflı Instagram Estetik Ayna Selfie'si - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="Ejderha Telefon Kılıflı Instagram Estetik Ayna Selfie'si - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1556,13 +1556,13 @@ Doğal banyo aydınlatması ve aynada elde tutulan telefonun gerçekçi bir yans
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Ürünle Birlikte Hiper Gerçekçi Ayna Selfiesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="Ürünle Birlikte Hiper Gerçekçi Ayna Selfiesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Ürünle Birlikte Hiper Gerçekçi Ayna Selfiesi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="Ürünle Birlikte Hiper Gerçekçi Ayna Selfiesi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1595,7 +1595,7 @@ Doğal banyo aydınlatması ve aynada elde tutulan telefonun gerçekçi bir yans
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Renkli 'Meslekler ABC'si' Eğitici Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="Renkli 'Meslekler ABC'si' Eğitici Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1658,25 +1658,25 @@ Flaşlı fotoğrafçılık yok
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="Lüks Bir Restoranda 8K Portre - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1759,7 +1759,7 @@ Kadın bir öznenin yüksek kaliteli stüdyo portresini oluşturmak için ayrın
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Uzay Topuzları ve Parıltılı Katman ile Stüdyo Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="Uzay Topuzları ve Parıltılı Katman ile Stüdyo Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1792,13 +1792,13 @@ elle çizilmiş şehir planlama haritası
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="3D Görünümden Elle Çizilmiş Şehir Planlama Haritası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="3D Görünümden Elle Çizilmiş Şehir Planlama Haritası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="3D Görünümden Elle Çizilmiş Şehir Planlama Haritası - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="3D Görünümden Elle Çizilmiş Şehir Planlama Haritası - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1831,7 +1831,7 @@ Hiper gerçekçi, sürrealist bir yakın çekim portre oluşturmak için tasarla
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Sürreal Su Altı Makro Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="Sürreal Su Altı Makro Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1865,19 +1865,19 @@ Mükemmel izometrik bir fotoğraf çekin. Bu bir minyatür değil; sadece mükem
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="İzometrik Fotoğraf Oluşturma İstemleri - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -1910,7 +1910,7 @@ Nano Banana Pro için monitör çekiminin kompozisyonunu ve çerçevelemesini be
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Basit Monitör Çekimi İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="Basit Monitör Çekimi İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1944,13 +1944,13 @@ Bir yiyecek maddesinin aşırı makro çekimini oluşturmak için bir istem. Dok
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Yiyeceklerin Aşırı Makro Sinematografisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="Yiyeceklerin Aşırı Makro Sinematografisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Yiyeceklerin Aşırı Makro Sinematografisi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="Yiyeceklerin Aşırı Makro Sinematografisi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -1983,7 +1983,7 @@ Görüntüleri otomatik olarak analiz eden ve düzelten bir oyun.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Görüntü Analizi ve Düzeltme Aracı Açıklaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="Görüntü Analizi ve Düzeltme Aracı Açıklaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2061,7 +2061,7 @@ Gemini Nano Banana Pro için, görüntü analizi ve oluşturma talimatı olarak 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K Grunge Metro Selfie Görsel Analiz İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="Y2K Grunge Metro Selfie Görsel Analiz İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2101,7 +2101,7 @@ Adım 3, Düzen ve Metin: Alt kısımda ortalanmış Çince tipografi oluşturun
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Tarihi Olaylar için Müze Kalitesinde 3 Boyutlu Diorama Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="Tarihi Olaylar için Müze Kalitesinde 3 Boyutlu Diorama Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2138,7 +2138,7 @@ Belirli bir ürünü rustik ahşap bir tabure üzerine yerleştiren, arka planda
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Hiper gerçekçi Yaşam Tarzı Ürün Fotoğrafı İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="Hiper gerçekçi Yaşam Tarzı Ürün Fotoğrafı İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2171,13 +2171,13 @@ Neden üzgün olduğunu anlayabilmem için bana 5 dakika öncesini göster.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Bağlamsal Görüntü Oluşturma İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="Bağlamsal Görüntü Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Bağlamsal Görüntü Oluşturma İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="Bağlamsal Görüntü Oluşturma İstemleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2237,7 +2237,7 @@ Nano Banana Pro için, düşük açıdan çekilmiş bir ayna selfiesini taklit e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Ayna Pozu Selfie Estetiği İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="Ayna Pozu Selfie Estetiği İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2271,13 +2271,13 @@ Arka planda beyaz 3D [TikTok] kenarlık silüeti ve logosu bulunan, modaya uygun
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="TikTok Çerçeve Katmanlı Moda Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="TikTok Çerçeve Katmanlı Moda Portresi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="TikTok Çerçeve Katmanlı Moda Portresi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="TikTok Çerçeve Katmanlı Moda Portresi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2349,7 +2349,7 @@ Nano Banana Pro 3.0 için, siyah bir boşlukta tek bir yukarıdan gelen spot ı�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="İmza ile Minimal Siluet Spot Işığı İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="İmza ile Minimal Siluet Spot Işığı İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2450,7 +2450,7 @@ Doğum gününü kutlayan, elinde pasta tutan, pembe desenli iki parçalı bir k
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Barbie-Core Doğum Günü Kızı Kutlaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="Barbie-Core Doğum Günü Kızı Kutlaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2485,25 +2485,25 @@ Karakter: chibi/figürin tarzında — [{argument name="character description" d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="Chibi Karakterli İzometrik 3D Minyatür Oda - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -2573,7 +2573,7 @@ Bir bar taburesinde oturan genç bir kadının gündelik, yüksek açılı bir a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K Grunge Flaş Fotoğrafçılığı Anlık Görüntüsü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K Grunge Flaş Fotoğrafçılığı Anlık Görüntüsü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2632,13 +2632,13 @@ En_Boy_Oranı: {argument name="example aspect ratio" default="4:7"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Bölünmüş Ekran Sinematik Zaman Yolculuğu İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="Bölünmüş Ekran Sinematik Zaman Yolculuğu İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Bölünmüş Ekran Sinematik Zaman Yolculuğu İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="Bölünmüş Ekran Sinematik Zaman Yolculuğu İstemleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -2671,25 +2671,25 @@ Bir görüntüdeki özneyi ikinci bir görüntüdeki özneyle değiştirme yeten
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="Konu Değiştirme İstemleri (Görselden Görsele) - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -2738,7 +2738,7 @@ Hiper gerçekçi ve fantastik bir Noel sahnesi, taze kar üzerine yerleştirilmi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Kar Küresi Noel Sahnesi İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="Kar Küresi Noel Sahnesi İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2849,7 +2849,7 @@ Kızıl saçlı ve çilli genç bir kadının yakın, samimi bir portresini olu�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Sinematik Sıcak Tungsten Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="Sinematik Sıcak Tungsten Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2882,7 +2882,7 @@ Farklı kavrulmuş kahve çekirdeklerinden tamamen inşa edilmiş hiperrealist m
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Hipergerçekçi Maya Piramidi Kahve Çekirdeği Minyatürü İstemci Metni - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="Hipergerçekçi Maya Piramidi Kahve Çekirdeği Minyatürü İstemci Metni - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2917,7 +2917,7 @@ Renkler genel olarak soluk ve yumuşak tonlarda olmalıdır.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Instagram/X Estetik Fotoğraf İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="Instagram/X Estetik Fotoğraf İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -2950,13 +2950,13 @@ Stil Kitabı, Kolaj, güçlü çıkartmalar, Polaroid, aynı kişinin çeşitli 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Polaroid Efektli Kawaii Stil Kitabı Kolajı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="Polaroid Efektli Kawaii Stil Kitabı Kolajı - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Polaroid Efektli Kawaii Stil Kitabı Kolajı - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="Polaroid Efektli Kawaii Stil Kitabı Kolajı - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3003,7 +3003,7 @@ Ruh Hali ve Anlatı: Neo-noir gerilim — yüksek riskli bir yeraltı kumarı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Gelişmiş Sinematik Noir Solucan Gözü Görünümü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="Gelişmiş Sinematik Noir Solucan Gözü Görünümü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3044,7 +3044,7 @@ Neon ışıklı bir dağ zirvesinde duran, hologramlar ve parlayan şehirlerle d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Siberpunk Dağ Zirvesi Kızı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="Siberpunk Dağ Zirvesi Kızı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3118,13 +3118,13 @@ E-girl/soft goth estetiğine sahip genç bir kadının yakın çekim, göğüs h
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Kız/Soft Gotik Selfie Portre JSON İstemci - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Kız/Soft Gotik Selfie Portre JSON İstemci - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Kız/Soft Gotik Selfie Portre JSON İstemci - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Kız/Soft Gotik Selfie Portre JSON İstemci - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3192,7 +3192,7 @@ E-girl/soft goth estetiğine sahip genç bir kadının yakın çekim, göğüs h
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Dijital Reklam Panosuyla Sinematik Şehir Gece Manzarası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="Dijital Reklam Panosuyla Sinematik Şehir Gece Manzarası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3254,7 +3254,7 @@ Tüm görüntüye duygusal ve etkileyici bir "kişisel övgü yorumu" estetiği 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Görsel Açıklaması ve Övgü Yorumu İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="Görsel Açıklaması ve Övgü Yorumu İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3317,7 +3317,7 @@ Ekli görseli (veya görsel ekli değilse giriş metnini) analiz edin ve yalnız
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX Yeniden Tasarım İstemcisi (Pop Tasarım Stili) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="UI/UX Yeniden Tasarım İstemcisi (Pop Tasarım Stili) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3351,13 +3351,13 @@ Hareketli bir minyatür binaya dönüşmüş TEK bir dev {argument name="Product
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Hayali İzometrik Ürün Mimarisi İllüstrasyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="Hayali İzometrik Ürün Mimarisi İllüstrasyonu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Hayali İzometrik Ürün Mimarisi İllüstrasyonu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="Hayali İzometrik Ürün Mimarisi İllüstrasyonu - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3395,7 +3395,7 @@ Son olarak, alttaki düzen için Çince metin oluşturun. Romanın adını, orij
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="'Lord of the Mysteries' için 3D Diyorama Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="'Lord of the Mysteries' için 3D Diyorama Poster - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3435,13 +3435,13 @@ Lütfen belirtilen karakteri [{argument name="location" default="Shanghai Disney
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Dergi Tarzı Seyahat Fotoğrafı Koleksiyonu Oluşturma - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="Dergi Tarzı Seyahat Fotoğrafı Koleksiyonu Oluşturma - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Dergi Tarzı Seyahat Fotoğrafı Koleksiyonu Oluşturma - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="Dergi Tarzı Seyahat Fotoğrafı Koleksiyonu Oluşturma - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3484,7 +3484,7 @@ Avrupa'nın eski bir şehrindeki açık hava kafesinde oturan zarif genç bir ka
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Avrupa Kafe Portresi: Samimi Bir Bakış - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="Avrupa Kafe Portresi: Samimi Bir Bakış - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3517,13 +3517,13 @@ Nano Banana Pro için basit bir metin istemi, bir mutfak görüntüsünü analiz
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Mutfak Bileşeni Analizi İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="Mutfak Bileşeni Analizi İstemcisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Mutfak Bileşeni Analizi İstemcisi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="Mutfak Bileşeni Analizi İstemcisi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -3557,25 +3557,25 @@ Yıldızlar arasında süzülen, sevimli bir mini astronot kıyafeti giymiş {ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="Pixar Tarzı Ünlü Astronot Karikatürü - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -3613,7 +3613,7 @@ anında şaheser. 👀🍌✨
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Anında Başyapıt İçin Tek Kelimelik İstem - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="Anında Başyapıt İçin Tek Kelimelik İstem - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3646,7 +3646,7 @@ Türkiye'nin her şehrinin en meşhur yemeğinden yapıldığı bir harita oluş
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Yerel Yiyeceklerden Yapılmış Türkiye Haritası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="Yerel Yiyeceklerden Yapılmış Türkiye Haritası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3679,7 +3679,7 @@ Siber-grunge gözetim moda çekimi, 8K Ultra-HD 4:5 (1440×1920). Yüksek açıl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Siber-Grunge Gözetim Modası Editoryali - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="Siber-Grunge Gözetim Modası Editoryali - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3713,7 +3713,7 @@ Formüller, her formül için renk kodlu olmalı ve bir bakışta anlaşılması
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Lise Matematik Formülleri İçin Kara Tahta Üzerinde Eğitici Bir Metin - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="Lise Matematik Formülleri İçin Kara Tahta Üzerinde Eğitici Bir Metin - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3747,7 +3747,7 @@ Nano Banana Pro'nun çıktısını iyileştirmek için, kavramları üç somut �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Nano Banana Pro Kullanım İpucu: Daha İyi Anlamak İçin Örnekler Ekleme - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="Nano Banana Pro Kullanım İpucu: Daha İyi Anlamak İçin Örnekler Ekleme - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3866,7 +3866,7 @@ Sevimli, bebek yüzlü Asyalı bir kadının eski bir kafe ortamında hiper ger�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Doğrudan Flaşlı Y2K Douyin Tarzı Portre İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="Doğrudan Flaşlı Y2K Douyin Tarzı Portre İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3929,7 +3929,7 @@ Eski lens filtresi ve hafif film greni ile Fuji Film Pro 400H renk stili.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K Noel Kafe Flaş Portresi İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="Y2K Noel Kafe Flaş Portresi İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -3964,13 +3964,13 @@ Siyah bir gece elbisesi giymiş bir kadının, modern bir merdivende oturduğu, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Göz Alıcı Neon Işıklı Sinematik Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="Göz Alıcı Neon Işıklı Sinematik Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Göz Alıcı Neon Işıklı Sinematik Portre - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="Göz Alıcı Neon Işıklı Sinematik Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4012,7 +4012,7 @@ Sahnenin sadece basit bir sol/sağ karşılaştırması değil, binaların, kıy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Bölünmüş Ekranlı Zaman Yolculuğu Sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="Bölünmüş Ekranlı Zaman Yolculuğu Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4075,13 +4075,13 @@ Eski lens filtresi ve hafif film greni ile Fuji Film Pro 400H renk stili.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Hiper Gerçekçi Y2K Dijital Kamera Tarzı Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="Hiper Gerçekçi Y2K Dijital Kamera Tarzı Portre - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Hiper Gerçekçi Y2K Dijital Kamera Tarzı Portre - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="Hiper Gerçekçi Y2K Dijital Kamera Tarzı Portre - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4121,7 +4121,7 @@ Son olarak, alt kısımdaki düzen için Çince metin oluşturun. Romanın adın
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Film/Roman Sahneleri için 3D Diyorama Posteri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="Film/Roman Sahneleri için 3D Diyorama Posteri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4154,7 +4154,7 @@ Gün ortasında Dünya — ama aniden her şey tam bir saniyeliğine zifiri kara
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Kozmik Felaket Karartma Sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="Kozmik Felaket Karartma Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4187,7 +4187,7 @@ Nano Banana Pro'da görüntü oluşturma yöntemini açıklıyor; burada istemle
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Nano Banana Pro için Kart Tabanlı Görüntü Oluşturma Yöntemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="Nano Banana Pro için Kart Tabanlı Görüntü Oluşturma Yöntemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4222,13 +4222,13 @@ Kentsel bir ortamda, gece vakti genç bir kadının editoryal tarzda fotoğrafı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Şık Gece Sokak Stili Editöryeli - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="Şık Gece Sokak Stili Editöryeli - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Şık Gece Sokak Stili Editöryeli - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="Şık Gece Sokak Stili Editöryeli - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4314,13 +4314,13 @@ Yüklenen bir referans görselindeki öznenin tam kimliğini ve saç stilini aç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Hiper Gerçekçi Donanma Moda Çekimi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="Hiper Gerçekçi Donanma Moda Çekimi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Hiper Gerçekçi Donanma Moda Çekimi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="Hiper Gerçekçi Donanma Moda Çekimi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4353,7 +4353,7 @@ Hey, beni kırmızı notlar ekleyerek eleştir, istediğin yere yaz, çizebilirs
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Nano Banana Pro İçin Beni Eleştir Prompt'u - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Nano Banana Pro İçin Beni Eleştir Prompt'u - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4386,25 +4386,25 @@ Bir kızın yüzüne aşırı yakın çekim. Ağaçların arasından süzülen a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="Görsel Oluşturma Karşılaştırma İstemcisi: Bir Kızın Yüzüne Aşırı Yakın Çekim - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4437,7 +4437,7 @@ Koyu renk güneş gözlüğü takan, kaslı, sakallı bir adamın hiper gerçek�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Dijital Kamera Ekranı Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="Dijital Kamera Ekranı Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4470,25 +4470,25 @@ nano banana pro'ya bir yer adı girin; çıktı görüntüsü, yerel spesiyalite
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="Yemek Masasındaki Şehir: Yerel Yemek ve Dönüm Noktası Füzyonu - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4521,7 +4521,7 @@ Seraphic
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Tek Kelimelik Seraphic Komut İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="Tek Kelimelik Seraphic Komut İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4588,13 +4588,13 @@ Nano Banana Pro (Gemini 3.0 aracılığıyla kullanılır) için bir yapay zeka 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Yapay Zeka Profil Fotoğrafı Oluşturma İstemleri (Açılı Çekim Modifikasyonu) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="Yapay Zeka Profil Fotoğrafı Oluşturma İstemleri (Açılı Çekim Modifikasyonu) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Yapay Zeka Profil Fotoğrafı Oluşturma İstemleri (Açılı Çekim Modifikasyonu) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="Yapay Zeka Profil Fotoğrafı Oluşturma İstemleri (Açılı Çekim Modifikasyonu) - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4669,25 +4669,25 @@ düzenleme_talimatları: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="İki Aşamalı Güç Salınımı Dönüşüm İstemcisi (Japonca) - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -4723,13 +4723,13 @@ Nano Banana Pro için, antik kanolardan fütüristik uzay asansörlerine kadar i
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Hiper-gerçekçi Ulaşım Evrimi Panoramik Manzara İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="Hiper-gerçekçi Ulaşım Evrimi Panoramik Manzara İstemcisi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Hiper-gerçekçi Ulaşım Evrimi Panoramik Manzara İstemcisi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="Hiper-gerçekçi Ulaşım Evrimi Panoramik Manzara İstemcisi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -4792,7 +4792,7 @@ RE4 Remake'ten Ada Wong cosplay'i yapan bir kadının fotogerçekçi, tam vücut
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Fotogerçekçi Ada Wong Cosplay Selfie'si - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="Fotogerçekçi Ada Wong Cosplay Selfie'si - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4851,7 +4851,7 @@ Nano Banana Pro'nun çıkarım yeteneğini kullanarak, çizim yapmadan önce aş
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Nano Banana Pro Agent V1.2 için Tepe Diorama İstemleri (Afro/Bulut Eğlence Parkı) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="Nano Banana Pro Agent V1.2 için Tepe Diorama İstemleri (Afro/Bulut Eğlence Parkı) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4884,7 +4884,7 @@ Bacakları abartılı derecede uzun bir kadının tam vücut çekimi (gerçeküs
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Abartılı Uzun Bacaklar Görsel Oluşturma İstemleri (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="Abartılı Uzun Bacaklar Görsel Oluşturma İstemleri (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4942,7 +4942,7 @@ Nano Banana Pro için, alınları birbirine değen, birbirine benzeyen iki genç
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="İkizlerin Yumuşak Estetik Sinematik Portresi İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="İkizlerin Yumuşak Estetik Sinematik Portresi İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -4999,7 +4999,7 @@ Doğal aydınlatma, sığ alan derinliği ve fotoğraf kaplı duvar arka planıy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Samimi, Sıcak İç Mekan Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="Samimi, Sıcak İç Mekan Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5043,25 +5043,25 @@ Noktalama sanatı stili, Puantilizm yorumu, Siyah beyaz gravür, Atmosferik goti
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="Gotik Noktalama Sanatı Şiir Görselleştirmesi - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -5094,7 +5094,7 @@ Gündüz vakti güneşli bir şehir parkındaki ahşap bankta oturan, üzerinde 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="İllüzyon Görüntüsü: Görünmez Gövde Kesiti - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="İllüzyon Görüntüsü: Görünmez Gövde Kesiti - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5193,7 +5193,7 @@ Fotogerçekçi bir sosyal medya ayna selfie'si oluşturmak için son derece ayr�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Ayrıntılı Sosyal Medya Ayna Selfie Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="Ayrıntılı Sosyal Medya Ayna Selfie Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5297,7 +5297,7 @@ Bir yatakta Hello Kitty pijamaları giymiş bir kadının gerçekçi, düzenlenm
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Korku Dokunuşlu Gerçekçi Telefon Fotoğrafı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="Korku Dokunuşlu Gerçekçi Telefon Fotoğrafı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5351,7 +5351,7 @@ Vücuda oturan kırmızı bir elbise ve fötr şapka giyen genç bir kadının u
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Dramatik Kırmızı Moda Editoryal Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="Dramatik Kırmızı Moda Editoryal Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5385,25 +5385,25 @@ Geceleri neon ışıklı bir şehir sokağında duran, sevimli, oldukça stilize
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="Ünlü Birinin 3D Neon Karikatürü - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -5478,7 +5478,7 @@ Nano Banana Pro için, bir kişinin göğsünde uyuyan bir köpek yavrusunun sam
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Aşırı Yakın Çekim Köpek Yavrusu Selfie İstemcisi (Düşük Işık) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="Aşırı Yakın Çekim Köpek Yavrusu Selfie İstemcisi (Düşük Işık) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5573,7 +5573,7 @@ Nano Banana Pro için, bir kişinin göğsünde uyuyan bir köpek yavrusunun sam
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Jammu ve Keşmir'de 8K Sinematik Kış Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="Jammu ve Keşmir'de 8K Sinematik Kış Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5708,7 +5708,7 @@ Nano Banana Pro için, bir kişinin göğsünde uyuyan bir köpek yavrusunun sam
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Pop Art Karalamalarla Karışık Medya Portre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="Pop Art Karalamalarla Karışık Medya Portre - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5745,7 +5745,7 @@ temiz {argument name="background" default="{{fundo}}"}, {argument name="lighting
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Drake İşaret Etme Memi Dönüşümü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="Drake İşaret Etme Memi Dönüşümü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5880,7 +5880,7 @@ Havalı yaşlı bir kadının hiperrealist bir şehir sokağı portresini oluşt
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Yaşlı Kadının Seçici Renkli Kent Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="Yaşlı Kadının Seçici Renkli Kent Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5913,7 +5913,7 @@ Terk edilmiş, çürümüş bir şehir sokağında yürüyen üç silahlı kurtu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Korkunç Kıyamet Sonrası Hayatta Kalan Sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="Korkunç Kıyamet Sonrası Hayatta Kalan Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -5993,7 +5993,7 @@ Bu dünyanın Dört Büyük Ruhunu (Ateş, Su, Rüzgar, Toprak) simgeleyen süsl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Kraliyet Haritacısı Fantezi Dünya Haritası İstemleri (Ayrıntılı Senaryo) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="Kraliyet Haritacısı Fantezi Dünya Haritası İstemleri (Ayrıntılı Senaryo) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6037,7 +6037,7 @@ En Boy Oranı: 4:3
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Times Meydanı Zaman Karışımı Bölünmüş Ekran - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="Times Meydanı Zaman Karışımı Bölünmüş Ekran - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6070,7 +6070,7 @@ Lütfen bu makaleyi anlamama yardımcı olun. Önemli içerikleri (şekiller vey
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="'Attention Is All You Need' Makalesini Açıklamak - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="'Attention Is All You Need' Makalesini Açıklamak - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6103,7 +6103,7 @@ Bir görsel oluşturun, yazdırın ve ardından üzerine kırmızı mürekkeple 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Ek Açıklamalı Çıktı Görüntüsü Oluşturma İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Ek Açıklamalı Çıktı Görüntüsü Oluşturma İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6136,7 +6136,7 @@ Bir görsel oluşturun, çıktısını alın ve ardından kırmızı mürekkep k
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Görsel Açıklaması ve Karalama İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="Görsel Açıklaması ve Karalama İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6189,13 +6189,13 @@ Ultra ayrıntılı, sinematik, sürükleyici, 3D animasyon.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro için 3D Dans Oyunu Ekran İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="Nano Banana Pro için 3D Dans Oyunu Ekran İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro için 3D Dans Oyunu Ekran İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="Nano Banana Pro için 3D Dans Oyunu Ekran İstemleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6228,7 +6228,7 @@ Yüklenen görseldeki kişinin, etkileyici yüz hatları ve eğlenceli abartıla
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Viral 3D Karikatür Oluşturma İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="Viral 3D Karikatür Oluşturma İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6325,7 +6325,7 @@ Panoramik açılır tavanlı modern bir arabada oturan genç bir kadının doğa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Panoramik Sunroof ile Geniş Açılı Araba Selfiesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="Panoramik Sunroof ile Geniş Açılı Araba Selfiesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6389,7 +6389,7 @@ Yüksek detaylı, temiz çizim tarzında, kadın bir voleybolcunun portresini ol
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Kadın Voleybolcu Temiz Doodle Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="Kadın Voleybolcu Temiz Doodle Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6422,7 +6422,7 @@ Modern bir beton duvara yaslanmış şık bir kadın, uzun bir palto, zarif gün
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Minimalist Kentsel Yüksek Moda Portre İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="Minimalist Kentsel Yüksek Moda Portre İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6554,7 +6554,7 @@ Influencer tarzı bir dijital portre oluşturmak için oldukça teknik ve ayrın
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Zencefil Saçlı Influencer Yaşam Tarzı Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Zencefil Saçlı Influencer Yaşam Tarzı Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6588,7 +6588,7 @@ Nano Banana Pro için, isteme "çöp ev" veya "depresif kişi" gibi "gürültü"
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Duygusal Etki İçin 'Umutsuzluk' ve 'Gürültü' İstemlerini Kullanma - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="Duygusal Etki İçin 'Umutsuzluk' ve 'Gürültü' İstemlerini Kullanma - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6651,7 +6651,7 @@ Tokyo'nun sinematik bir geniş açılı çekimini oluşturmak için karmaşık, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Zaman Karışımı Bölünmüş Ekran - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Zaman Karışımı Bölünmüş Ekran - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6684,7 +6684,7 @@ Gotik Lolita kıyafetleri içinde ultra detaylı Koreli genç bir kızın moda p
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Ultra Detaylı Gotik Lolita Moda Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="Ultra Detaylı Gotik Lolita Moda Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6723,25 +6723,25 @@ Parlak arcade tarzı aydınlatma, komik toz bulutları, yüksek hızlı karikat�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Pit Alanında Komik Dev Max Verstappen - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6810,7 +6810,7 @@ Nano Banana Pro için, 2000'li yılların başındaki kompakt bir dijital fotoğ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000'ler Dijital Fotoğraf Makinesi Anlık Görüntü İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="2000'ler Dijital Fotoğraf Makinesi Anlık Görüntü İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6868,25 +6868,25 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="Nano Banana Pro İçin Dört Eskiz ve Portre İstemleri - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -6995,7 +6995,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K Kawaii Moda Editoryal İstemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="Y2K Kawaii Moda Editoryal İstemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7081,7 +7081,7 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Vintage Trende 8K Sinematik Kış Macerası Fotoğrafı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="Vintage Trende 8K Sinematik Kış Macerası Fotoğrafı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7141,19 +7141,19 @@ Garantiler
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="3 boyutlu sinematik bir sahne oluşturun - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -7186,13 +7186,13 @@ Yüksek kaliteli, 4k, gerçekçi, çiçek bahçesi, tatlılar, parlak. Güzel.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro için Görsel Oluşturma İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="Nano Banana Pro için Görsel Oluşturma İstemleri - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro için Görsel Oluşturma İstemleri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="Nano Banana Pro için Görsel Oluşturma İstemleri - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -7225,7 +7225,7 @@ Bunu çılgın şizofrenik komplo karalamaları, beyaz mürekkep, çizimler, not
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Şizofrenik Komplo Karalamaları Katmanı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="Şizofrenik Komplo Karalamaları Katmanı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7258,7 +7258,7 @@ Sahne, sabah ortasında hareketli bir kahvaltı kafesini yakalayan ultra gerçek
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Karma Medya Sinematik Kafe Sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="Karma Medya Sinematik Kafe Sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7292,7 +7292,7 @@ Yeni başlayanlar için {argument name="task" default="XX"} konusunu {argument n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Yeni Başlayanlar İçin Nano Muz Pro İstemi Tekniği - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="Yeni Başlayanlar İçin Nano Muz Pro İstemi Tekniği - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -7375,6 +7375,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-11T12:30:41.833Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-11T16:22:28.956Z</sub>
 
 </div>

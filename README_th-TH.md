@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1099** |
 | ⭐ แนะนำ | **12** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 11 ธันวาคม พ.ศ. 2568 เวลา 12 นาฬิกา 26 นาที 05 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 11 ธันวาคม พ.ศ. 2568 เวลา 16 นาฬิกา 18 นาที 58 วินาที UTC** |
 
 </div>
 
@@ -121,25 +121,25 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 4">
+<img src="https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg" width="700" alt="การ์ดคำคมแนวนอนพร้อมรูปภาพบุคคลและปรับแต่งภาษาจีน/อังกฤษ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -177,13 +177,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="ภาพส่วนหัวสไตล์วาดด้วยมือจากรูปภาพ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885651870_4szbai_G6VZiROagAAqsIh.jpg" width="700" alt="ภาพส่วนหัวสไตล์วาดด้วยมือจากรูปภาพ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="ภาพส่วนหัวสไตล์วาดด้วยมือจากรูปภาพ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg" width="700" alt="ภาพส่วนหัวสไตล์วาดด้วยมือจากรูปภาพ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -217,7 +217,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="แผนที่สีน้ำของเยอรมนีพร้อมระบุชื่อรัฐ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg" width="700" alt="แผนที่สีน้ำของเยอรมนีพร้อมระบุชื่อรัฐ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -253,13 +253,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="สรุปข่าว AI สไตล์กระดานดำ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg" width="700" alt="สรุปข่าว AI สไตล์กระดานดำ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="สรุปข่าว AI สไตล์กระดานดำ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1763885622901_pk1vka_G6P2CkracAINIfP.jpg" width="700" alt="สรุปข่าว AI สไตล์กระดานดำ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -310,7 +310,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="ภาพโฆษณาหนังสือสไตล์ Train-ad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763885539326_yao7in_G6WBYReawAAcp2x.jpg" width="700" alt="ภาพโฆษณาหนังสือสไตล์ Train-ad - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -357,7 +357,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="การถ่ายภาพผลิตภัณฑ์แบบมินิมอลที่หรูหรา โดยอ้างอิงจากภาพตัวอย่าง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915823213_skhwpb_G7Qvxi5bIAAqpfX.jpg" width="700" alt="การถ่ายภาพผลิตภัณฑ์แบบมินิมอลที่หรูหรา โดยอ้างอิงจากภาพตัวอย่าง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -392,13 +392,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="ภาพบุคคลร้านอาหารกลางแจ้งในลอนดอนพร้อม Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909307226_bcwb2i_G7QIraQaoAANflM.jpg" width="700" alt="ภาพบุคคลร้านอาหารกลางแจ้งในลอนดอนพร้อม Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="ภาพบุคคลร้านอาหารกลางแจ้งในลอนดอนพร้อม Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909309972_89pbp7_G7QIrrebwAAGCPK.jpg" width="700" alt="ภาพบุคคลร้านอาหารกลางแจ้งในลอนดอนพร้อม Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -432,7 +432,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="สมุดบันทึกความฝัน Kirby เป่าฟองสบู่ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg" width="700" alt="สมุดบันทึกความฝัน Kirby เป่าฟองสบู่ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -535,7 +535,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="ฉากห้องโอตาคุแบบเซลฟี่หน้ากระจกที่มีรายละเอียด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1763889946850_689z0h_G23i3sJW0AASGUw.jpg" width="700" alt="ฉากห้องโอตาคุแบบเซลฟี่หน้ากระจกที่มีรายละเอียด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -589,7 +589,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="ภาพอุกิโยเอะสมัยเอโดะที่ตีความฉากสมัยใหม่ขึ้นมาใหม่ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764915832381_renotr_G7FuPlzbYAAsuo2.jpg" width="700" alt="ภาพอุกิโยเอะสมัยเอโดะที่ตีความฉากสมัยใหม่ขึ้นมาใหม่ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -628,7 +628,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="พรอมต์: ภาพบุคคลครึ่งตัวด้านข้างแบบสตูดิโอขาวดำ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909188004_owsg5r_G6fQALWbMAAa0C-.jpg" width="700" alt="พรอมต์: ภาพบุคคลครึ่งตัวด้านข้างแบบสตูดิโอขาวดำ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -662,13 +662,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="ภาพถ่ายด่วนจากศูนย์อาหาร Sony CyberShot ปี 2005 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764909293283_f5655t_G7QK4bqbsAEzqlB.jpg" width="700" alt="ภาพถ่ายด่วนจากศูนย์อาหาร Sony CyberShot ปี 2005 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="ภาพถ่ายด่วนจากศูนย์อาหาร Sony CyberShot ปี 2005 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764909295848_nioupc_G7QK4b-acAA2_c9.jpg" width="700" alt="ภาพถ่ายด่วนจากศูนย์อาหาร Sony CyberShot ปี 2005 - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -706,7 +706,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="การเปลี่ยนขนาดรูปภาพด้วย Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg" width="600" alt="การเปลี่ยนขนาดรูปภาพด้วย Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -739,7 +739,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="พรอมต์รูปภาพ: กอดโตเกียวทาวเวอร์ยักษ์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440129717_im8kmt_G7vRj8Pa0AAIrmZ.jpg" width="600" alt="พรอมต์รูปภาพ: กอดโตเกียวทาวเวอร์ยักษ์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -772,7 +772,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="ประติมากรรมพอยทิลลิซึม 3 มิติ จากลูกบอลคริสต์มาส - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440035071_1oeqmi_G7wr8QQWsAA-JwF.jpg" width="600" alt="ประติมากรรมพอยทิลลิซึม 3 มิติ จากลูกบอลคริสต์มาส - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -805,7 +805,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Image Sharpening and Resolution Improvement Prompt for Google Gemini A.I. - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440081193_ggxgwk_G7ws8WIXcAAOzoN.jpg" width="600" alt="Image Sharpening and Resolution Improvement Prompt for Google Gemini A.I. - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -912,7 +912,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="เทมเพลต JSON สากลสำหรับโฆษณาผลิตภัณฑ์จากกองบรรณาธิการ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012154_mi78ui_G7wqnaYWQAAfPbg.jpg" width="600" alt="เทมเพลต JSON สากลสำหรับโฆษณาผลิตภัณฑ์จากกองบรรณาธิการ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -976,7 +976,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="พรอมต์แบบมีโครงสร้างสำหรับภาพเหมือนการ์ตูนล้อเลียนที่สมจริงขั้นสุด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440084247_gvs4ek_G7wfKstaAAAq0dA.jpg" width="600" alt="พรอมต์แบบมีโครงสร้างสำหรับภาพเหมือนการ์ตูนล้อเลียนที่สมจริงขั้นสุด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1010,7 +1010,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="นามบัตรธุรกิจแห่งอนาคต สไตล์ไซเบอร์ที่สมจริง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087242_a1vst5_G7wbubFW4AA-6c2.jpg" width="600" alt="นามบัตรธุรกิจแห่งอนาคต สไตล์ไซเบอร์ที่สมจริง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1044,25 +1044,25 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440015216_z1b8l0_G7wcTy6aMAAxVgG.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440015585_nqheq8_G7wcTyqbQAAtEd0.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440015220_j8c7pt_G7wcTyobAAAbAkX.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440017392_6wcrvn_G7wcTzPaMAkE0Uj.jpg" width="600" alt="พรอมต์การสร้างฉากเล่าเรื่องแบบภาพยนตร์ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1095,13 +1095,13 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="ภาพเหมือนครึ่งตัวหินอ่อนโทนหม่น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143411_qpevzg_G7wZI1pXAAAT1Rt.jpg" width="600" alt="ภาพเหมือนครึ่งตัวหินอ่อนโทนหม่น - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="ภาพเหมือนครึ่งตัวหินอ่อนโทนหม่น - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440144476_h8i5bg_G7wZI1oXkAAopKw.jpg" width="600" alt="ภาพเหมือนครึ่งตัวหินอ่อนโทนหม่น - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1150,7 +1150,7 @@ JSON prompt สำหรับ Nano Banana Pro ที่ออกแบบมา
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 Tumblr Sad Girl Autumn Aesthetic Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440029729_lpmv4s_G7WZzREWIAAJUix.jpg" width="600" alt="2013 Tumblr Sad Girl Autumn Aesthetic Prompt - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1183,7 +1183,7 @@ JSON prompt สำหรับ Nano Banana Pro ที่ออกแบบมา
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="ข้อความกราฟฟิตี้ที่เขียนด้วยลายมือถึงไอดอลคนโปรด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112051_lszpk9_G7wS_G1aMAMioS_.jpg" width="600" alt="ข้อความกราฟฟิตี้ที่เขียนด้วยลายมือถึงไอดอลคนโปรด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1239,7 +1239,7 @@ JSON prompt สำหรับ Nano Banana Pro ที่ออกแบบมา
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="ภาพบุคคลกลางแจ้งแบบภาพยนตร์ 8K บนระเบียง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095380_c56n4f_G7wLWEnaUAA4cFW.jpg" width="600" alt="ภาพบุคคลกลางแจ้งแบบภาพยนตร์ 8K บนระเบียง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1273,13 +1273,13 @@ JSON prompt สำหรับ Nano Banana Pro ที่ออกแบบมา
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="ภาพถ่ายเซลฟี่กับคนดัง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440059497_qmzi3w_G7wB1SQXIAAUeuB.jpg" width="600" alt="ภาพถ่ายเซลฟี่กับคนดัง - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="ภาพถ่ายเซลฟี่กับคนดัง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440059611_zsiwqn_G7wB05KWUAAfoXm.jpg" width="600" alt="ภาพถ่ายเซลฟี่กับคนดัง - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1312,7 +1312,7 @@ JSON prompt สำหรับ Nano Banana Pro ที่ออกแบบมา
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="การฉายภาพบน Las Vegas Sphere - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077063_qi9umy_G7wBgutacAAFIKl.jpg" width="600" alt="การฉายภาพบน Las Vegas Sphere - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1407,7 +1407,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="ภาพบุคคลสีน้ำตาลแดงอันใกล้ชิดด้วยพรอมต์แสง Rembrandt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027006_07i19k_G7wAgXhWAAAfivO.jpg" width="600" alt="ภาพบุคคลสีน้ำตาลแดงอันใกล้ชิดด้วยพรอมต์แสง Rembrandt - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1440,25 +1440,25 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118948_2s4t95_G7v7AbRaMAIbzlI.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440119270_7b5472_G7v65QIaUAA5Z3G.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440119806_5qhw6s_G7v7LasaMAEub7H.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440120574_z9i6t9_G7v7C2WaMAE8Rao.jpg" width="600" alt="การเปรียบเทียบโมเดลสำหรับการเรนเดอร์แว่นตา - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1519,13 +1519,13 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="เซลฟี่หน้ากระจกสไตล์ Instagram พร้อมเคสโทรศัพท์ลายมังกร - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440045216_lwhrpm_G7v2aIFWAAA2bQW.jpg" width="600" alt="เซลฟี่หน้ากระจกสไตล์ Instagram พร้อมเคสโทรศัพท์ลายมังกร - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="เซลฟี่หน้ากระจกสไตล์ Instagram พร้อมเคสโทรศัพท์ลายมังกร - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440045158_c12kej_G7v2aIEW0AAcMWE.jpg" width="600" alt="เซลฟี่หน้ากระจกสไตล์ Instagram พร้อมเคสโทรศัพท์ลายมังกร - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1558,13 +1558,13 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสุดสมจริงพร้อมสินค้า - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037850_ggo5sr_G7vn7XaWIAAZJ4R.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสุดสมจริงพร้อมสินค้า - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสุดสมจริงพร้อมสินค้า - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440038706_0bvpk6_G7vn-C7WgAECPne.jpg" width="600" alt="ภาพเซลฟี่หน้ากระจกสุดสมจริงพร้อมสินค้า - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1597,7 +1597,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="โปสเตอร์เพื่อการศึกษา 'ABC of Jobs' สีสันสดใส - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440057075_38sp76_G7v1NrsaMAE0PiD.jpg" width="600" alt="โปสเตอร์เพื่อการศึกษา 'ABC of Jobs' สีสันสดใส - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1660,25 +1660,25 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="ภาพถ่ายบุคคล 8K ในร้านอาหารหรู - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -1761,7 +1761,7 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอพร้อมทรงผม Space Buns และเอฟเฟกต์กลิตเตอร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440075232_2frebw_G7vwzxoaIAA9r_R.jpg" width="600" alt="ภาพถ่ายบุคคลในสตูดิโอพร้อมทรงผม Space Buns และเอฟเฟกต์กลิตเตอร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1794,13 +1794,13 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="แผนที่วางผังเมืองแบบวาดด้วยมือจากมุมมอง 3 มิติ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052650_vqu88b_G7vtu4daMAEn7F0.jpg" width="600" alt="แผนที่วางผังเมืองแบบวาดด้วยมือจากมุมมอง 3 มิติ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="แผนที่วางผังเมืองแบบวาดด้วยมือจากมุมมอง 3 มิติ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052750_ahv1nl_G7vtzE9aMAA8UVK.jpg" width="600" alt="แผนที่วางผังเมืองแบบวาดด้วยมือจากมุมมอง 3 มิติ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1833,7 +1833,7 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="ภาพมาโครใต้น้ำเหนือจริง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087209_cnozpf_G7vsiZebIAE7hR2.jpg" width="600" alt="ภาพมาโครใต้น้ำเหนือจริง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1867,19 +1867,19 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg" width="600" alt="พรอมต์สำหรับสร้างภาพถ่ายไอโซเมตริก - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -1912,7 +1912,7 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="พรอมต์ภาพหน้าจอแบบง่าย - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140996_1gqoyf_G7vkySLa4AAN0QS.jpg" width="600" alt="พรอมต์ภาพหน้าจอแบบง่าย - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1946,13 +1946,13 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="การถ่ายภาพมาโครอาหารแบบสุดขีด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440042033_lqisan_G7icteIWgAAk5BF.jpg" width="600" alt="การถ่ายภาพมาโครอาหารแบบสุดขีด - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="การถ่ายภาพมาโครอาหารแบบสุดขีด - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440042306_vja2cf_G7icrGkX0AAQ2qd.jpg" width="600" alt="การถ่ายภาพมาโครอาหารแบบสุดขีด - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1985,7 +1985,7 @@ JSON prompt แบบละเอียดสำหรับการสร้�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="คำอธิบายเครื่องมือวิเคราะห์และแก้ไขรูปภาพ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440140509_pxntli_G7vitIpaMAQxHxY.jpg" width="600" alt="คำอธิบายเครื่องมือวิเคราะห์และแก้ไขรูปภาพ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2063,7 +2063,7 @@ JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="คำสั่งวิเคราะห์รูปภาพเซลฟี่บนรถไฟใต้ดินสไตล์ Y2K Grunge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012153_dd3hg1_G7vffDjbYAAw19X.jpg" width="600" alt="คำสั่งวิเคราะห์รูปภาพเซลฟี่บนรถไฟใต้ดินสไตล์ Y2K Grunge - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2103,7 +2103,7 @@ JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D คุณภาพระดับพิพิธภัณฑ์สำหรับเหตุการณ์ทางประวัติศาสตร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440108992_6ytp5n_G7vd16YaMAMf6FN.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D คุณภาพระดับพิพิธภัณฑ์สำหรับเหตุการณ์ทางประวัติศาสตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2140,7 +2140,7 @@ JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="พรอมต์ภาพถ่ายสินค้าไลฟ์สไตล์ที่สมจริงขั้นสุด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440026478_5keu2w_G7vdTQUWYAA2xWr.jpg" width="600" alt="พรอมต์ภาพถ่ายสินค้าไลฟ์สไตล์ที่สมจริงขั้นสุด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2173,13 +2173,13 @@ JSON prompt แบบละเอียดสำหรับ Gemini Nano Banana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปภาพตามบริบท - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440100978_pmo9n4_G7vccvGXgAAefl9.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปภาพตามบริบท - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปภาพตามบริบท - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440101477_frccp2_G7vcembWIAEDAgB.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปภาพตามบริบท - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -2239,7 +2239,7 @@ JSON prompt สำหรับ Nano Banana Pro เพื่อสร้างภ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="พรอมต์สำหรับภาพเซลฟี่สไตล์ Mirror Pose Aesthetic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440021571_yogmth_G7vcT0BaMAcUMmv.jpg" width="600" alt="พรอมต์สำหรับภาพเซลฟี่สไตล์ Mirror Pose Aesthetic - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2273,13 +2273,13 @@ JSON prompt สำหรับ Nano Banana Pro เพื่อสร้างภ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="ภาพถ่ายแฟชั่นพร้อมโอเวอร์เลย์กรอบ TikTok - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440137023_ptkg44_G7vZ_TwagAAn9uw.jpg" width="600" alt="ภาพถ่ายแฟชั่นพร้อมโอเวอร์เลย์กรอบ TikTok - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="ภาพถ่ายแฟชั่นพร้อมโอเวอร์เลย์กรอบ TikTok - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440137374_ex3fjp_G7vZ_TtaMAIwrcO.jpg" width="600" alt="ภาพถ่ายแฟชั่นพร้อมโอเวอร์เลย์กรอบ TikTok - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -2351,7 +2351,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="พรอมต์สปอตไลต์ภาพเงาแบบมินิมอลพร้อมลายเซ็น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440014848_yksbhz_G7vZq4RbsAEjbYj.jpg" width="600" alt="พรอมต์สปอตไลต์ภาพเงาแบบมินิมอลพร้อมลายเซ็น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2452,7 +2452,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="ฉลองวันเกิดในธีม Barbie-Core สำหรับสาว ๆ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049617_cg7w10_G7vXlMUawAA8JSL.jpg" width="600" alt="ฉลองวันเกิดในธีม Barbie-Core สำหรับสาว ๆ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2487,25 +2487,25 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg" width="600" alt="ห้องจำลอง 3 มิติ ไอโซเมตริก พร้อมตัวละครจิบิ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -2575,7 +2575,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="ภาพถ่ายแฟลชสไตล์ Y2K Grunge - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="ภาพถ่ายแฟลชสไตล์ Y2K Grunge - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2634,13 +2634,13 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="พร้อมท์การเดินทางข้ามเวลาแบบภาพยนตร์จอแยก - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440018386_tgfy8q_G7vTTlDagAAe3lk.jpg" width="600" alt="พร้อมท์การเดินทางข้ามเวลาแบบภาพยนตร์จอแยก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="พร้อมท์การเดินทางข้ามเวลาแบบภาพยนตร์จอแยก - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440018644_qi8607_G7vTTk5bcAAK_Me.jpg" width="600" alt="พร้อมท์การเดินทางข้ามเวลาแบบภาพยนตร์จอแยก - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -2673,25 +2673,25 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440040969_07oet9_G7vNLC_a0AATr8r.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440041065_i94w97_G7vNLDBbEAAAqMH.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440041485_3rkw8x_G7vNLDHaUAACD2a.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440043685_9hh3a8_G7vNLDAboAAzT1j.jpg" width="600" alt="พรอมต์เปลี่ยนวัตถุ (Image-to-Image) - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -2740,7 +2740,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="พรอมต์ฉากคริสต์มาสลูกแก้วหิมะ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440130809_26obvu_G7vDfLga8AAnYAl.jpg" width="600" alt="พรอมต์ฉากคริสต์มาสลูกแก้วหิมะ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2851,7 +2851,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="ภาพบุคคลโทนอุ่นแบบภาพยนตร์ (Cinematic Warm Tungsten Portrait) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063445_q1ryhf_G7vCltHagAA2RQf.jpg" width="600" alt="ภาพบุคคลโทนอุ่นแบบภาพยนตร์ (Cinematic Warm Tungsten Portrait) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2884,7 +2884,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="พรอมต์: โมเดลจำลองเมล็ดกาแฟรูปพีระมิดมายาที่สมจริงสุด ๆ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007956_c6zgnf_G7rlvvgWcAAQJrS.jpg" width="600" alt="พรอมต์: โมเดลจำลองเมล็ดกาแฟรูปพีระมิดมายาที่สมจริงสุด ๆ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2919,7 +2919,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="พรอมต์รูปภาพสไตล์ Instagram/X - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440132046_twf5xs_G7u92UQbUAAS_ip.jpg" width="600" alt="พรอมต์รูปภาพสไตล์ Instagram/X - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -2952,13 +2952,13 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="คอลลาจสไตล์ Kawaii พร้อมเอฟเฟกต์โพลารอยด์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125364_n1wd8n_G7vAOI1aIAEKoKJ.jpg" width="600" alt="คอลลาจสไตล์ Kawaii พร้อมเอฟเฟกต์โพลารอยด์ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="คอลลาจสไตล์ Kawaii พร้อมเอฟเฟกต์โพลารอยด์ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440125372_1qurau_G7vAOIzbUAA98bT.jpg" width="600" alt="คอลลาจสไตล์ Kawaii พร้อมเอฟเฟกต์โพลารอยด์ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -3005,7 +3005,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="มุมมองแบบหนอน (Worm's-Eye View) สไตล์ฟิล์มนัวร์ที่เหนือชั้น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440101180_tpohe9_G7u-y_ka0AAr1AV.jpg" width="600" alt="มุมมองแบบหนอน (Worm's-Eye View) สไตล์ฟิล์มนัวร์ที่เหนือชั้น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3046,7 +3046,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro 3.0 เพื่อส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="สาวไซเบอร์พังก์บนยอดเขา - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg" width="600" alt="สาวไซเบอร์พังก์บนยอดเขา - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3120,13 +3120,13 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/Soft Goth Selfie Portrait JSON Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024193_5vqx0f_G7u9YKSWkAAI7tK.jpg" width="600" alt="E-Girl/Soft Goth Selfie Portrait JSON Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/Soft Goth Selfie Portrait JSON Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440024825_nhthqr_G7u9YKQWoAAC0V2.jpg" width="600" alt="E-Girl/Soft Goth Selfie Portrait JSON Prompt - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -3194,7 +3194,7 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="ฉากกลางคืนในเมืองแบบภาพยนตร์พร้อมป้ายโฆษณาดิจิทัล - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440034657_iaro9w_G7u73RTacAALXLM.jpg" width="600" alt="ฉากกลางคืนในเมืองแบบภาพยนตร์พร้อมป้ายโฆษณาดิจิทัล - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3256,7 +3256,7 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="คำสั่งสำหรับคำอธิบายประกอบรูปภาพและข้อความชื่นชม - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440125413_0yhgam_G7u6DSmagAALwBC.jpg" width="600" alt="คำสั่งสำหรับคำอธิบายประกอบรูปภาพและข้อความชื่นชม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3319,7 +3319,7 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="พรอมต์การออกแบบ UI/UX ใหม่ (สไตล์ Pop Design) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440134701_cuzxwq_G7uymHIbAAALvGt.jpg" width="600" alt="พรอมต์การออกแบบ UI/UX ใหม่ (สไตล์ Pop Design) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3353,13 +3353,13 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="ภาพประกอบสถาปัตยกรรมผลิตภัณฑ์ไอโซเมตริกสุดแปลกตา - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052858_py1ixj_G7uvUr5a8AAqUc-.jpg" width="600" alt="ภาพประกอบสถาปัตยกรรมผลิตภัณฑ์ไอโซเมตริกสุดแปลกตา - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="ภาพประกอบสถาปัตยกรรมผลิตภัณฑ์ไอโซเมตริกสุดแปลกตา - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440052995_ajztle_G7uva6XbwAA_d3B.jpg" width="600" alt="ภาพประกอบสถาปัตยกรรมผลิตภัณฑ์ไอโซเมตริกสุดแปลกตา - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -3397,7 +3397,7 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D สำหรับ 'Lord of the Mysteries' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440112132_ia3yon_G7usvyxawAAdzsd.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D สำหรับ 'Lord of the Mysteries' - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3437,13 +3437,13 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="การสร้างคอลเลกชันภาพถ่ายท่องเที่ยวสไตล์นิตยสาร - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440106955_q8g97v_G7ups-ha0AIvBjq.jpg" width="600" alt="การสร้างคอลเลกชันภาพถ่ายท่องเที่ยวสไตล์นิตยสาร - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="การสร้างคอลเลกชันภาพถ่ายท่องเที่ยวสไตล์นิตยสาร - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440107170_flc52d_G7upt_ka4AAyRxN.jpg" width="600" alt="การสร้างคอลเลกชันภาพถ่ายท่องเที่ยวสไตล์นิตยสาร - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -3486,7 +3486,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="ภาพถ่ายบุคคลในคาเฟ่สไตล์ยุโรปที่ดูเป็นธรรมชาติ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068649_fgzq72_G7uq7A8bcAAf-DE.jpg" width="600" alt="ภาพถ่ายบุคคลในคาเฟ่สไตล์ยุโรปที่ดูเป็นธรรมชาติ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3519,13 +3519,13 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="ข้อความแจ้งการวิเคราะห์ส่วนประกอบในครัว - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440028245_ohs4lm_G7eIIkAaIAAI3xa.jpg" width="600" alt="ข้อความแจ้งการวิเคราะห์ส่วนประกอบในครัว - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="ข้อความแจ้งการวิเคราะห์ส่วนประกอบในครัว - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440028550_svxamf_G7eIJcPbEAATyBr.jpg" width="600" alt="ข้อความแจ้งการวิเคราะห์ส่วนประกอบในครัว - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -3559,25 +3559,25 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440037355_hbuwty_G7umWQOagAAp8Ft.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440037666_bfgz97_G7umWQTbsAAV7RL.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440038140_tdzioh_G7umWQOaQAEv4P7.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440038450_iezxr5_G7umWQXaQAAclBz.jpg" width="600" alt="ภาพการ์ตูนล้อเลียนนักบินอวกาศคนดังสไตล์ Pixar - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -3615,7 +3615,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="คำสั่งสั้น ๆ สร้างสรรค์ผลงานชิ้นเอกได้ทันที - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143137_alljh5_G7umEDVbYAEDBtC.jpg" width="600" alt="คำสั่งสั้น ๆ สร้างสรรค์ผลงานชิ้นเอกได้ทันที - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3648,7 +3648,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="แผนที่ตุรกีที่ทำจากอาหารท้องถิ่น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440052417_7hy35n_G7uk7l7XMAEXIq3.jpg" width="600" alt="แผนที่ตุรกีที่ทำจากอาหารท้องถิ่น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3681,7 +3681,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="บทบรรณาธิการแฟชั่น Cyber-Grunge Surveillance - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065890_wqbxu3_G7uiL75a8AEmhgd.jpg" width="600" alt="บทบรรณาธิการแฟชั่น Cyber-Grunge Surveillance - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3715,7 +3715,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="คำสั่งเพื่อการศึกษา: สูตรคณิตศาสตร์ระดับมัธยมปลายบนกระดานดำ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122835_trg11u_G7ugD75bsAIrL3J.jpg" width="600" alt="คำสั่งเพื่อการศึกษา: สูตรคณิตศาสตร์ระดับมัธยมปลายบนกระดานดำ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3749,7 +3749,7 @@ Prompt (เวอร์ชันหน้าเนื้อหาพิเศษ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="เคล็ดลับการใช้งาน Nano Banana Pro: การเพิ่มตัวอย่างเพื่อความเข้าใจที่ดียิ่งขึ้น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440114630_fl20t1_G7nc1_0aEAAcsiI.jpg" width="600" alt="เคล็ดลับการใช้งาน Nano Banana Pro: การเพิ่มตัวอย่างเพื่อความเข้าใจที่ดียิ่งขึ้น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3868,7 +3868,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="ภาพบุคคลสไตล์ Y2K Douyin พร้อมแฟลชตรง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020392_lgzo0f_G7uckuzbwAAfHKY.jpg" width="600" alt="ภาพบุคคลสไตล์ Y2K Douyin พร้อมแฟลชตรง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3931,7 +3931,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="พรอมต์ภาพบุคคลสไตล์ Y2K ในคาเฟ่คริสต์มาส - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440027565_t6sfr2_G7ubIHabEAAQrmE.jpg" width="600" alt="พรอมต์ภาพบุคคลสไตล์ Y2K ในคาเฟ่คริสต์มาส - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -3966,13 +3966,13 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="ภาพบุคคลสไตล์ภาพยนตร์นีออนเรืองแสงสุดหรู - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440032611_pd55tn_G7uZXkVbEAEcthZ.jpg" width="600" alt="ภาพบุคคลสไตล์ภาพยนตร์นีออนเรืองแสงสุดหรู - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="ภาพบุคคลสไตล์ภาพยนตร์นีออนเรืองแสงสุดหรู - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440032647_lpvyef_G7uZXjfacAAaAJn.jpg" width="600" alt="ภาพบุคคลสไตล์ภาพยนตร์นีออนเรืองแสงสุดหรู - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4014,7 +4014,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="ฉากย้อนเวลาแบบแบ่งหน้าจอ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060136_u8g3gk_G7uZSZTaQAAoLbx.jpg" width="600" alt="ฉากย้อนเวลาแบบแบ่งหน้าจอ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4077,13 +4077,13 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="ภาพบุคคลสไตล์กล้องดิจิทัล Y2K สมจริงขั้นสุด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440030612_gdiaj0_G7uWyXeWIAI1E7E.jpg" width="600" alt="ภาพบุคคลสไตล์กล้องดิจิทัล Y2K สมจริงขั้นสุด - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="ภาพบุคคลสไตล์กล้องดิจิทัล Y2K สมจริงขั้นสุด - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440030749_nyboqk_G7uWyVjWUAEA67Y.jpg" width="600" alt="ภาพบุคคลสไตล์กล้องดิจิทัล Y2K สมจริงขั้นสุด - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4123,7 +4123,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D สำหรับฉากภาพยนตร์/นวนิยาย - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440104839_e1p88b_G7uUpDraQAAC1ty.jpg" width="600" alt="โปสเตอร์ไดโอรามา 3D สำหรับฉากภาพยนตร์/นวนิยาย - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4156,7 +4156,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="ฉากหายนะจักรวาลดับสนิท - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074991_2pa2i5_G7uU83caEAA54AA.jpg" width="600" alt="ฉากหายนะจักรวาลดับสนิท - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4189,7 +4189,7 @@ JSON prompt ที่มีรายละเอียดสูงสำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="วิธีการสร้างภาพแบบการ์ดสำหรับ Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127175_n1cj9d_G7uUn0fbMAAgdUq.jpg" width="600" alt="วิธีการสร้างภาพแบบการ์ดสำหรับ Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4224,13 +4224,13 @@ JSON พรอมต์แบบละเอียดสำหรับสร้
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="บทความแฟชั่น: สไตล์สตรีทสุดชิคยามค่ำคืน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440063144_9u3si7_G7uUjRdasAAqkyY.jpg" width="600" alt="บทความแฟชั่น: สไตล์สตรีทสุดชิคยามค่ำคืน - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="บทความแฟชั่น: สไตล์สตรีทสุดชิคยามค่ำคืน - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440063140_wf4l6r_G7uUjRnbYAASJfG.jpg" width="600" alt="บทความแฟชั่น: สไตล์สตรีทสุดชิคยามค่ำคืน - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4316,13 +4316,13 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="การถ่ายภาพแฟชั่นชุดทหารเรือที่สมจริงสุด ๆ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440074154_n7lmzf_G7uUHBHbIAAITOf.jpg" width="600" alt="การถ่ายภาพแฟชั่นชุดทหารเรือที่สมจริงสุด ๆ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="การถ่ายภาพแฟชั่นชุดทหารเรือที่สมจริงสุด ๆ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440074455_8wa645_G7uUHDTbgAAs-2c.jpg" width="600" alt="การถ่ายภาพแฟชั่นชุดทหารเรือที่สมจริงสุด ๆ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4355,7 +4355,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Roast Me Prompt สำหรับ Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440139229_35k65m_G7uTapIXkAA4asV.jpg" width="600" alt="Roast Me Prompt สำหรับ Nano Banana Pro - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4388,25 +4388,25 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440121784_km49ij_G7uQ4nwakAAKMjh.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440121736_scx0iw_G7uSMtWaQAAgCIR.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440121772_me9taa_G7uSNzAbkAAIVt5.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440122974_zwrk0q_G7uSWa2bEAAL67n.jpg" width="600" alt="พรอมต์เปรียบเทียบการสร้างภาพ: ซูมสุดขีดบนใบหน้าเด็กผู้หญิง - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -4439,7 +4439,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="ภาพบุคคลบนหน้าจอจากกล้องดิจิทัล - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068897_itgwag_G7uTDGbaoAAqdfI.jpg" width="600" alt="ภาพบุคคลบนหน้าจอจากกล้องดิจิทัล - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4472,25 +4472,25 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440102307_xkwdcc_G7uMsvuasAAFBJs.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440102392_bf98ph_G7uMySaaEAEuayE.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440103274_8m538s_G7uMjy7boAAT8jP.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440104626_eg4t3o_G7uM5ulbwAA5yf9.jpg" width="600" alt="เมืองบนโต๊ะอาหาร: การผสมผสานอาหารท้องถิ่นและแลนด์มาร์ก - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -4523,7 +4523,7 @@ Seraphic
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="พรอมต์ Seraphic แบบคำเดียว - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077517_ueloc3_G7uIVyDbUAAh4WO.jpg" width="600" alt="พรอมต์ Seraphic แบบคำเดียว - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4590,13 +4590,13 @@ Seraphic
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปโปรไฟล์ AI (การปรับเปลี่ยนมุมกล้อง) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440131536_de5fxu_G7t1uZMaAAAsmX4.jpg" width="600" alt="ข้อความแจ้งการสร้างรูปโปรไฟล์ AI (การปรับเปลี่ยนมุมกล้อง) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="ข้อความแจ้งการสร้างรูปโปรไฟล์ AI (การปรับเปลี่ยนมุมกล้อง) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440132580_ay4q2f_G7t1uZRa8AA0EiW.png" width="600" alt="ข้อความแจ้งการสร้างรูปโปรไฟล์ AI (การปรับเปลี่ยนมุมกล้อง) - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4675,25 +4675,25 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440110737_7zzqn0_G7uDtKda8AAHzry.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440110722_ma0jac_G7uDtKeaIAA7XOW.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440110810_kkfwuy_G7uDtKgbQAAwXk4.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440112458_o5u606_G7uDtKca8AAJs15.jpg" width="600" alt="พรอมต์การแปลงพลังงานสองขั้นตอน (ภาษาญี่ปุ่น) - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -4729,13 +4729,13 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="ภาพทิวทัศน์แบบพาโนรามาที่สมจริงสุด ๆ ของวิวัฒนาการการขนส่ง (พร้อมพรอมต์) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440007477_3n1tjl_G7uByWWasAAe8WR.jpg" width="600" alt="ภาพทิวทัศน์แบบพาโนรามาที่สมจริงสุด ๆ ของวิวัฒนาการการขนส่ง (พร้อมพรอมต์) - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="ภาพทิวทัศน์แบบพาโนรามาที่สมจริงสุด ๆ ของวิวัฒนาการการขนส่ง (พร้อมพรอมต์) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440007993_8lddux_G7uBrBsbMAEzqTM.jpg" width="600" alt="ภาพทิวทัศน์แบบพาโนรามาที่สมจริงสุด ๆ ของวิวัฒนาการการขนส่ง (พร้อมพรอมต์) - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4798,7 +4798,7 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="เซลฟี่คอสเพลย์ Ada Wong ที่สมจริงราวกับภาพถ่าย - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092761_lj6ty9_G7uAqmeWEAEBhbJ.jpg" width="600" alt="เซลฟี่คอสเพลย์ Ada Wong ที่สมจริงราวกับภาพถ่าย - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4857,7 +4857,7 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="พรอมต์ Diorama แบบสวมศีรษะสำหรับ Nano Banana Pro Agent V1.2 (สวนสนุก Afro/Cloud) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440119604_drtqhu_G7t-WEdbQAEX-e_.jpg" width="600" alt="พรอมต์ Diorama แบบสวมศีรษะสำหรับ Nano Banana Pro Agent V1.2 (สวนสนุก Afro/Cloud) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4890,7 +4890,7 @@ edit_instructions: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="พรอมต์สร้างภาพขายาวเกินจริง (Seedream 4.5) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440127720_rqfeaz_G7t4MQQbkAA-bXD.jpg" width="600" alt="พรอมต์สร้างภาพขายาวเกินจริง (Seedream 4.5) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4948,7 +4948,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="ภาพถ่ายบุคคลฝาแฝดสไตล์ Soft Aesthetic Cinematic Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440020569_wd9ygx_G7t6Y7JaMAAfwAd.jpg" width="600" alt="ภาพถ่ายบุคคลฝาแฝดสไตล์ Soft Aesthetic Cinematic Prompt - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5005,7 +5005,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="ภาพบุคคลในร่มที่อบอุ่นและเป็นธรรมชาติ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440077339_oqtxk0_G7t50GDbsAEN5rY.jpg" width="600" alt="ภาพบุคคลในร่มที่อบอุ่นและเป็นธรรมชาติ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5049,25 +5049,25 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440068813_4m58ye_G7t1avra8AAsrfV.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440070145_tdhsaj_G7t1avnboAAkD_4.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440070904_ie7tgz_G7t1avnaoAAaIg2.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440070991_zoc8oy_G7t1avoasAAxaXu.jpg" width="600" alt="การแสดงภาพบทกวีศิลปะแบบกอทิกสติปเปิล - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -5100,7 +5100,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="ภาพลวงตา: การตัดส่วนลำตัวที่มองไม่เห็น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440097834_yl1er3_G7tzN_dbgAAltMQ.jpg" width="600" alt="ภาพลวงตา: การตัดส่วนลำตัวที่มองไม่เห็น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5199,7 +5199,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="ภาพถ่ายเซลฟี่ส่องกระจกบนโซเชียลมีเดียแบบละเอียด - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089857_5ma6qh_G7t1I7xbIAAZ65i.jpg" width="600" alt="ภาพถ่ายเซลฟี่ส่องกระจกบนโซเชียลมีเดียแบบละเอียด - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5303,7 +5303,7 @@ JSON พรอมต์สำหรับ Nano Banana Pro เพื่อสร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="ภาพถ่ายโทรศัพท์สุดสมจริงพร้อมความสยองขวัญ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440031251_cn4kkt_G7twOhQXkAAMFIJ.jpg" width="600" alt="ภาพถ่ายโทรศัพท์สุดสมจริงพร้อมความสยองขวัญ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5357,7 +5357,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="ภาพถ่ายแฟชั่นแนวบรรณาธิการสีแดงสุดอลังการ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440062777_tvgnrs_G7tuqrKXgAE5g9j.jpg" width="600" alt="ภาพถ่ายแฟชั่นแนวบรรณาธิการสีแดงสุดอลังการ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5391,25 +5391,25 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440080026_lkfdps_G7tnnKdb0AAMbYw.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440080330_ij1fr7_G7tnnLvbsAAG2Fy.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440080771_yi3plr_G7tnnLLbAAADubo.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440082087_eqovqm_G7tnnMTa4AAqKvt.jpg" width="600" alt="ภาพการ์ตูนล้อเลียน 3D นีออนของคนดัง - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -5484,7 +5484,7 @@ JSON prompt แบบละเอียดสำหรับ Nano Banana Pro เ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="ภาพเซลฟี่ลูกสุนัขระยะใกล้พิเศษ (แสงน้อย) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440017520_6ss1wp_G7th8uqXsAA1saQ.jpg" width="600" alt="ภาพเซลฟี่ลูกสุนัขระยะใกล้พิเศษ (แสงน้อย) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5579,7 +5579,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="ภาพบุคคลฤดูหนาวแบบภาพยนตร์ 8K ในรัฐชัมมูและกัศมีร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440098216_qy4p3a_G7tf65paQAE-Ujj.jpg" width="600" alt="ภาพบุคคลฤดูหนาวแบบภาพยนตร์ 8K ในรัฐชัมมูและกัศมีร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5714,7 +5714,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="ภาพบุคคลสื่อผสมพร้อมภาพวาดเส้นสไตล์ป๊อปอาร์ต - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440038468_xwe2ny_G7tbiXaaoAAMdr1.jpg" width="600" alt="ภาพบุคคลสื่อผสมพร้อมภาพวาดเส้นสไตล์ป๊อปอาร์ต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5751,7 +5751,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="การแปลงโฉมมีม Drake Pointing - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440095975_l7mck2_G7tZ9RLbQAADFjV.jpg" width="600" alt="การแปลงโฉมมีม Drake Pointing - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5886,7 +5886,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="ภาพบุคคลในเมืองของผู้สูงอายุหญิงแบบเลือกสี - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046234_ih73ia_G7tYg08bYAA9AWC.jpg" width="600" alt="ภาพบุคคลในเมืองของผู้สูงอายุหญิงแบบเลือกสี - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5919,7 +5919,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="ฉากผู้รอดชีวิตในโลกหลังหายนะที่สมจริง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440049019_nhijmm_G7tZFlmbQAEphU9.jpg" width="600" alt="ฉากผู้รอดชีวิตในโลกหลังหายนะที่สมจริง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5999,7 +5999,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="พรอมต์สร้างแผนที่โลกแฟนตาซีสไตล์นักเขียนแผนที่หลวง (สถานการณ์โดยละเอียด) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440128320_vvkgc3_G7tYGQIaQAAN4kf.jpg" width="600" alt="พรอมต์สร้างแผนที่โลกแฟนตาซีสไตล์นักเขียนแผนที่หลวง (สถานการณ์โดยละเอียด) - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6043,7 +6043,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="ไทม์สแควร์ ไทม์-เบลนด์ สปลิต-สกรีน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440072440_55hm8p_G7tVRdfbgAAECCN.jpg" width="600" alt="ไทม์สแควร์ ไทม์-เบลนด์ สปลิต-สกรีน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6076,7 +6076,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="การทำคำอธิบายประกอบสำหรับบทความวิชาการเรื่อง 'Attention Is All You Need' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135608_kg023v_G7tThfFbgAAckhp.jpg" width="600" alt="การทำคำอธิบายประกอบสำหรับบทความวิชาการเรื่อง 'Attention Is All You Need' - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6109,7 +6109,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="พรอมต์การสร้างรูปภาพสิ่งพิมพ์ที่มีคำอธิบายประกอบ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="พรอมต์การสร้างรูปภาพสิ่งพิมพ์ที่มีคำอธิบายประกอบ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6142,7 +6142,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="คำสั่งสำหรับคำอธิบายประกอบรูปภาพและการวาดเส้น - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440089526_371qeb_G7tJYXia0AAMUZ8.jpg" width="600" alt="คำสั่งสำหรับคำอธิบายประกอบรูปภาพและการวาดเส้น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6195,13 +6195,13 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="ข้อความแจ้งบนหน้าจอเกมเต้น 3D สำหรับ Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440118349_7x82j8_G7tJDKjagAAqzlx.jpg" width="600" alt="ข้อความแจ้งบนหน้าจอเกมเต้น 3D สำหรับ Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="ข้อความแจ้งบนหน้าจอเกมเต้น 3D สำหรับ Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440118927_yayndb_G7tJDx0akAAXou_.jpg" width="600" alt="ข้อความแจ้งบนหน้าจอเกมเต้น 3D สำหรับ Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -6234,7 +6234,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="ข้อความแจ้งสำหรับสร้างภาพล้อเลียน 3 มิติ แบบไวรัล - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440024013_dt9c6t_G7tGOnwbQAATj3D.png" width="600" alt="ข้อความแจ้งสำหรับสร้างภาพล้อเลียน 3 มิติ แบบไวรัล - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6331,7 +6331,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="เซลฟี่ในรถมุมกว้างพร้อมหลังคาซันรูฟแบบพาโนรามา - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440056272_0byrog_G7tFvJGbsAAnBu-.jpg" width="600" alt="เซลฟี่ในรถมุมกว้างพร้อมหลังคาซันรูฟแบบพาโนรามา - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6395,7 +6395,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="ภาพวาดเส้นสไตล์ดูเดิลของนักกีฬาวอลเลย์บอลหญิง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440090440_o7wq0m_G7tFdTqbUAA4EEU.jpg" width="600" alt="ภาพวาดเส้นสไตล์ดูเดิลของนักกีฬาวอลเลย์บอลหญิง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6428,7 +6428,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="พรอมต์ภาพบุคคลแฟชั่นชั้นสูงสไตล์มินิมอลในเมือง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440023636_78d0t0_G7tCdG6bMAA_4nh.jpg" width="600" alt="พรอมต์ภาพบุคคลแฟชั่นชั้นสูงสไตล์มินิมอลในเมือง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6560,7 +6560,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="ภาพบุคคลไลฟ์สไตล์อินฟลูเอนเซอร์ผมสีขิง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="ภาพบุคคลไลฟ์สไตล์อินฟลูเอนเซอร์ผมสีขิง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6594,7 +6594,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="การใช้พรอมต์ 'Despair' และ 'Noise' เพื่อสร้างผลกระทบทางอารมณ์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440122150_jutmnc_G7tBZNlbAAAUSoo.jpg" width="600" alt="การใช้พรอมต์ 'Despair' และ 'Noise' เพื่อสร้างผลกระทบทางอารมณ์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6656,7 +6656,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Time-Blend แบบแบ่งหน้าจอ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440065791_hkox1u_G7s-cvVbAAAnMS1.jpg" width="600" alt="Tokyo Time-Blend แบบแบ่งหน้าจอ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6689,7 +6689,7 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="ภาพเหมือนแฟชั่นโกธิคโลลิต้าที่ละเอียดเป็นพิเศษ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440092012_3lcuzz_G7s8ZuYacAALq-J.jpg" width="600" alt="ภาพเหมือนแฟชั่นโกธิคโลลิต้าที่ละเอียดเป็นพิเศษ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6728,25 +6728,25 @@ JSON พรอมต์ที่มีโครงสร้างสูงสำ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440046656_7lzf2d_G7s7KifWoAAMLw5.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440046796_ozm8ee_G7s7Kg3WMAAiYUc.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440047851_ise63s_G7s7KigXAAAw66V.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440049278_qcm2xo_G7s7KkyXMAAk_Uf.jpg" width="600" alt="Max Verstappen ยักษ์ใหญ่แห่งวงการตลกในพิตเลน - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -6815,7 +6815,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงส
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="พรอมต์ภาพถ่ายจากกล้องดิจิทัลยุค 2000s - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440135171_l9qi1q_G7s6M1GakAEBrUr.jpg" width="600" alt="พรอมต์ภาพถ่ายจากกล้องดิจิทัลยุค 2000s - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6873,25 +6873,25 @@ Prompt 4:
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440012171_u51p3q_G7s4TPDbsAA8Jao.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440012390_tti0f8_G7s4TPXaoAAh2Ff.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765440012810_xg6ubh_G7s4TO_bMAAMhaT.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 4">
+<img src="https://cms-assets.youmind.com/media/1765440014940_zfh168_G7s4TQRacAAAalp.jpg" width="600" alt="สี่พรอมต์สำหรับ Sketch และ Portrait ใน Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -7000,7 +7000,7 @@ JSON พรอมต์ที่มีรายละเอียดสูงแ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="พรอมต์บทความแฟชั่น Y2K Kawaii - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440060030_2mx80j_G7syXMgXAAAkkha.jpg" width="600" alt="พรอมต์บทความแฟชั่น Y2K Kawaii - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -7086,7 +7086,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="ภาพถ่ายการผจญภัยในฤดูหนาวแบบภาพยนตร์ 8K บนรถไฟวินเทจ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440087611_ghti6o_G7sy_YHbIAAPZbX.jpg" width="600" alt="ภาพถ่ายการผจญภัยในฤดูหนาวแบบภาพยนตร์ 8K บนรถไฟวินเทจ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -7146,19 +7146,19 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765274692068_w91ug5_Gemini_Generated_Image_wd27cvwd27cvwd27.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765274695919_egy9eb_Gemini_Generated_Image_attg62attg62attg_E5_A4_A7.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 3">
+<img src="https://cms-assets.youmind.com/media/1765274698538_0euo0d_Gemini_Generated_Image_n0zcp4n0zcp4n0zc_E5_A4_A7.jpeg" width="600" alt="สร้างฉากภาพยนตร์สไตล์ 3D - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -7191,13 +7191,13 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="พรอมต์สร้างภาพสำหรับ Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440117064_lrfqm0_G7sp1cCbIAAk5mi.jpg" width="600" alt="พรอมต์สร้างภาพสำหรับ Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="พรอมต์สร้างภาพสำหรับ Nano Banana Pro - Image 2">
+<img src="https://cms-assets.youmind.com/media/1765440117338_w6mufh_G7sp1cCaYAApAHp.jpg" width="600" alt="พรอมต์สร้างภาพสำหรับ Nano Banana Pro - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -7230,7 +7230,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="ภาพซ้อนของข้อความที่เขียนหวัด ๆ ในทฤษฎีสมคบคิดของผู้ป่วยโรคจิตเภท - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440096720_bwecin_G7spXCpbgAAgEMC.jpg" width="600" alt="ภาพซ้อนของข้อความที่เขียนหวัด ๆ ในทฤษฎีสมคบคิดของผู้ป่วยโรคจิตเภท - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -7263,7 +7263,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="ฉากคาเฟ่ในภาพยนตร์แบบผสมสื่อ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440094402_06f3in_G7sklm8aAAACEY4.jpg" width="600" alt="ฉากคาเฟ่ในภาพยนตร์แบบผสมสื่อ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -7297,7 +7297,7 @@ JSON prompt ที่มีโครงสร้างสูงสำหรั�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="เทคนิค Nano Banana Pro Prompt สำหรับมือใหม่ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1765440116234_e6myfx_G7ncl-TawAAExrw.jpg" width="600" alt="เทคนิค Nano Banana Pro Prompt สำหรับมือใหม่ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -7380,6 +7380,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-11T12:26:05.273Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-11T16:18:58.858Z</sub>
 
 </div>
