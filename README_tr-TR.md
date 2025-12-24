@@ -138,9 +138,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **2193** |
+| 📝 Toplam İstem | **2196** |
 | ⭐ Öne Çıkan | **12** |
-| 🔄 Son Güncelleme | **24 Aralık 2025 Çarşamba 04:29:09 UTC** |
+| 🔄 Son Güncelleme | **24 Aralık 2025 Çarşamba 08:18:10 UTC** |
 
 </div>
 
@@ -7788,7 +7788,7 @@ Hiper detaylı, yüksek kontrastlı, sinematik fantezi gerçekçiliği, 16K.
 
 <div align="center">
 
-### 🎯 2073 burada gösterilmeyen daha fazla istem
+### 🎯 2076 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7851,6 +7851,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-24T04:29:09.851Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-24T08:18:10.237Z</sub>
 
 </div>

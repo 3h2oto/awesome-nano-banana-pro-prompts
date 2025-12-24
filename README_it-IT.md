@@ -138,9 +138,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **2193** |
+| 📝 Totale prompt | **2196** |
 | ⭐ In evidenza | **12** |
-| 🔄 Ultimo aggiornamento | **mercoledì 24 dicembre 2025 alle ore 04:28:54 UTC** |
+| 🔄 Ultimo aggiornamento | **mercoledì 24 dicembre 2025 alle ore 08:17:54 UTC** |
 
 </div>
 
@@ -7785,7 +7785,7 @@ Iper-dettagliato, alto contrasto, realismo fantasy cinematografico, 16K.
 
 <div align="center">
 
-### 🎯 2073 altri prompt non mostrati qui
+### 🎯 2076 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7848,6 +7848,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-24T04:28:54.861Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-24T08:17:54.186Z</sub>
 
 </div>
