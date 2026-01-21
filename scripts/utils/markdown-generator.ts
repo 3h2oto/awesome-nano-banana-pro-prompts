@@ -112,6 +112,7 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale: str
 
 function generateHeader(locale: string): string {
   return `
+> 💡 ${t('aiRecommendPromo', locale)}
 # 🚀 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -121,8 +122,6 @@ function generateHeader(locale: string): string {
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 ${t('subtitle', locale)}
-
-> 💡 **Note**: ${t('gemini3Promo', locale)}
 
 > ⚠️ ${t('copyright', locale)}
 
