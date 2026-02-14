@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill でワンクリックで欲しいプロンプトを見つける 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 🎬 200以上の厳選 Seedance 2.0 動画プロンプト — 映画品質のAI動画を作成 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

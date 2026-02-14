@@ -1,5 +1,5 @@
 
-> 💡 Tek tıkla istediğiniz istemleri bulmak için Agent Skill 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 🎬 200+ seçilmiş Seedance 2.0 video istemleri — sinematik AI videoları oluşturun 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 Harika Nano Banana Pro İstemleri
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

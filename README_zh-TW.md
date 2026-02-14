@@ -1,5 +1,5 @@
 
-> 💡 配套 Agent Skill，一鍵找到你想要的提示詞 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 🎬 200+ 精選 Seedance 2.0 視頻提示詞，輕鬆生成電影級 AI 視頻 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

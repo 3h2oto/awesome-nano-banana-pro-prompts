@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill เพื่อค้นหา prompt ที่คุณต้องการด้วยคลิกเดียว 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 🎬 200+ prompt วิดีโอ Seedance 2.0 คัดสรร — สร้างวิดีโอ AI ระดับภาพยนตร์ 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,5 @@
 
-> 💡 Agent Skill로 원하는 프롬프트를 원클릭으로 찾기 👉 [nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
+> 🎬 200+ 엄선된 Seedance 2.0 영상 프롬프트 — 시네마틱 AI 영상 제작 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 Nano Banana Pro 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
