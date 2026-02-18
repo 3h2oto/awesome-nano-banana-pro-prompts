@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **9434** |
+| 📝 提示詞總數 | **9489** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年2月18日 星期三 清晨5:18:44 [UTC]** |
+| 🔄 最後更新 | **2026年2月18日 星期三 上午8:32:53 [UTC]** |
 
 </div>
 
@@ -646,7 +646,482 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - 寫實特寫肖像 (JSON)
+### No. 1: 個人檔案 / 頭像 - 誇張的沙漏鏡子自拍，搭配妙蛙種子短褲提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的 JSON 提示，用於生成一張年輕女性的垂直鏡像自拍，她擁有極度誇張的沙漏型身材（細腰、豐臀），身處雜亂的臥室中。此提示嚴格要求穿著印有妙蛙種子卡通臉的綠色高腰短褲和黑色無肩帶上衣，強調自然、未經修飾的審美。
+
+#### 📝 提示詞
+
+```
+{
+  "subject": {
+    "description": "一張年輕女性的真實垂直鏡子自拍照，她留著波浪狀的長棕髮，拍攝地點在凌亂的臥室裡。",
+    "body": {
+      "physique": "她擁有極度誇張的沙漏型身材，腰部非常纖細，臀部和髖部則非常豐滿、寬闊且圓潤，呈現健身風格。她的大腿粗壯且結實。這個姿勢強調了她戲劇性的腰臀比例。",
+      "pose": "她站在一個大圓鏡子前，舉起一部帶有圖案手機殼的智慧型手機，正在拍攝鏡子自拍照，部分遮住了她的臉。一隻手臂交叉在她的腹部。她正在看著手機螢幕。",
+      "features": "波浪狀的長棕髮披散在她的肩上。手機殼上印有色彩繽紛的卡通圖案。"
+    }
+  },
+  "wardrobe": {
+    "top": "一件簡單、緊身的黑色無肩帶平口上衣（抹胸），露出她的腹部。",
+    "bottom": "高腰、鮮豔的綠色熱褲，褲子正面印有寶可夢角色 {argument name=\"Pokemon character\" default=\"Bulbasaur\"} 的大笑臉卡通圖案。",
+    "accessories": "一條帶有小墜飾的銀色項鍊。"
+  },
+  "pose_action": "在凌亂的臥室裡拍攝鏡子自拍照，以展示她的服裝和身材。",
+  "scene": {
+    "environment": "一個凌亂、個人化的臥室，映照在大圓鏡子中。",
+    "elements": "左邊是一張床，上面鋪著粉紅色和白色圖案的羽絨被，旁邊是一個貼滿貼紙的粉紅色金屬儲物櫃。床後面的牆壁上掛著幾張裱框的動漫海報。地板上凌亂地堆放著衣服、箱子、靴子和其他物品。右邊的背景反射中可以看到一個門口。",
+    "composition": "垂直 9:16 長寬比的鏡子自拍照。鏡子的圓形邊框清晰可見，映照著這位女性和整個凌亂的房間。"
+  },
+  "lighting": {
+    "setup": "自然的環境室內光線與室內燈光混合。",
+    "details": "光線足夠明亮，能顯示房間和主體的所有細節，並從鏡面反射出來。"
+  },
+  "camera": {
+    "technical": "使用智慧型手機拍攝。照片具有鏡子自拍照典型的真實、未經編輯的美感，色彩和紋理逼真。",
+    "constraints": [
+      "長寬比 9:16",
+      "身材必須有極度纖細的腰部和非常豐滿、寬闊的健身臀部和髖部",
+      "下身必須是 {argument name=\"shorts color\" default=\"green\"} 高腰短褲，上面印有 {argument name=\"Pokemon character\" default=\"Bulbasaur\"} 寶可夢的臉",
+      "重現凌亂的臥室背景，包含動漫海報和粉紅色家具",
+      "圖片必須是垂直鏡子自拍照"
+    ]
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396594381_1dh5r9_HBZcsclWYAA7JIR.jpg" width="600" alt="個人檔案 / 頭像 - 誇張的沙漏鏡子自拍，搭配妙蛙種子短褲提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396594542_er0a8h_HBZcsYNbcAIeCTa.jpg" width="600" alt="個人檔案 / 頭像 - 誇張的沙漏鏡子自拍，搭配妙蛙種子短褲提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Noira](https://x.com/Noira_exe)
+- **來源:** [Twitter Post](https://x.com/Noira_exe/status/2023907007661519161)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10315)**
+
+---
+
+### No. 2: 個人檔案 / 頭像 - 舊照片修復至單眼相機品質
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個提示，指示 AI 將一張褪色舊底片照片還原成專業、高畫質的人像，並具有準確的色彩和細節，媲美 Canon EOS R6 II 的輸出效果，同時保留精確的臉部特徵。
+
+#### 📝 提示詞
+
+```
+根據參考圖片和提示生成圖片：「將這張舊照片修復成專業人像，具有 DLSR 級別的色彩和細節，使用可媲美 Canon EOS R6 II 效果的進階升級演算法。確保修復後的圖片看起來自然，保留精確的臉部特徵，並具有出色的清晰度……」
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396572042_r9lsr4_HBYIJ1ibcAAdgyG.jpg" width="600" alt="個人檔案 / 頭像 - 舊照片修復至單眼相機品質 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396572004_e63le1_HBYIKJ0bcAUKspp.jpg" width="600" alt="個人檔案 / 頭像 - 舊照片修復至單眼相機品質 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [WasifAI](https://x.com/doctorwasif)
+- **來源:** [Twitter Post](https://x.com/doctorwasif/status/2023814068893847603)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10272)**
+
+---
+
+### No. 3: 個人檔案 / 頭像 - 誇張身體部位的鏡中自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度具體的 JSON 提示，用於生成一張寫實的女性鏡像自拍，該女性擁有極度誇張的沙漏型身材，著重於未經修飾的皮膚紋理、細緻的身體結構和特定的服裝（短版黑色運動衫、高衩丁字褲比基尼下裝），場景設定在明亮現代的臥室中。
+
+#### 📝 提示詞
+
+```
+{
+  "subject": {
+    "ethnicity": "歐洲白種人",
+    "features": "引人注目的五官，高顴骨，挺直的鼻子，銳利的眼神，飄逸的金色長髮，帶有自然挑染和豐盈質感。",
+    "body": {
+      "physique": "極度誇張的沙漏型身材，運動感十足卻又曲線玲瓏。",
+      "torso": "纖細、緊緻的腰部，腹直肌和腹外斜肌線條清晰可見；豐滿、堅挺的乳房，乳溝自然突出。",
+      "lower_body": "臀大肌和臀中肌極度發達，形成非常寬大的臀部；高腰臀比；大腿內收肌和股四頭肌線條緊實，直至赤裸的雙腳。",
+      "extremities": "修剪整齊的赤腳，光滑的皮膚紋理，腳趾塗有乾淨、專業的白色指甲油；雙手握著智慧型手機。",
+      "skin_texture": "逼真的真皮，毛孔可見，有細微的皮膚褶皺和自然的瑕疵；無美顏平滑處理；均勻的曬黑膚色，帶有淺色底調。"
+    }
+  },
+  "wardrobe": {
+    "top": "純色啞光黑色短版長袖運動衫；厚棉織物質感；純素面，無任何標誌和文字。",
+    "bottom": "高衩黑色丁字比基尼下裝，邊緣有對比的白色彈性滾邊；高置於髂骨，以強調臀部寬度。",
+    "accessories": "簡潔的智慧型手機，配有簡約素色手機殼；嚴禁貼紙、貼花和卡通圖案。"
+  },
+  "pose_action": {
+    "position": "坐在落地鏡前的毛絨地毯上；雙腿呈 V 形張開，其中一隻膝蓋微彎，以凸顯臀部和骨盆區域。",
+    "action": "正在拍攝鏡子自拍照；目光投向手機螢幕；姿勢放鬆而自信。"
+  },
+  "scene": {
+    "environment": "明亮、通風的現代臥室。",
+    "background": "鋪有白色床單的大床；多個白色和米色荷葉邊裝飾枕頭和枕套；中性米色毛絨地毯紋理。",
+    "reflection_integrity": "主體與鏡像之間完美的空間一致性。"
+  },
+  "lighting": {
+    "setup": "高調自然日光從側面窗戶灑入；柔光箱效果；織物褶皺和身體曲線處有細微的環境光遮蔽陰影。",
+    "highlights": "頭髮和皮膚上有柔和的鏡面高光，以突顯肌肉分離度和體積感。"
+  },
+  "camera": {
+    "angle": "與視線齊平的鏡子自拍視角；廣角手機鏡頭模擬（約 24mm）；對反射物體清晰對焦。",
+    "technical_specs": "9:16 長寬比；8k 高解析度；原始攝影風格；深景深，使背景紋理可見但柔和。",
+    "negative_constraints": "無標誌、無文字、無貼紙、無美顏平滑、無多餘肢體、無變形比例、無襪子、無鞋類。"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396584790_exy5lt_HBXj2jsWsAE85TZ.jpg" width="600" alt="個人檔案 / 頭像 - 誇張身體部位的鏡中自拍 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [RubenSalvo](https://x.com/RubenSalvo_)
+- **來源:** [Twitter Post](https://x.com/RubenSalvo_/status/2023774157540901194)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10295)**
+
+---
+
+### No. 4: 個人檔案 / 頭像 - 超逼真夏日自拍提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個高度詳細的 JSON 提示，用於生成一張超寫實、未經修飾的年輕女性智慧型手機風格特寫自拍照。該提示強調了具體細節，例如深色曬痕、明顯的陽光曝曬、清晰的白色曬痕、自然的皮膚瑕疵，以及服裝（黑色無肩帶平口上衣）和身體結構的物理特性。場景設定在戶外陽台，背景是百葉窗。
+
+#### 📝 提示詞
+
+```
+{
+  "subject": {
+    "description": "年輕女子，膚色黝黑，明顯曬過太陽",
+    "hair": "深金色至淺棕色，向後梳成高高的、略顯凌亂的髮髻，看起來濕潤或向後梳理，髮際線附近有些許散落的髮絲",
+    "eyes": "淺藍綠色，銳利而清澈，目光直視",
+    "skin": "古銅色，曬黑的膚色，胸部上方和肩膀處有明顯、清晰的白色曬痕（肩帶痕跡），可見的紅色底色表明最近曬過太陽，有光澤的質地暗示著汗水或天然油脂，毛孔和皮膚瑕疵清晰可見",
+    "features": "豐滿、有光澤的粉紅色嘴唇微啟，濃密的眉毛，下顎線條分明",
+    "clothing": "{argument name=\"clothing color\" default=\"Black\"} 無肩帶抹胸上衣，緊身，位置較低",
+    "jewelry": "右手腕戴銀色鏈條手鍊，細銀項鍊配小吊墜，小銀色圈形耳環",
+    "anatomy": "豐滿、沉重的胸部，明顯受到重力和抹胸上衣的擠壓，乳溝突出，天然軟組織分佈，曬痕清晰地勾勒出胸部的輪廓"
+  },
+  "pose": {
+    "type": "高角度自拍特寫",
+    "head": "頭部略微向右傾斜，正對鏡頭",
+    "arms": "右臂抬起，手肘超出畫面，手觸摸頭後部/髮髻；左臂向下伸出畫面",
+    "body_orientation": "上半身向前，略微傾向鏡頭",
+    "expression": "自信，眼神直接接觸，略帶性感，嘴巴放鬆微開"
+  },
+  "environment": {
+    "location": "陽台或門廊外部",
+    "background": "白色窗框，帶有水平玻璃百葉窗（通風百葉），玻璃後面有深色網紗，最右側可見部分綠色油漆牆壁或百葉窗",
+    "details": "百葉窗的建築線條在主體後面形成水平圖案"
+  },
+  "camera": {
+    "perspective": "高角度自拍視角（相機高於視線水平）",
+    "shot_type": "特寫，半身照",
+    "focal_length": "廣角（相當於 24mm-28mm），智能手機前置攝像頭的典型焦距",
+    "depth_of_field": "景深較深，使臉部和後面的窗戶百葉窗都相對清晰",
+    "framing": "頭頂略微裁切，胸部在前景中央下方突出"
+  },
+  "lighting": {
+    "source": "自然日光，漫射",
+    "direction": "正面，略微從上方",
+    "quality": "柔和但清晰，在前額、鼻樑和胸部上部曲線處形成高光",
+    "shadows": "下巴和鼻子下方有柔和的陰影，乳溝和鎖骨區域有自然的陰影"
+  },
+  "mood_and_expression": {
+    "mood": "隨性、夏日、自信、直接",
+    "expression": "中性至略帶誘惑，眼神專注"
+  },
+  "style_and_realism": {
+    "style": "原始、未經濾鏡的智能手機攝影風格",
+    "realism": "超逼真的皮膚紋理，準確描繪曬傷和曬痕，無修圖，高度還原天然皮膚瑕疵和油光"
+  },
+  "colors_and_tone": {
+    "palette": ""
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396589757_nu639i_HBXJG-GW4AEDTda.jpg" width="600" alt="個人檔案 / 頭像 - 超逼真夏日自拍提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jessia](https://x.com/itsjessiababy)
+- **來源:** [Twitter Post](https://x.com/itsjessiababy/status/2023744740911395291)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10306)**
+
+---
+
+### No. 5: 個人檔案 / 頭像 - 圖像修復與增強提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用於修復和增強舊損照片的提示，要求在修復瑕疵、恢復色彩、銳化並實現完整的 HDR 效果的同時，保留拍攝對象的確切面部特徵和表情，模擬 Nikon DSLR 的輸出。
+
+#### 📝 提示詞
+
+```
+「在保留主體確切面部身份和表情的同時，修復圖像。修復照片本身的任何撕裂、皺紋和人為瑕疵。完美還原色彩，銳化圖像並使其達到全 HDR 效果。它應該看起來像是 Nikon DSLR 相機拍攝的照片。保持主體確切的面部特徵、表情和細節。」
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396583453_6wdj8f_HBXE6LQbcAcXD_A.jpg" width="600" alt="個人檔案 / 頭像 - 圖像修復與增強提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396583373_z7lfsq_HBXFCCqbcAYgksl.jpg" width="600" alt="個人檔案 / 頭像 - 圖像修復與增強提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Iqra Saifi](https://x.com/IqraSaifiii)
+- **來源:** [Twitter Post](https://x.com/IqraSaifiii/status/2023743100703904218)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10292)**
+
+---
+
+### No. 6: 個人檔案 / 頭像 - 自信男士工作室肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個用於生成超寫實、高細節工作室肖像的提示：一位自信的男士身穿黑色西裝和高領毛衣，正在調整琥珀色眼鏡，背景為純暖黃色。
+
+#### 📝 提示詞
+
+```
+一位自信時尚的男士，身穿黑色西裝和黑色高領毛衣，正在調整琥珀色鏡片眼鏡，留著俐落的漸層髮型和修剪整齊的鬍鬚，攝影棚肖像照，純暖黃色背景，柔和散射光，超寫實，高細節皮膚紋理，85mm 鏡頭，淺景深，專業時尚攝影，8K，銳利對焦。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396574545_0jkm3f_HBW5j9ya0AAVGRu.jpg" width="600" alt="個人檔案 / 頭像 - 自信男士工作室肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Taaruk](https://x.com/Taaruk_)
+- **來源:** [Twitter Post](https://x.com/Taaruk_/status/2023727661970059617)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10276)**
+
+---
+
+### No. 7: 個人檔案 / 頭像 - 奧本海默場景換臉與修復
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度具體的提示，指示 AI 重現電影《奧本海默》中的一個精確畫面（構圖、燈光、表情、服裝和手勢），並僅將席尼·墨菲的臉替換為上傳的參考臉，要求達到超現實的電影級真實感，不允許任何創作自由。
+
+#### 📝 提示詞
+
+```
+請使用上傳的《奧本海默》電影畫面作為**主要且唯一的場景參考**。
+
+**精確重現**所示場景：
+相同的室內房間和背景模糊，
+相同的柔和日光從攝影機左側射入，
+相同的柔和綠黃色溫，
+相同的攝影機角度和距離（特寫），
+相同的構圖和裁切，
+相同的淺景深，
+相同的服裝（藍綠色襯衫，深色領帶），
+相同的手扶太陽穴手勢，
+相同手指上的戒指，
+相同的焦慮、精神緊繃表情，
+相同的姿勢和頭部傾斜。
+
+**請勿**重新詮釋場景。
+**請勿**改變環境、燈光或構圖。
+
+**僅將臉部替換為我上傳的臉部參考圖**。
+我的臉部必須**100% 相同**：
+精確的臉部結構，
+膚色，
+眼睛形狀，
+鼻子，
+嘴唇，
+下顎線，
+髮際線，
+保留鬍渣圖案。
+
+換臉必須**完美匹配**：
+原始頭部角度，
+原始臉部肌肉張力，
+原始眼睛方向，
+原始光線和陰影衰減。
+
+超現實電影級真實感。
+保留自然膠片顆粒。
+無風格化，無創意自由發揮。
+
+長寬比：1.90:1 (IMAX 數位畫面)。
+保留完整頭部空間。
+無裁切，無縮放，無重新構圖。
+無背景變更
+無燈光變更
+無姿勢變更
+無手部動作
+無表情變更
+無色彩校正
+無風格化
+無 AI 偽影
+無臉部變形
+不與 Cillian Murphy 相似
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396574358_u3mlnt_HBVyyFJbcAEeA4Q.jpg" width="600" alt="個人檔案 / 頭像 - 奧本海默場景換臉與修復 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396574353_unptgc_HBVyx8YbcAQpnAT.jpg" width="600" alt="個人檔案 / 頭像 - 奧本海默場景換臉與修復 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Mahesh](https://x.com/Mahesh171819)
+- **來源:** [Twitter Post](https://x.com/Mahesh171819/status/2023649817227141359)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10275)**
+
+---
+
+### No. 8: 個人檔案 / 頭像 - 超寫實編輯肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個用於生成超寫實、半身特寫肖像的提示，描繪一位穿著米色亞麻襯衫的自信人士，採用溫暖的輪廓光和淺景深，營造出時尚雜誌般的審美效果。
+
+#### 📝 提示詞
+
+```
+超寫實的半身人像，自信的個體穿著米色亞麻襯衫，置於柔和琥珀色漸層背景的中央。姿勢輕鬆，頭部略微傾斜，眼神直接接觸。上方投射溫暖的 3800K 光線，頭髮周圍有發光的環狀邊緣光。淺景深，自然的皮膚紋理，8K 解析度，時尚編輯美學，配飾極簡。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396573810_px4gbr_HBVHiotbcAEdHyi.jpg" width="600" alt="個人檔案 / 頭像 - 超寫實編輯肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396573899_kgqfia_HBVHioxbcAAUVOf.jpg" width="600" alt="個人檔案 / 頭像 - 超寫實編輯肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396574057_ts8yl2_HBVHio7bcAA17SO.jpg" width="600" alt="個人檔案 / 頭像 - 超寫實編輯肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396574658_vwihgh_HBVHioOWsAA5bWM.jpg" width="600" alt="個人檔案 / 頭像 - 超寫實編輯肖像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Shah](https://x.com/ai_with_shah)
+- **來源:** [Twitter Post](https://x.com/ai_with_shah/status/2023602475043889453)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10277)**
+
+---
+
+### No. 9: 個人檔案 / 頭像 - 寫實特寫肖像 (JSON)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -687,7 +1162,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 2: 個人檔案 / 頭像 - 穿著粉色洋裝和玫瑰的六格拍貼亭網格
+### No. 10: 個人檔案 / 頭像 - 穿著粉色洋裝和玫瑰的六格拍貼亭網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -780,7 +1255,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 黑白身份交換網格 (4x4)
+### No. 11: 個人檔案 / 頭像 - 黑白身份交換網格 (4x4)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +1371,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 護照照片美學肖像
+### No. 12: 個人檔案 / 頭像 - 護照照片美學肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -929,7 +1404,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - Ana de Armas 鏡像自拍模擬
+### No. 13: 個人檔案 / 頭像 - Ana de Armas 鏡像自拍模擬
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1008,7 +1483,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 表情網格 (4x4) 上的身份交換
+### No. 14: 個人檔案 / 頭像 - 表情網格 (4x4) 上的身份交換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1095,7 +1570,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 鏡面電梯裡的原始閃光鏡自拍
+### No. 15: 個人檔案 / 頭像 - 鏡面電梯裡的原始閃光鏡自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1165,7 +1640,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - Billie Eilish 卡通版 3D 渲染提示
+### No. 16: 個人檔案 / 頭像 - Billie Eilish 卡通版 3D 渲染提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1314,7 +1789,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 車內豐腴金髮女郎肖像
+### No. 17: 個人檔案 / 頭像 - 車內豐腴金髮女郎肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1401,7 +1876,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 電影特寫肖像替換提示
+### No. 18: 個人檔案 / 頭像 - 電影特寫肖像替換提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,596 +1917,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 復古照片修復與放大提示
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個給 Gemini Nano Banana Pro 的提示，指示它將一張褪色的老式照片，使用先進的放大技術，恢復成高畫質、專業的人像照，並具備單眼相機等級的色彩和細節，同時保留臉部特徵和清晰度。
-
-#### 📝 提示詞
-
-```
-「將這張舊照片修復成專業的數位單眼相機 (DLSR) 品質人像，具備優異的色彩與細節，並使用媲美 Canon EOS R6 II 成像效果的進階升頻演算法。確保修復後的影像看起來自然，保留精確的臉部特徵，並具有絕佳的清晰度。」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223971662_oh5wsm_HBND2K5bsAEurH1.jpg" width="600" alt="個人檔案 / 頭像 - 復古照片修復與放大提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223971543_td1y9g_HBND2LSbsAAVrx6.jpg" width="600" alt="個人檔案 / 頭像 - 復古照片修復與放大提示 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Edraak Tech | إدراك تِك](https://x.com/EdraakTechAi)
-- **來源:** [Twitter Post](https://x.com/EdraakTechAi/status/2023035277225132309)
-- **發布時間:** 2026年2月15日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10185)**
-
----
-
-### No. 12: 個人檔案 / 頭像 - Pixar/Disney 風格 X (Twitter) 個人檔案卡片提示
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個詳細的提示，用於生成一張可愛、高度細緻的 3D 動畫圖像，風格類似 Pixar/Disney。圖像中，一個女孩自然地坐在 X (Twitter) 個人資料卡的底部邊緣，使用者介面元素清晰可見，強調溫暖的光線、景深和高解析度。它使用一張輸入圖像作為人物特徵的參考。
-
-#### 📝 提示詞
-
-```
-可愛、超精緻的 3D 動畫風格，仿照 Pixar/Disney 風格，
-自然地坐在 X (Twitter) 個人資料卡片的底部邊緣，從個人資料框中浮現。
-人物特徵基於：「{argument name="person features" default="Input Image"}」。
-女孩坐在個人資料框上。
-女孩正在用相機拍照。
-X 個人資料 UI 上清晰顯示以下內容：姓名：{argument name="name" default="Lovart Official"} (藍色驗證徽章)
-使用者名稱：{argument name="username" default="@lovart_jp"}
-簡潔、現代的 X (Twitter) 介面，圓角白色個人資料卡片，低調的「Input Image」圖示，個人資料圖片可見。
-一隻手握住社群媒體卡片的底部邊緣。柔和的粉彩米色背景，溫暖的攝影棚燈光，逼真的景深和陰影，電影般的構圖，超高解析度，4K，專業 3D 插圖，以及社群媒體流行美學。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223985023_myw799_HBCOe9ba8AADfeU.jpg" width="600" alt="個人檔案 / 頭像 - Pixar/Disney 風格 X (Twitter) 個人檔案卡片提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223985082_3m1x32_HBCOe1nagAAWf1b.jpg" width="600" alt="個人檔案 / 頭像 - Pixar/Disney 風格 X (Twitter) 個人檔案卡片提示 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
-- **來源:** [Twitter Post](https://x.com/lovart_jp/status/2022959075873673277)
-- **發布時間:** 2026年2月15日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10213)**
-
----
-
-### No. 13: 個人檔案 / 頭像 - Vlog 風格時尚影片生成提示
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-以下是搭配 Nano Banana Pro 使用的詳細提示，用於生成圖像，然後使用 Google Veo 3.1 將其轉換為影片。此提示著重於創建一個真實、親密、溫馨的 Vlog 風格鏡頭，內容是一位女性正在討論她的時尚，其中包含有關攝影機角度、燈光、表情和對話的具體細節。
-
-#### 📝 提示詞
-
-```
-創作一個面向前方的影片風格鏡頭。攝影機固定在臉部高度，並直接置於拍攝對象前方。拍攝對象的姿勢和構圖顯示她正坐著。
-
-構圖簡潔穩定，沒有戲劇性的角度或明顯的攝影機移動。燈光真實，考量到 [加入考量 UGC 風格鏡頭的真實燈光]。臉部清晰可見。
-
-拍攝對象的表情平靜放鬆，帶著自然、細微的微笑。看起來就像她即將開始對著鏡頭說話，準備錄製 Vlog。影像品質反映了室內夜間拍攝的高品質影片，沒有套用濾鏡、美顏效果或人工銳化。
-
-空間感覺很個人化。散景是因攝影機的限制所致，而非人工景深效果。整體氛圍溫暖、明亮且親密，讓人聯想到拍攝對象即將開口說話前，Vlog 的真實瞬間。
-
-該女子的對白是：「今天的時尚亮點是 [加入時尚特色]！」她輕聲說話，同時觸摸著自己的衣服。最後她笑了。
-
-背景音樂：播放著適合 Vlog 風格時尚氛圍的舒適音樂。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223983678_w2ehj0_HBK4SxWasAAZM1E.jpg" width="600" alt="個人檔案 / 頭像 - Vlog 風格時尚影片生成提示 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223983642_7xxayc_HBK4UKMakAMIGj1.jpg" width="600" alt="個人檔案 / 頭像 - Vlog 風格時尚影片生成提示 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223983731_czbuz8_HBK4SSWasAAXNaf.jpg" width="600" alt="個人檔案 / 頭像 - Vlog 風格時尚影片生成提示 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [空想写真家](https://x.com/KusoPhoto)
-- **來源:** [Twitter Post](https://x.com/KusoPhoto/status/2022913770595778937)
-- **發布時間:** 2026年2月15日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10212)**
-
----
-
-### No. 14: 個人檔案 / 頭像 - 超寫實電影級特寫肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個詳細的提示，用於生成一張年輕女性的超寫實電影特寫肖像，強調自然的臉部特徵、戲劇性的光線，以及淺景深，以呈現編輯級、電影品質的外觀。這需要一張主體的參考圖像。
-
-#### 📝 提示詞
-
-```
-超寫實電影級特寫人像，將主體替換為我的參考圖像。
-
-一位年輕女性，從肩膀以上取景，頭部略微轉動，眼神望向畫框外，帶著柔和沉思的表情。臉部比例自然，皮膚紋理清晰可見，細微的雀斑和精緻的細節都得以保留。
-
-髮絲凌亂地散落在臉龐，營造出自然、親密的氛圍，身穿細肩帶黑色上衣，造型簡約，沒有厚重的飾品。燈光富有戲劇性和電影感：溫暖的定向光從一側照亮臉部，另一側則有深邃的陰影，形成強烈的對比和情感深度。背景黑暗且不顯眼，柔和模糊，使焦點完全集中在臉部。
-
-採用淺景深拍攝，呈現 85mm 人像鏡頭效果，奶油般散景，高動態範圍，自然色彩分級，暖色高光和柔和陰影，真實膚色，無人工光暈。
-
-寫實攝影，超高畫質，編輯人像攝影，電影級真實感，電影級燈光，零 AI 瑕疵。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771223975362_bikr3t_HBKvhaqakAIo7uk.jpg" width="600" alt="個人檔案 / 頭像 - 超寫實電影級特寫肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Harboriis](https://x.com/harboriis)
-- **來源:** [Twitter Post](https://x.com/harboriis/status/2022872175397736736)
-- **發布時間:** 2026年2月15日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10194)**
-
----
-
-### No. 15: 個人檔案 / 頭像 - 蜘蛛人緊身衣豪華臥室鏡面自拍
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度詳細、結構化的提示，用於生成一張超寫實的女性鏡像自拍肖像，身穿蜘蛛人風格的緊身衣，置身於豪華臥室場景中，並指定了相機設定、燈光（黃金時段）、姿勢以及詳細的服裝/道具描述。
-
-#### 📝 提示詞
-
-```
-{
-  "meta": {
-    "style": "超寫實鏡面自拍肖像",
-    "quality": "8k 高解析度",
-    "camera": "全片幅單眼相機",
-    "lens": "85mm f/1.8 人像鏡頭",
-    "aperture": "f/2.2",
-    "lighting": "柔和的自然窗光，溫暖的金黃色環境色調",
-    "color_grading": "溫暖米色和柔和金色電影色調",
-    "aspect_ratio": "4:5 垂直"
-  },
-  "scene": {
-    "location": "奢華臥室內部",
-    "environment": "帶有裝飾性邊框的華麗全身鏡",
-    "background_elements": [
-      "米色軟墊床",
-      "有紋理的米色床罩",
-      "柔軟的白色枕頭",
-      "透光薄紗窗簾濾過日光",
-      "暖色調牆壁",
-      "微妙的室內環境陰影"
-    ],
-    "time_of_day": "早晨黃金時段",
-    "atmosphere": "平靜、舒適、柔和照明"
-  },
-  "subject": {
-    "gender": "女性",
-    "age_range": "20 多歲中期",
-    "skin_tone": "淺暖色膚色",
-    "physique": "健美、運動型身材",
-    "pose": "站在鏡子前，手持智慧型手機自拍",
-    "expression": "溫柔自信的微笑，放鬆的目光注視手機螢幕",
-    "hair": {
-      "style": "及肩，自然鬆散波浪",
-      "parting": "中分"
-    },
-    "makeup": "自然柔和的魅力妝容，微妙腮紅，中性唇色，輕微眼部修飾"
-  },
-  "wardrobe": {
-    "outfit_type": "超級英雄緊身衣",
-    "design": "蜘蛛人主題圖案",
-    "primary_colors": ["深紅色", "海軍藍"],
-    "details": [
-      "胸部和手臂上的金屬紅色蜘蛛網圖案",
-      "胸部中央的黑色蜘蛛標誌",
-      "長版合身袖子",
-      "高衩腿部設計",
-      "貼身運動材質",
-      "帶有輕微光澤的微妙織物紋理"
-    ],
-    "material": "彈性氨綸類機能面料",
-    "fit": "緊身，貼合身體曲線"
-  },
-  "props": {
-    "smartphone": {
-      "brand_style": "現代旗艦智慧型手機",
-      "color": "深石墨色",
-      "camera_module": "三鏡頭系統",
-      "usage": "垂直握持用於鏡面自拍"
-    }
-  },
-  "composition": {
-    "framing": "置中構圖",
-    "crop": "從大腿中部到頭部的構圖",
-    "camera_angle": "正對鏡子的視角",
-    "depth_of_field": "淺景深，背景柔和模糊",
-    "symmetry": "利用鏡框實現平衡的垂直對齊"
-  },
-  "lighting_details": {
-    "key_light": "來自側面的自然窗光",
-    "fill_light": "柔和的室內環境反彈光",
-    "highlight_behavior": "金屬紅色部分有柔和的高光",
-    "shadow_quality": "柔和、漫射的陰影"
-  },
-  "rendering_style": {
-    "realism_level": "寫實主義",
-    "skin_texture": "自然膚質帶有微妙的柔和感",
-    "fabric_detail": "可見精細的蜘蛛網圖案細節",
-    "dynamic_range": "高動態範圍，保留高光",
-    "post_processing": [
-      "柔和的皮膚"
-    ]
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137197233_rl5oz0_HBJVjQLXMAMpcx0.jpg" width="600" alt="個人檔案 / 頭像 - 蜘蛛人緊身衣豪華臥室鏡面自拍 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Alice Glassier](https://x.com/aliceglassierai)
-- **來源:** [Twitter Post](https://x.com/aliceglassierai/status/2022774326479519918)
-- **發布時間:** 2026年2月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10095)**
-
----
-
-### No. 16: 個人檔案 / 頭像 - 護照尺寸照片產生器
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個旨在生成超逼真護照尺寸照片的提示，強調精確的臉部相似度、專業攝影棚風格，以及官方身份證件照片的特定要求，包括中性表情和可見的耳朵。
-
-#### 📝 提示詞
-
-```
-「我的超逼真護照尺寸照片（臉部完全相似，100% 匹配，無臉部變化）。」，「風格」：「適合官方身份證件或護照使用的專業攝影棚肖像。」，
-「服裝」：「{argument name=\"outfit description\" default=\"白色領襯衫和搭配的領帶，帶有品牌現代感\"}」，「表情」：「中性閉唇微笑，直視前方，雙耳可見，包含肩膀。」
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137215285_52g5w5_HBIZIR7bgAE7C-y.jpg" width="600" alt="個人檔案 / 頭像 - 護照尺寸照片產生器 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137215234_rct9a0_HBIZIRPakAAKO-r.jpg" width="600" alt="個人檔案 / 頭像 - 護照尺寸照片產生器 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Shreya♡](https://x.com/Shreyayadav)
-- **來源:** [Twitter Post](https://x.com/Shreyayadav/status/2022706817013551558)
-- **發布時間:** 2026年2月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10130)**
-
----
-
-### No. 17: 個人檔案 / 頭像 - 黑白照相亭表情網格 (4x4)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度詳細的結構化提示，用於生成 4x4 黑白拍貼風格圖像網格，著重於保留上傳參考圖像的身份，同時描繪 16 種不同的面部表情，並具有特定的光照和紋理要求。
-
-#### 📝 提示詞
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "task_type": "black_and_white_photobooth_expression_grid_4x4",
-      "language": "en",
-      "priority": "highest",
-      "version": "v1.0_BW_PHOTOBOOTH_EXPRESSIONS_4X4"
-    },
-    "input": {
-      "mode": "image_to_image",
-      "reference_image_usage": "very_high",
-      "preserve_identity": true,
-      "preserve_facial_features": true,
-      "preserve_hairstyle": true,
-      "notes": "以參考圖為主要基準。創建一個黑白大頭貼風格的表情網格。保持相同的成年女性身份和髮型。每個面板應顯示不同的面部表情。背景極簡，呈現直接的大頭貼閃光燈效果，自然膚質。"
-    },
-    "output": {
-      "aspect_ratio": "1:1",
-      "resolution": "ultra_high",
-      "num_images": 1,
-      "layout": {
-        "type": "grid",
-        "rows": 4,
-        "cols": 4,
-        "gutter": "thin",
-        "panel_consistency": "high"
-      },
-      "sharpness": "crisp_photobooth",
-      "grain": "subtle_analog_bw"
-    },
-    "scene": {
-      "concept": "經典大頭貼底片，帶有豐富表情的臉孔",
-      "environment": "樸素中性背景，無道具",
-      "lighting": {
-        "style": "直接大頭貼閃光燈",
-        "key_light": "正面閃光燈，略硬但討喜",
-        "shadows": "主體後方柔和短影",
-        "avoid": "電影式側光，戲劇性背景"
-      },
-      "camera": {
-        "lens": "50mm",
-        "distance": "緊密頭肩構圖",
-        "focus": "每個面板的眼睛都清晰銳利"
-      }
-    },
-    "subject": {
-      "type": "成年女性",
-      "wardrobe": "簡約無肩帶或露肩大頭貼造型（無標誌）",
-      "hair": "所有面板保持相同髮型",
-      "makeup": "極簡，自然",
-      "anatomy_rules": "正確的面部比例，無扭曲的眼睛/嘴巴"
-    },
-    "expression_set": {
-      "panel_01": "皺眉微笑，眼睛微瞇",
-      "panel_02": "眼神專注，手指框住眼睛",
-      "panel_03": "開懷大笑，嘴巴張開，充滿喜悅",
-      "panel_04": "無聊/不以為然的表情，手托下巴",
-      "panel_05": "悲傷噘嘴，眼含淚光",
-      "panel_06": "搞怪表情，雙手在頭頂做出小角",
-      "panel_07": "俏皮吐舌，狡黠的笑容",
-      "panel_08": "憤怒的瞪視，眉頭下壓",
-      "panel_09": "調情眼神，手觸臉頰",
-      "panel_10": "驚訝地睜大眼睛，嘴巴微張",
-      "panel_11": "假裝尖叫/興奮大喊，手靠近臉部",
-      "panel_12": "惡作劇般的笑容，手擺出爪狀姿勢",
-      "panel_13": "困惑地皺眉，嘴唇緊閉",
-      "panel_14": "哭泣的臉，雙手抱頭，戲劇化",
-      "panel_15": "吐舌閉眼，俏皮",
-      "panel_16": "嘟嘴（鴨子臉），做出小惡魔角的姿勢"
-    },
-    "style": {
-      "color": "純黑白",
-      "contrast": "m"
-    }
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137193041_jhor76_HBIKSy1W4AALopr.jpg" width="600" alt="個人檔案 / 頭像 - 黑白照相亭表情網格 (4x4) - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Özge Döner](https://x.com/astronomerozge1)
-- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2022690793702486382)
-- **發布時間:** 2026年2月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10089)**
-
----
-
-### No. 18: 個人檔案 / 頭像 - 商務人士的超寫實企業形象照
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一位自信年輕商人超寫實攝影棚肖像的提示，詳細說明其服裝（量身訂製的黑色西裝）、動作（調整袖口）和技術攝影規格（85mm 鏡頭、f/2 光圈、柔和散射光），以製作一張優質企業形象照。
-
-#### 📝 提示詞
-
-```
-一位自信的年輕商人，身穿量身訂製的黑色西裝和黑領帶，白色正裝襯衫，略帶自然的微笑，修剪整齊的鬍鬚，正在調整他的西裝袖口，同時展示一款奢華腕錶。超寫實的攝影棚肖像。簡潔的灰色攝影棚背景，柔和的漸變背景，專業的企業形象照風格。柔和的散射主光，微妙的輪廓光，清晰的面部細節，自然的皮膚紋理，淺景深，85mm 鏡頭，f/2 光圈，高動態範圍，清晰對焦，電影級色彩分級，8K 解析度，頂級編輯攝影。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137198989_jssa6q_HBHOG6obgAA4MYR.jpg" width="600" alt="個人檔案 / 頭像 - 商務人士的超寫實企業形象照 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Taaruk](https://x.com/Taaruk_)
-- **來源:** [Twitter Post](https://x.com/Taaruk_/status/2022624342811816235)
-- **發布時間:** 2026年2月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10097)**
-
----
-
-### No. 19: 個人檔案 / 頭像 - 超逼真鏡中自拍健身肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度詳細、結構化的 JSON 提示，用於生成一張超逼真的女性運動後垂直鏡面自拍，模擬智慧型手機（iPhone 17 Pro Max）拍攝，具有自然的皮膚紋理、汗水光澤和真實的運動後細節。
-
-#### 📝 提示詞
-
-```
-{
-  "meta": {
-    "style": "超寫實智慧型手機健身生活攝影",
-    "quality": "4K 超高畫質、高細節、自然膚質",
-    "camera": "iPhone 17 Pro Max",
-    "lens": "1 倍原生鏡頭",
-    "aperture_simulation": "f/1.8 計算式光圈",
-    "iso": 160,
-    "white_balance": "中性日光平衡",
-    "color_grading": "自然色調，帶有輕微暖色高光",
-    "aspect_ratio": "9:16 垂直",
-    "focus": "清晰的鏡面反射，逼真的智慧型手機景深"
-  },
-  "scene": {
-    "location": "現代家庭健身房角落或臥室運動空間",
-    "time_of_day": "傍晚",
-    "lighting": {
-      "primary": "自然窗光",
-      "secondary": "柔和室內環境光",
-      "mood": "活力、清新、真實",
-      "shadows": "柔和自然的陰影衰減"
-    },
-    "background_elements": [
-      "全身鏡",
-      "捲起的瑜伽墊",
-      "地板上的小毛巾",
-      "簡約裝飾",
-      "附近的水瓶"
-    ],
-    "atmosphere": "運動後的隨性時刻，健康生活氛圍"
-  },
-  "subject": {
-    "gender": "女性",
-    "age": "年輕成人",
-    "body_type": "纖細、健美體態，帶有自然女性曲線",
-    "skin_tone": "白皙膚色，運動後自然泛紅",
-    "skin_details": "額頭和鎖骨有輕微汗珠光澤，細微痘疤，可見毛孔，逼真紋理",
-    "hair": {
-      "color": "淺金色",
-      "style": "微亂馬尾，臉部周圍有鬆散濕潤的髮絲"
-    },
-    "expression": "柔和滿足的微笑，臉頰微紅",
-    "pose": {
-      "position": "站在鏡子前",
-      "action": "單手拿手機自拍鏡像",
-      "posture": "輕微臀部偏移，放鬆但充滿活力的站姿"
-    },
-    "wardrobe": {
-      "outfit_type": "運動瑜伽套裝",
-      "top": "合身運動內衣，因汗水略微變深",
-      "bottom": "高腰壓縮緊身褲",
-      "style_description": "現代運動服飾，品牌標誌極少"
-    },
-    "emotion": "成就感、自信、運動後的自然美"
-  },
-  "composition": {
-    "camera_angle": "鏡像自拍視角",
-    "framing": "垂直置中構圖",
-    "depth_of_field": "中等景深，主體清晰，背景柔和模糊",
-    "realism_effects": "真實 iPhone HDR 處理，輕微鏡頭畸變，細微智慧型手機顆粒感"
-  },
-  "rendering_details": {
-    "skin_detail": "自然膚質，可見毛孔和逼真的汗水高光",
-    "fabric_detail": "彈性面料紋理，帶有細微濕潤區域",
-    "hair_detail": "可見單根微濕髮絲",
-    "lighting_effects": "皮膚上的自然光澤反射",
-    "realism_level": "寫實級，真實智慧型手機拍攝"
-  },
-  "mood_keywords": [
-    "運動後",
-    "健身生活",
-    "鏡像自拍",
-    "自然美",
-    "真實"
-  ]
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771137210114_mpqut4_HBHDh-yXcAIwur1.jpg" width="600" alt="個人檔案 / 頭像 - 超逼真鏡中自拍健身肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [TumuAI](https://x.com/tumuaipromptx)
-- **來源:** [Twitter Post](https://x.com/tumuaipromptx/status/2022612768529031385)
-- **發布時間:** 2026年2月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10120)**
-
----
-
-### No. 20: 社群媒體貼文 - 火車廣告風格的書籍廣告圖片
+### No. 19: 社群媒體貼文 - 火車廣告風格的書籍廣告圖片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,453 +1967,254 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 季節性轉型網格
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個用於生成 2x2 網格的提示範本，該網格顯示同一物體或場景在四季（春、夏、秋、冬）中的變化，同時保持無縫美學和一致的攝影機角度。
-
-#### 📝 提示詞
-
-```
-一個 2x2 的網格，展示了相同 [{argument name="object or scene" default="OBJECT/SCENE"}] 在四季中的景象。左上方是春天（櫻花、柔和的粉彩色調），右上方是夏天（金色光線、鮮豔的綠色），左下方是秋天（橘色樹葉、溫暖色調），右下方是冬天（白雪、藍色暮光）。美學風格一致，相機角度相同，每個面板都有電影般的燈光效果。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310079634_278gq0_HBT0rq3bcAMeCHF.jpg" width="600" alt="社群媒體貼文 - 季節性轉型網格 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310079735_nlkcd5_HBT0xm1bEAAepVS.jpg" width="600" alt="社群媒體貼文 - 季節性轉型網格 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310079770_63tpm7_HBT016CacAA6g3s.jpg" width="600" alt="社群媒體貼文 - 季節性轉型網格 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310080753_7f6e9o_HBT06t7XwAAVXyL.jpg" width="600" alt="社群媒體貼文 - 季節性轉型網格 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Alexandra Aisling](https://x.com/AllaAisling)
-- **來源:** [Twitter Post](https://x.com/AllaAisling/status/2023511466884895022)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10238)**
-
----
-
-### No. 22: 社群媒體貼文 - 鮮豔抽象流體藝術傾注
+### No. 20: 社群媒體貼文 - 時尚專題：精確的 2D 卡通複製畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個用於生成充滿活力、抽象的流體藝術傾瀉特寫圖像的提示。它強調了使用深藍色、青色、橙色、黃色和紫色等鮮豔色彩混合而成的迷人細胞和有機形狀圖案，創造出一個動感十足、充滿活力的構圖，令人聯想到微觀生物。
-
-#### 📝 提示詞
-
-```
-一幅充滿活力的抽象特寫，描繪了流體藝術傾瀉而成的迷人圖案，展現出細胞和有機形狀。色彩鮮明地融合了深藍、青綠、橙色、黃色和紫色，其中夾雜著粉紅色和白色區域。細胞的大小和形狀各異，有些是完美的圓形，有些則不規則且呈變形蟲狀，許多細胞內部還包含更小的同心圓或點。背景是濃郁的深紫色，逐漸過渡到明亮的橙色和粉紅色區域，營造出動態而充滿活力的構圖。整體效果令人聯想到微觀生物或色彩斑斕的大理石表面。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310084474_dw9kld_HBTvo5FaUAAaZkR.jpg" width="600" alt="社群媒體貼文 - 鮮豔抽象流體藝術傾注 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **來源:** [Twitter Post](https://x.com/heathergreen/status/2023505623120224377)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10246)**
-
----
-
-### No. 23: 社群媒體貼文 - 莎蒂·辛克 (Sadie Sink) 與豪華車的電影感夜間肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個高度結構化的提示，用於生成一張電影感十足、超寫實的 Sadie Sink 夜間肖像照。她身穿深色絲絨運動服，轉身回望鏡頭，置身於戶外一輛豪華敞篷車旁，周圍環繞著引人注目的紫色霓虹氛圍燈光。
+一個複雜的 JSON 提示，要求生成一張女性的超寫實時尚編輯肖像（具有特定的姿勢、服裝和道具），同時生成一個與主體完全相同的 2D 向量卡通複製品，確保貼紙疊加中的姿勢和細節精確鏡像。
 
 #### 📝 提示詞
 
 ```
 {
-  "image_generation_prompt": {
-    "subject_details": {
-      "identity": "{argument name=\"identity\" default=\"Sadie Sink\"}",
-      "physical_attributes": "Sadie Sink 的精確臉部、身形和身高。散發著性感、誘人和自信的氛圍。",
-      "hair": "標誌性的紅髮，隨意地紮成微亂的馬尾，幾縷髮絲優雅地垂落在臉龐。",
-      "pose_and_expression": "身體側向一邊，但扭轉回來，越過左肩直接看向鏡頭。左手抬起，一根手指輕輕地放在下唇附近。右臂自然下垂，手裡拿著一個包。表情魅惑迷人。"
+  "generation_request": {
+    "meta_data": {
+      "task_type": "fashion_editorial_street_portrait_with_exact_cartoon_duplicate",
+      "language": "zh-TW",
+      "priority": "highest",
+      "version": "v1.2_EXACT_2D_DUPLICATE_STICKER"
     },
-    "wardrobe_and_accessories": {
-      "clothing": "深棕色絲絨/天鵝絨運動服，包括一件露臍長袖連帽衫（微露腰部）和配套的寬鬆運動褲。",
-      "jewelry": "手指上戴有多個銀戒指，左手腕上戴著多層銀手鍊。",
-      "bag": "右手拿著一個深綠色菱格紋皮革手提包，配有金色鏈條肩帶（Chanel 風格），垂在腿邊。"
+    "input": {
+      "mode": "text_to_image",
+      "notes": "創建一張寫實的時尚肖像照，以及一張 2D 卡通貼紙，該貼紙必須精確複製真實女性的姿勢、服裝、配飾和道具擺放。貼紙必須精確反映真實主體。"
     },
-    "setting_and_props": {
-      "environment": "傍晚/黃昏時的戶外。站在鋪砌的車道或安靜的道路上，背景是高大的深綠色樹木和樹籬。",
-      "vehicle": "一輛現代白色豪華敞篷車（Mercedes 風格）停在她旁邊。駕駛座車門敞開。",
-      "vehicle_details": "車輛內部為黑色，方向盤清晰可見。引人注目的紫色霓虹氛圍燈照亮了敞開的車門內部和儀表板。一個閃閃發光的銀色手提包放在車內乘客座上。"
+    "output": {
+      "aspect_ratio": "4:5",
+      "resolution": "ultra_high",
+      "num_images": 1,
+      "sharpness": "editorial_crisp",
+      "grain": "subtle_film"
     },
-    "style_and_quality": {
-      "image_type": "4k HD 照片，寫實風格。",
-      "lighting_and_atmosphere": "電影般的傍晚光線，自然的黃昏光線與車內紫色氛圍燈的光芒交織。高度細緻，焦點銳利，捕捉高端名人生活方式的美學。",
-      "technical_parameters": {
-        "aspect_ratio": "9:16"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310079131_bo1yj2_HBTrSIzbUAEr43a.jpg" width="600" alt="社群媒體貼文 - 莎蒂·辛克 (Sadie Sink) 與豪華車的電影感夜間肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Serrah ❀](https://x.com/Serreh131306)
-- **來源:** [Twitter Post](https://x.com/Serreh131306/status/2023500834794074238)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10235)**
-
----
-
-### No. 24: 社群媒體貼文 - 船上兒童的黑白紀錄片照片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個用於創作黑白紀錄片風格照片的提示，捕捉一個孩子在小型木製漁船中休息的畫面，重點在於真實的鄉村生活、自然光線和新聞攝影的寫實主義。
-
-#### 📝 提示詞
-
-```
-黑白紀錄片風格照片，一名兒童躺在小型木製漁船內，雙臂枕在頭後，繩索散落在周圍，背景是平靜的水面地平線，遠處可見沿海村莊，陰天，柔和漫射的自然光，35 毫米紀錄片鏡頭，真實的鄉村生活，逼真的膚色，細微的顆粒感，環境肖像，新聞攝影寫實主義
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310069713_uu952u_HBTm-Yea8AEWd6W.jpg" width="600" alt="社群媒體貼文 - 船上兒童的黑白紀錄片照片 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Baby Meme X](https://x.com/babymemexx)
-- **來源:** [Twitter Post](https://x.com/babymemexx/status/2023496650753487009)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10219)**
-
----
-
-### No. 25: 社群媒體貼文 - 舒適燭光泡泡浴短片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個詳細的 JSON 提示，用於生成一張超逼真的圖像，模擬低光 iPhone HDR 影片片段。場景中，一位身材曲線優美的金髮女子在充滿濃密泡泡的現代浴缸中放鬆，周圍是溫暖閃爍的燭光，她戴著一個亮綠色的青蛙髮箍，強調自然的身體比例和電影般的陰影。
-
-#### 📝 提示詞
-
-```
-{
-  "meta": {
-    "quality": "超逼真",
-    "resolution": "4k",
-    "aspect_ratio": "9:16",
-    "camera": "iPhone 15 Pro",
-    "lens": "24mm 廣角前置鏡頭",
-    "style": "低光 iPhone HDR、溫暖燭光、電影感陰影、柔和顆粒、真實膚色"
-  },
-  "character_lock": {
-    "age": "20 多歲（成年）",
-    "ethnicity": "金髮歐洲人",
-    "hair": {
-      "color": "金色",
-      "style": "濕髮向後梳並藏於髮帶下"
+    "scene": {
+      "environment": "大膽的啞光紅色木門",
+      "lighting": "柔和的自然日光，無 HDR，平衡對比度",
+      "mood": "自信奢華的街頭風格"
     },
-    "eyes": "藍色",
-    "body": {
-      "type": "豐腴女性身材",
-      "proportions": "自然沙漏型身材"
-    }
-  },
-  "scene": {
-    "location": "昏暗舒適浴室內的現代白色浴缸",
-    "time": "傍晚",
-    "atmosphere": "浴缸周圍有多個溫暖的蠟燭、柔和閃爍的燈光、空氣中瀰漫著輕微的水蒸氣"
-  },
-  "lighting_details": {
-    "primary_light": "來自兩側的溫暖燭光",
-    "secondary_light": "非常柔和的頂部環境光",
-    "effect": "皮膚上的金色高光、柔和的陰影漸變"
-  },
-  "camera_perspective": {
-    "pov": "前置鏡頭垂直短影片畫面",
-    "angle": "略微抬高的向下角度",
-    "framing": "腳部在前景下方隱約可見，泡泡適當地覆蓋身體，臉部在畫面頂部三分之一處"
-  },
-  "subject": {
-    "action": "在溫暖的泡泡浴中放鬆，輕輕地在水中移動雙腳，同時拍攝一段舒適的短影片",
-    "pose": {
-      "legs": "自然地伸向鏡頭",
-      "expression": "平靜放鬆的微笑，平和的眼神"
-    },
-    "details": {
-      "bath": "濃密的白色泡泡適當地覆蓋胸部和身體",
-      "steam": "捕捉燭光的細微薄霧",
-      "water_effect": "反射溫暖光線的柔和漣漪"
-    },
-    "outfit": {
-      "head_accessory": {
-        "type": "柔軟青蛙髮帶",
-        "color": "亮綠色",
-        "details": "頂部有可愛的青蛙眼睛，被燭光輕微照亮"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310090459_ds7kvx_HBTEcfUaIAAWvZv.jpg" width="600" alt="社群媒體貼文 - 舒適燭光泡泡浴短片 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [TumuAI](https://x.com/tumuaipromptx)
-- **來源:** [Twitter Post](https://x.com/tumuaipromptx/status/2023458159692489047)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10258)**
-
----
-
-### No. 26: 社群媒體貼文 - Pixar 風格角色表情網格
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個將圖像轉換為 Pixar 風格動畫角色的提示，生成一個 6 格的網格，展示同一個角色在彩色實心背景下呈現不同情緒（開心、震驚、生氣、關懷、自信、豎起大拇指），並強調流暢的 3D 渲染品質。
-
-#### 📝 提示詞
-
-```
-一個 3D 皮克斯風格的動畫女孩，以 6 格網格呈現，同一角色有著棕色短髮和大大的藍眼睛，展現不同的情緒（開心、震驚、生氣、關懷、自信、豎起大拇指），搭配彩色純色背景（黃色、藍色、紅色、粉紅色、紫色、綠色），柔和的攝影棚燈光，流暢的 3D 渲染，鮮豔的色彩，超精緻，4K，動畫電影品質。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310086398_7f1k62_HBTBVIiawAA3BKI.jpg" width="600" alt="社群媒體貼文 - Pixar 風格角色表情網格 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Edraak Tech | إدراك تِك](https://x.com/EdraakTechAi)
-- **來源:** [Twitter Post](https://x.com/EdraakTechAi/status/2023454723849003368)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10250)**
-
----
-
-### No. 27: 社群媒體貼文 - 日本便利店武士刀人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度技術性的 JSON 提示，用於生成一張模擬 iPhone 17 Pro 拍攝的原始、高保真照片。它著重於根據參考圖像（圖像 A）進行嚴格的身份鎖定（面部拓撲、頭髮物理）。場景設定在日本便利商店（konbini），主體身穿校服風格的服裝，坐著並手持武士刀，強調逼真的人體體積和陰影物理效果。
-
-#### 📝 提示詞
-
-```
-（垂直 9:16）。原始高擬真照片，iPhone 17 Pro 模擬，35mm 焦距，f/2.8 光圈呈現逼真的結構深度，真實的數位顆粒。
-
-[主體與身份鎖定]
-
-身份鎖定：絕對繼承圖像 A 的臉部地形、杏仁狀眼睛座標和心形下顎線。
-
-髮型物理：繼承圖像 A。
-
-生物擬真度：表皮物理，包括臉頰上可見的微孔、自然皮膚紋理和緞面光澤水潤感。
-
-表情同步：表情鎖定 - 複製參考場景中沉思的向下凝視和中性唇部張力。
-
-[服裝與體態]
-
-技術描述：專業白色棉府綢鈕扣襯衫，帶有標準結構省道；海軍藍和白色條紋絲質領結；高腰褶皺海軍藍格紋迷你裙。
-
-紡織結構：自然布料垂墜感和逼真的縫線；腰部和手肘處的標準材質褶皺。
-
-解剖體積：遵循標準人體幾何和逼真物理渲染的自然解剖比例。
-
-[姿勢與互動]
-
-幾何：坐在圓形木凳上的側面輪廓；軀幹朝向木製櫃檯傾斜。
-
-關節：雙手將武士刀橫放在腿上；逼真的手指關節活動和皮膚與物體的接觸。
-
-[環境與光線]
-
-氛圍：雙光源室內照明；冷色調螢光頂燈和暖色調吊燈。
-
-背景完整性：高擬真日本便利商店（konbini）環境；貨架上擺滿色彩繽紛的零食包裝和詳細的日文招牌。
-
-陰影物理：主體投射到凳子和櫃檯上的自然光線追蹤陰影；布料褶皺中逼真的環境光遮蔽。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310091532_wb813g_HBS7YH_bcAAW9WO.jpg" width="600" alt="社群媒體貼文 - 日本便利店武士刀人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Danna R.](https://x.com/daaaaanc)
-- **來源:** [Twitter Post](https://x.com/daaaaanc/status/2023448170085109983)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10260)**
-
----
-
-### No. 28: 社群媒體貼文 - 超寫實海灘人像，具有特定解剖結構
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度明確且技術性的 JSON 提示，用於生成一張超寫實、原始且坦率的海灘肖像。它要求嚴格保留自然皮膚紋理、解剖學真實性，以及根據參考圖像的特定身體比例（尤其是胸部豐滿度和深度）。主體身穿鼠尾草綠色鉤針比基尼，在刺眼的日間陽光下蹲坐在海岸岩石上。
-
-#### 📝 提示詞
-
-```
-{
-"subject": "一位皮膚黝黑的年輕成年女性，展現出自然的膚質、毛孔和細微的瑕疵。她留著一頭長直深棕色頭髮，輕微向右飄動。她穿著淺鼠尾草綠色的鉤針編織比基尼，包括一個三角形上衣和一個帶側邊綁帶的丁字褲。配飾包括小金邊幾何太陽眼鏡、白色指甲油和一個銀色肚臍環。她的身體特徵包括纖細的腰部、結實的腹部和突出豐滿的胸部，具有顯著的自然體積，明顯向前和向外突出，因重力而下垂，乳溝清晰可見，胸部深度明顯大於胸腔深度。身體比例與參考資料完全一致，沒有正常化或壓縮。",
-"pose": "不對稱地蹲坐在大塊岩石上。右腿彎曲，大腿向前傾斜。左腿向外彎曲。軀幹略微前傾。右臂向下伸，大部分在畫面之外。左臂抬起，手肘向外張開，手放在臉部：中指完全伸直向上指，食指水平地放在鼻子/上唇下方。她的頭部略微前傾，但正對著鏡頭。精確的脊椎彎曲、肩膀傾斜和肢體位置與參考資料鎖定。",
-"environment": "明亮的熱帶海灘環境。前景由大塊、粗糙、紋理豐富的灰棕色海岸巨石組成。中景是清澈碧綠的海洋，延伸至筆直而清晰的地平線。背景是明亮淺藍色的天空，點綴著零星、稀薄的朦朧雲朵。",
-"camera": "人像構圖，中景全身照。視角與視線齊平或略高，以強烈的三維深度捕捉主體和環境。相機距離和角度嚴格保留主體的物理體積和深度，沒有任何廣角失真、壓縮或自拍/鏡像風格的構圖。",
-"lighting": "明亮、直接、刺眼的日間陽光從頭頂和略微右側照射。光線在身體（下巴下方、手臂和乳房之間的深陰影）和岩石上形成強烈、清晰的投射陰影。皮膚上逼真的次表面散射，沒有人工平滑或美顏濾鏡。",
-"mood_and_expression": "俏皮、厚臉皮、精力充沛且不敬。她張嘴微笑/大笑，露出牙齒，透過太陽眼鏡的有色鏡片直視鏡頭。",
-"style_and_realism": "超現實、原始、坦率的數位攝影。對參考圖像的絕對物理準確性。零風格化、修飾或比例平均化。保留精確的解剖真實性、自然皮膚行為和微觀細節。",
-"colors_and_tone": "溫暖、高度飽和、鮮豔的色彩。深金棕色曬黑膚色，淺鼠尾草綠色比基尼，醒目的青色/藍綠色"
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310091989_kax1qh_HBSqUcxWUAAph0s.jpg" width="600" alt="社群媒體貼文 - 超寫實海灘人像，具有特定解剖結構 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [brindley](https://x.com/brindleyai)
-- **來源:** [Twitter Post](https://x.com/brindleyai/status/2023429421005156755)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10261)**
-
----
-
-### No. 29: 社群媒體貼文 - Sydney Sweeney 穿著藍色牛仔服的工作室肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個高度結構化的提示，用於生成一張 Sydney Sweeney 身穿淺藍色上衣和牛仔褲的超寫實攝影棚肖像，重點在於保留她的身份、細緻的面部特徵、專業的攝影棚燈光，以及雜誌編輯般的品質。
-
-#### 📝 提示詞
-
-```
-{
-  "image_prompt": {
     "subject": {
-      "identity": "{argument name=\"identity\" default=\"Sydney Sweeney\"}",
-      "face": "Sydney Sweeney 的臉部特寫，高度細緻，以柔和、自然、閉嘴的微笑直視鏡頭。妝容細緻發光，裸粉色雙唇，睫毛分明，眼影柔和。",
-      "hair": "長而豐盈的波浪金髮，中分並披散在雙肩。"
+      "person": "成年女性",
+      "pose": "蹲姿，雙膝併攏，右手拿著冰咖啡，杯蓋上放著貝果，左手放鬆地靠近膝蓋",
+      "expression": "平靜自信的淺淺微笑",
+      "hair": "柔和的棕色波浪髮",
+      "wardrobe": {
+        "dress": "白色緞面吊帶裙",
+        "boots": "及膝紅色皮革靴",
+        "bag": "一個大型紅色新月形皮革手提包，放在她右側的地面上",
+        "accessories": "深色超大太陽眼鏡"
+      },
+      "props": {
+        "drink": "透明冰咖啡杯，帶黑色吸管",
+        "food": "烤芝麻貝果，放在杯蓋上"
+      }
+    },
+    "cartoon_sticker": {
+      "enabled": true,
+      "description": "2D 卡通複製圖，與真實女性的蹲姿完全相同，腿部角度完全相同，手部擺放位置完全相同，冰咖啡和貝果的擺放位置相同，白色緞面裙相同，紅色靴子相同，紅色包包位置相同，太陽眼鏡形狀相同。",
+      "style": "簡潔的平面 2D 向量插圖，粗黑輪廓，平面填色，極少陰影，簡化面部細節但髮型和表情相同，小巧可愛的比例但符合解剖學一致性",
+      "placement": "左下角",
+      "scale": "圖像高度的 18-22%",
+      "edge": "白色貼紙裁切邊框",
+      "shadow": "微妙柔和的陰影",
+      "strict_rules": [
+        "不要改變姿勢",
+        "不要改變服裝顏色",
+        "不要改變道具擺放位置",
+        "不要變成 3D",
+        "不要將寫實陰影混入貼紙中"
+      ]
+    },
+    "camera": {
+      "lens": "50mm 定焦鏡頭",
+      "aperture": "f/2.8",
+      "focus": "主體清晰對焦"
+    },
+    "style": {
+      "aesthetic": "寫實主圖像 + 簡潔 2D 貼紙疊加",
+      "retouching": "自然膚質",
+      "no": "AI 光暈、變形解剖結構、貼紙變得寫實、重複背景、多餘肢體"
+    }
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396584911_0fj1tq_HBYtuRAaEAEA8wP.jpg" width="600" alt="社群媒體貼文 - 時尚專題：精確的 2D 卡通複製畫 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Özge Döner](https://x.com/astronomerozge1)
+- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023855408247353803)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10296)**
+
+---
+
+### No. 21: 社群媒體貼文 - 水下之吻雙聯畫與數位相機螢幕
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個複雜的 JSON 提示，用於生成一個 2x1 的並排雙聯畫，描繪水下之吻。左側面板顯示一隻手拿著數位相機，其 LCD 螢幕上顯示著這個吻，右側面板則顯示完整的低傳真水下照片，強調身份保留和懷舊的數位相機美學。
+
+#### 📝 提示詞
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "underwater_kiss_diptych_2x1_digicam",
+      "language": "en",
+      "priority": "highest",
+      "version": "v1.0_UNDERWATER_KISS_SONY_SCREEN_DIPTYCH"
+    },
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+      "preserve_pose": true,
+      "preserve_hand_structure": true,
+      "notes": "建立一個 2x1 的並排雙聯畫。左側面板：一隻手拿著銀色小型數位相機（Sony 風格），其 LCD 螢幕上顯示著水下之吻，包括相機邊框和螢幕反光；右側面板：水下之吻的完整照片本身，碧綠色海水，氣泡，略帶低傳真數位相機效果。保持相同的伴侶姿勢和親密感。如果提供參考資料，請保留身份。沒有額外人物。"
+    },
+    "output": {
+      "aspect_ratio": "4:5",
+      "resolution": "ultra_high",
+      "num_images": 1,
+      "layout": {
+        "type": "split",
+        "direction": "vertical",
+        "panels": 2,
+        "gutter": "thin"
+      },
+      "sharpness": "lofi_filmic",
+      "grain": "subtle_to_medium"
+    },
+    "scene": {
+      "right_panel_environment": "水下泳池場景，碧綠色海水，漂浮的氣泡和顆粒，柔和的光線，輕微的薄霧",
+      "left_panel_environment": "手持相機後方的中性室內牆壁背景，逼真的手部握持，LCD 上輕微的眩光"
+    },
+    "composition": {
+      "left_panel": "小型相機背面的特寫鏡頭，LCD 可見；LCD 上顯示水下之吻；包括輕微的像素網格/莫爾紋和 LCD 光暈",
+      "right_panel": "情侶接吻的緊密中景水下鏡頭；女人用雙手捧著男人的臉；男人摟著女人的腰；他們周圍有氣泡"
+    },
+    "style": {
+      "aesthetic": "懷舊數位相機 / 2010 年代初期小型相機外觀",
+      "color": "冷色調青色/藍綠色水下色調，略微柔和",
+      "texture": "輕微的壓縮偽影，輕微的柔和度，逼真的水波扭曲"
+    },
+    "negative_prompt": "額外人物，臉部變形，身份漂移，手部畸形，多餘手指，多餘肢體，文字疊加，字幕，浮水印，標誌，品牌標記，時間戳，UI 數字，刺眼 HDR，卡通"
+    }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396588160_htcjtb_HBYZzhAWoAAq7fM.jpg" width="600" alt="社群媒體貼文 - 水下之吻雙聯畫與數位相機螢幕 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Özge Döner](https://x.com/astronomerozge1)
+- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023833593462562865)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10301)**
+
+---
+
+### No. 22: 社群媒體貼文 - 2x2 格線電影感夜間情侶肖像，附身份鎖定
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個複雜的 JSON 提示，用於生成一對情侶在電影般夜景中的 2x2 網格拼貼畫，要求在四個不同的浪漫鏡頭中，兩位主角都能高度保持身份一致性，並使用特定的服裝、燈光和電影般的色彩分級。
+
+#### 📝 提示詞
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "task_type": "cinematic_night_couple_2x2_grid_identity_lock",
+      "language": "zh-TW",
+      "priority": "highest",
+      "version": "v1.0_DUSK_COUPLE_LIFT_ROMANCE_2X2_IDLOCK"
+    },
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+      "preserve_skin_tone": true,
+      "preserve_pose": false,
+      "preserve_hand_structure": true,
+      "notes": "重要提示：有兩個人。請使用兩張獨立的參考圖片：一張用於女性，一張用於男性。輸出必須盡可能地保留兩者的身份和面部比例，使其與參考圖片一致。創建一個單一的 2x2 網格拼貼（四個不同的鏡頭），包含相同的情侶、相同的服裝風格和相同的夜間氛圍。無文字、無標誌、無浮水印。"
+    },
+    "output": {
+      "aspect_ratio": "4:5",
+      "resolution": "ultra_high",
+      "num_images": 1,
+      "layout": {
+        "type": "grid",
+        "rows": 2,
+        "cols": 2,
+        "gutter": "thin"
+      },
+      "sharpness": "filmic_crisp",
+      "grain": "subtle_analog"
+    },
+    "scene": {
+      "environment": "戶外夜晚/黃昏場景，深藍色天空和微弱的溫暖地平線，遠處有少量城市燈光",
+      "mood": "浪漫電影般的夜間肖像，親密而自然，具有電影劇照的感覺"
     },
     "wardrobe": {
-      "top": "合身、淺藍色、羅紋無袖高領上衣（掛脖/背心款式）。",
-      "bottoms": "經典中度水洗藍色高腰牛仔褲，帶有可見的銀色鈕扣和標準五口袋設計。"
+      "man": "白色無袖背心，運動休閒風格",
+      "woman": "白色合身短袖上衣，大圈耳環，長髮飄逸"
     },
-    "accessories": {
-      "earrings": "懸掛式金色個性耳環。",
-      "necklace": "精緻、纖細的金色鍊條項鍊。",
-      "bracelet": "左手腕戴著粗獷的金色鍊條手鍊。"
+    "lighting": {
+      "style": "電影般的低光，帶閃光燈 + 暖色邊緣光",
+      "key_light": "臉部柔和的暖色主光（如手機閃光燈或小型 LED），不過曝",
+      "rim_light": "頭髮和肩膀上的暖色邊緣光",
+      "background": "深藍色夜間色調，乾淨整潔"
     },
-    "pose_and_composition": {
-      "pose": "站立式肖像。主體輕輕傾斜，右前臂靠在透明的壓克力塊上。左臂自然垂在身側。",
-      "camera_angle": "齊眼高度，從腰部以上拍攝的中景肖像照。"
+    "camera": {
+      "look": "35mm 電影膠片質感",
+      "lens": "50mm 和 85mm 鏡頭感",
+      "depth_of_field": "淺到中等景深，臉部清晰，背景柔和模糊",
+      "color_grade": "冷藍色陰影 + 暖色皮膚高光，微妙的光暈"
     },
-    "environment": {
-      "background": "乾淨、無縫的工作室背景，帶有微妙的深灰色至暖棕色漸變，主體正後方略微亮一些。",
-      "lighting": "專業工作室燈光。柔和、漫射、均勻的照明，完美突顯臉部特徵，同時在背景和服裝上投射出柔和、自然的陰影。"
+    "panels": {
+      "panel_1": "寬闊浪漫的舉起：男人抱著女人的腰/臀部；女人雙臂向上伸向天空，頭向後仰，頭髮飄逸；深藍色黃昏背景",
+      "panel_2": "親密特寫側面：情侶非常靠近地互相面對，女人帶著溫柔的微笑仰望男人；男人向下看；臉部和眼睛銳利清晰",
+      "panel_3": "紅光自拍特寫：強烈的紅色凝膠光灑在兩張臉上；男人在前看著鏡頭，女人在他身後微笑；保持身份完美；無字幕或浮水印",
+      "panel_4": "寬闊的舉起擁抱：男人再次抱著女人；女人雙臂環繞他的脖子，頭向後仰笑著；相同的黃昏背景和燈光連續性"
     },
-    "technical_specifications": {
-      "resolution": "4k 解析度，高清照片",
-      "aspect_ratio": "9:16",
-      "style": "超寫實肖像攝影，寫實主義，電影級燈光，超細緻，銳利對焦，雜誌編輯品質。"
+    "identity_rules": {
+      "two_people_only": true
     }
   }
 }
@@ -2538,65 +2225,167 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310073834_jugn7b_HBSi7PubIAA7AiX.jpg" width="600" alt="社群媒體貼文 - Sydney Sweeney 穿著藍色牛仔服的工作室肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396582307_es4r2m_HBYTRI_bwAAXwFn.jpg" width="600" alt="社群媒體貼文 - 2x2 格線電影感夜間情侶肖像，附身份鎖定 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Serrah ❀](https://x.com/Serreh131306)
-- **來源:** [Twitter Post](https://x.com/Serreh131306/status/2023421275658764481)
-- **發布時間:** 2026年2月16日
+- **作者:** [Özge Döner](https://x.com/astronomerozge1)
+- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023826325358719030)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10227)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10290)**
 
 ---
 
-### No. 30: 社群媒體貼文 - 馬斯克在土耳其城市巴士上（紀錄片寫實主義）
+### No. 23: 社群媒體貼文 - 迷霧森林時尚專題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個高度特定的 JSON 提示，旨在生成一張超逼真的紀錄片風格圖像，模擬 iPhone 15 Pro 拍攝。場景描繪了一名中年男子（神似 Elon Musk）在土耳其一輛擁擠的城市公車上，正值清晨通勤時段，強調自然的皮膚紋理、細微的疲憊感和真實的光線，以營造出勞動階級的氛圍。
+一個結構化的 JSON 提示，用於生成一張高端時尚編輯圖片：一名女子身穿白色蕾絲緊身胸衣禮服，置身於薄霧瀰漫、浪漫且略帶哥德式風格的童話森林空地中，強調柔和的漫射光線和電影般的色彩分級。
 
 #### 📝 提示詞
 
 ```
 {
-  "meta": {
-    "style": "超寫實、紀錄片寫實主義",
-    "resolution": "8k",
-    "aspect_ratio": "9:16",
-    "camera": "iPhone 15 Pro",
-    "lens": "26mm",
-    "lighting": "透過巴士車窗的自然晨光",
-    "quality": "高細節、電影級寫實主義"
-  },
-  "subject": {
-    "description": "一位中年男子，皮膚白皙，略顯凌亂的深棕色短髮，淺色眼睛，嘴角有細微的笑紋，顴骨分明。",
-    "expression": "疲憊但平靜，略帶思索的早晨表情",
-    "clothing": "平價深色夾克，略有皺褶的簡約鈕扣襯衫，樸實的日常穿著",
-    "details": "眼下有非常細微的疲憊感，自然的皮膚紋理，逼真的毛孔，沒有華麗的造型"
-  },
-  "scene": {
-    "location": "清晨通勤時的土耳其城市公共巴士內",
-    "environment": "擁擠的巴士內部，黃色扶手，布質座椅，站立的乘客，略微起霧的車窗",
-    "time": "清晨",
-    "weather": "柔和的日光，略有陰天",
-    "mood": "寫實的工人階級早晨通勤氛圍"
-  },
-  "composition": {
-    "angle": "從對面坐著的人拍攝的偷拍視角，與視線齊平",
-    "framing": "垂直社群媒體格式，上半身可見",
-    "focus": "主體清晰對焦，背景乘客略微模糊",
-    "depth_of_field": "淺景深"
-  },
-  "realism_boost": {
-    "skin_texture": "高度細緻的自然皮膚紋理",
-    "imperfections": "輕微的面部不對稱，自然的皺紋，細微的早晨疲勞感",
-    "motion": "巴士車窗外輕微的動態模糊",
-    "color_grading": "柔和的中性色調，逼真的土耳其晨光"
+ "generation_request": {
+ "meta_data": {
+ "task_type": "misty_forest_fashion_editorial_no_text",
+ "language": "zh-TW",
+ "priority": "highest",
+ "version": "v1.0_MISTY_FOREST_WHITE_LACE_CORSET"
+ },
+ "input": {
+ "mode": "text_to_image",
+ "notes": "迷霧森林中的高端時尚編輯照片。無文字、無標誌、無浮水印。"
+ },
+ "output": {
+ "aspect_ratio": "4:5",
+ "resolution": "ultra_high",
+ "num_images": 1,
+ "sharpness": "filmic_crisp",
+ "grain": "subtle_analog"
+ },
+ "scene": {
+ "environment": "迷霧繚繞的森林空地，濃厚的霧氣/薄霧，古老扭曲的樹枝在頭頂拱起，柔軟的綠草上散落著小葉子",
+ "mood": "浪漫、夢幻、略帶哥德式童話風格、高端時尚",
+ "time": "柔和的晨光透過霧氣漫射"
+ },
+ "subject": {
+ "person": "成年女性",
+ "hair": "長直深棕色頭髮，中分，幾縷鬆散的髮絲",
+ "makeup": "柔和魅力妝容，光澤肌膚，清晰眉毛，低調裸色唇妝",
+ "wardrobe": {
+ "dress": "露肩白色蕾絲緊身胸衣禮服，長袖，合身剪裁，可見緊身胸衣骨架和蕾絲紋理，精緻的緞帶細節"
+ },
+ "pose": "站立 3/4 身，一隻手叉腰，肩膀放鬆，自信地凝視鏡頭"
+ },
+ "lighting": {
+ "style": "自然漫射日光與霧氣光暈",
+ "key_light": "柔和的正面光，顴骨上輕柔的高光",
+ "atmosphere": "樹木周圍有輕微的霧氣光暈，無刺眼陰影"
+ },
+ "camera": {
+ "lens": "35mm 編輯風格",
+ "depth_of_field": "適中，主體清晰，背景被薄霧柔和地分離",
+ "color_grade": "柔和的綠色、奶油白色、略帶暖調的膚色"
+ },
+ "negative_prompt": "文字、排版、標誌、浮水印、多餘的肢體、多餘的手指、變形的手、扭曲的臉、塑膠皮膚、重度 HDR、霓虹色、卡通、插畫"
+ }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396586415_5m7fir_HBYQ1uPXEAALdrz.jpg" width="600" alt="社群媒體貼文 - 迷霧森林時尚專題 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Özge Döner](https://x.com/astronomerozge1)
+- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023823709149024491)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10299)**
+
+---
+
+### No. 24: 社群媒體貼文 - 兩個人親密的車內自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度詳細、結構化的提示，用於生成一張在車內拍攝的偷拍式、具有社群媒體美學的特寫自拍照，照片中有兩位年輕女性，其中一位正在俏皮地舔著另一位的脖子，拍攝時間為黃金時段，並帶有強烈的鏡頭光暈。
+
+#### 📝 提示詞
+
+```
+{
+  "prompt_structure": {
+    "image_type": "車內特寫自拍",
+    "aspect_ratio": "3:4",
+    "subjects": [
+      {
+        "identity": "年輕女子（右），主要拍攝對象",
+        "appearance": {
+          "hair": "深色波浪長棕髮，凌亂的髮絲（「wispies」）散落在臉龐周圍，左耳上方夾著一個粉紅色塑膠蝴蝶髮夾",
+          "skin": "溫暖的古銅色膚色，光滑但自然的質感，在陽光下發光",
+          "makeup": "清晰的弓形眉毛，長睫毛/睫毛膏，啞光棕裸色唇膏，柔和的修容",
+          "expression": "與鏡頭直接眼神交流，中性至柔和誘人的凝視，雙唇微啟"
+        },
+        "apparel": {
+          "top": "白色羅紋背心/連身衣，低圓領口露出乳溝",
+          "accessories": "細銀鍊項鍊，帶有小型橢圓形宗教吊墜"
+        }
+      },
+      {
+        "identity": "年輕女子（左），次要拍攝對象",
+        "appearance": {
+          "hair": "深色頭髮緊緊紮起，耳朵上方可見剃光的底層頭髮",
+          "skin": "較白的膚色，大部分在陰影中",
+          "pose": "側面視角，緊密地靠向右側拍攝對象"
+        },
+        "action": "伸出舌頭舔右側拍攝對象的頸部/下顎線區域，親密而俏皮的姿態",
+        "apparel": {
+          "top": "黑色 T 恤，帶有大型白色圖案印花（部分臉部可見）",
+          "accessories": "粗金繩鍊項鍊，耳骨/耳垂上戴著小銀圈耳環"
+        }
+      }
+    ],
+    "environment": {
+      "setting": "汽車內部（白天）",
+      "elements": [
+        "灰色織物汽車座椅，帶有圖案紋理",
+        "拍攝對象後方可見汽車頭枕",
+        "左上角有後視鏡",
+        "後視鏡上掛著金色/黃色珠子念珠或項鍊",
+        "後窗顯示模糊的戶外景色（樹木、明亮的天空）"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "source": "從右側射入的自然陽光（黃金時段）",
+      "quality": "溫暖、朦朧、柔和",
+      "effects": [
+        "右邊緣有強烈的太陽光斑/漏光，導致對比度過曝",
+        "整個圖像呈現溫暖的金色調",
+        "左側拍攝對象有柔和的陰影",
+        "右側拍攝對象的肩膀和臉頰有過曝的高光"
+      ]
+    },
+    "camera_technical": {
+      "perspective": "手持自拍角度，略高",
+      "focal_length": "廣角（手機相機）",
+      "style": "隨性、社群媒體美學、略微柔焦、非專業銳利",
+      "artifacts": "陰影處略有顆粒/雜訊，因鏡頭眩光導致對比度降低"
+    }
   }
 }
 ```
@@ -2606,36 +2395,32 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310088678_5uofj7_HBSZuP5bcAA57Ap.jpg" width="600" alt="社群媒體貼文 - 馬斯克在土耳其城市巴士上（紀錄片寫實主義） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396568073_qx3l5k_HBYPxLcb0AAt9iF.jpg" width="600" alt="社群媒體貼文 - 兩個人親密的車內自拍 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [TumuAI](https://x.com/tumuaipromptx)
-- **來源:** [Twitter Post](https://x.com/tumuaipromptx/status/2023411353336086571)
-- **發布時間:** 2026年2月16日
+- **作者:** [Jessia](https://x.com/itsjessiababy)
+- **來源:** [Twitter Post](https://x.com/itsjessiababy/status/2023822432813957202)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10254)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10265)**
 
 ---
 
-### No. 31: 社群媒體貼文 - 奢華室內空間的迷人鏡面自拍
+### No. 25: 社群媒體貼文 - 超現實草莓優格廣告場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個結構化提示，用於生成一張超寫實的鏡中自拍，內容是一位迷人的金髮女子，身處奢華的古典室內，身穿精緻的金色蕾絲和金屬感短裙，強調柔和的自然陽光和高端時尚雜誌的審美風格。
+一個詳細的提示，用於生成一張超現實、異想天開、可愛風格的廣告圖片，內容為一個巨大的草莓優格冰沙罐漂浮在棉花糖般的雲景中，旁邊還有一位美麗的年輕女模特兒。此提示明確要求使用模特兒臉部的參考圖片。
 
 #### 📝 提示詞
 
 ```
-{
-  "model": "gpt-image-1",
-  "prompt": "一位迷人的金髮女子在豪華古典的室內拍攝超寫實鏡像自拍，背景是白色鑲板牆、大理石壁爐、古董畫框和玻璃咖啡桌。她身穿精緻的金色蕾絲緊身胸衣，飾有花卉刺繡，搭配金屬金色褶皺迷你裙。柔和的自然陽光從側面灑落，肌膚散發溫暖光澤，呈現優雅高端的美學，細膩的紋理，清晰的焦點，奢華時尚編輯風格，4k，寫實攝影，柔和陰影，淺景深。",
-  "size": "1024x1024"
-}
+使用參考圖像中的相同臉部，不改變臉部特徵。一個超現實的夢幻場景，一個裝滿濃稠奶油草莓優格冰沙的大玻璃梅森罐，柔和的粉彩色調，帶有可見的草莓籽和微小水果塊，頂部是大量漩渦狀的鮮奶油般優格，上面放著一顆帶綠葉的新鮮完整草莓作為裝飾，輕盈地漂浮在蓬鬆的棉花糖粉色雲景中央。柔和的粉色棉花糖雲朵和散落的新鮮草莓在周圍飄浮，淺藍色天空背景，異想天開的可愛美學，超細緻，神奇的漂浮構圖，柔和發光的燈光，飄逸甜美的氛圍，高解析度，鮮豔而溫和的粉彩色調。一位美麗的年輕西方女性，擁有白皙發光的皮膚和柔軟波浪狀的金髮，自然的清新妝容，紅潤的臉頰和光澤的雙唇，穿著淺粉色夏季洋裝，優雅地漂浮在梅森罐旁，彷彿置身於夢幻般的優格廣告中。她溫柔地對著鏡頭微笑，手中拿著一勺奶油草莓優格，表情俏皮而歡樂，微風輕輕吹拂著她的頭髮和洋裝，廣告風格構圖，奢華甜點活動美學，電影般的景深，超現實卻又異想天開的奇幻氛圍。--ar 3:4 --stylize 250 --v 6
 ```
 
 #### 🖼️ 生成圖片
@@ -2643,49 +2428,32 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310072781_1jf6hl_HBSSRqzbsAAL1Ss.jpg" width="600" alt="社群媒體貼文 - 奢華室內空間的迷人鏡面自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310073245_gtvcrs_HBSSRq6bsAE5k1J.jpg" width="600" alt="社群媒體貼文 - 奢華室內空間的迷人鏡面自拍 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1771396569168_y8is5f_HBYLVuBacAAMljc.jpg" width="600" alt="社群媒體貼文 - 超現實草莓優格廣告場景 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Dockie](https://x.com/Document195)
-- **來源:** [Twitter Post](https://x.com/Document195/status/2023402977848177021)
-- **發布時間:** 2026年2月16日
+- **作者:** [Sharon Riley](https://x.com/Just_sharon7)
+- **來源:** [Twitter Post](https://x.com/Just_sharon7/status/2023817557640429818)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10226)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10266)**
 
 ---
 
-### No. 32: 社群媒體貼文 - 攝影棚照片表情網格搭配米妮髮箍
+### No. 26: 社群媒體貼文 - 藍寶石水晶的電影級美學特寫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個詳細的提示，用於生成一張年輕女性在攝影棚中拍攝的逼真 2x2 垂直拼貼照。它指定了自然的皮膚紋理、淡妝、皇家藍絲絨胸罩和米妮風格的髮箍，在網格中展示四種不同的表情（眨眼、驚訝、嘟嘴、自信）。
+一個詳細的提示，用於生成一張超高畫質、電影級的模特兒美妝特寫鏡頭，模特兒擁有白皙肌膚，眼睛周圍和太陽穴點綴著微小的藍寶石水晶，唇部塗有光澤的深海軍藍唇彩，並佩戴羽毛領飾，強調極致特寫和聚焦的攝影棚燈光。
 
 #### 📝 提示詞
 
 ```
-一張逼真的攝影棚照片，一位二十出頭的纖瘦年輕女性，膚色為淺至中等暖米色，膚質光滑自然。她有著柔和的鵝蛋臉、輪廓分明的顴骨、柔和的下顎線、筆直的中小型鼻子、中等豐滿的自然粉色雙唇，以及杏仁狀的棕色眼睛，搭配柔和的深色眉毛。妝容清淡自然，帶有淡淡的睫毛膏、柔和的腮紅和裸色雙唇。她的頭髮是及肩的中棕色，帶有溫暖的金色挑染，中分，略帶波浪且自然。
-
-她穿著一件寶藍色天鵝絨三角文胸，配有細米色肩帶、垂墜的銀色耳環，以及一個米妮風格的髮箍，上面有黑色圓耳朵和一個帶有白色波點的紅色蝴蝶結。背景是乾淨的淺灰色攝影棚背景，光線柔和散射，陰影極少，營造出明亮的時尚感。
-
-這張圖片是一個 2x2 的垂直拼貼（4:5 比例），中等特寫構圖，相機與視線齊平，主體置中。
-
-每個面板中的表情：
-俏皮地眨眼，露出燦爛的笑容，一隻手靠近嘴巴
-驚訝的表情，眼睛睜大，嘴巴張開，雙手放在臉頰上
-噘嘴/不悅的表情，眉毛略微皺起，臉頰靠在手掌上
-嚴肅自信的表情，雙唇自然閉合，雙臂舉起，雙手放在頭後整理頭髮。
-高解析度，清晰對焦，細緻的皮膚和布料紋理，自然色彩。
+電影級寫實風格的 9:16 垂直 8K 超高畫質特寫美妝照，使用 ARRI Alexa 65 搭配變形鏡頭拍攝。[my face reference] 作為模特兒，臉部朝向鏡頭。她的皮膚白皙無瑕。眼睛周圍和太陽穴點綴著微小的藍寶石水晶，如同結晶的淚珠。她有著光澤飽滿的深海軍藍色雙唇。她穿著一件孔雀藍色的高領羽毛衣領，環繞著她的下顎。燈光是柔和、集中的攝影棚式美妝燈，將她從模糊、亮白的背景中襯托出來。
 ```
 
 #### 🖼️ 生成圖片
@@ -2693,81 +2461,113 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310090555_k1jlb4_HBSR7XMa8AIOn0_.jpg" width="600" alt="社群媒體貼文 - 攝影棚照片表情網格搭配米妮髮箍 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396579134_0y32ge_HBX6tUXbcAY3PSq.jpg" width="600" alt="社群媒體貼文 - 藍寶石水晶的電影級美學特寫 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Raakifa](https://x.com/Raakif2446)
+- **來源:** [Twitter Post](https://x.com/Raakif2446/status/2023799267215970773)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10284)**
+
+---
+
+### No. 27: 社群媒體貼文 - 2000 年代初期數碼相機聖誕老人服裝肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度詳細的提示，用於生成一張年輕健美女性的肖像，她穿著性感的聖誕老人風格服裝，使用刺眼的機頂閃光燈照明，以模仿 2000 年代初期住宅走廊中隨手拍攝的數位相機快照美學。
+
+#### 📝 提示詞
+
+```
+一位 20 歲出頭的年輕運動型女性，身材健美緊緻，腹肌明顯，擁有溫暖的古銅色肌膚，一頭中分波浪狀金色長髮，髮根略深，光澤亮麗。她有著深棕色杏眼，畫著濃重的眼線和濃密的假睫毛，眉毛是淺棕色的弓形眉，鼻子挺直，鼻尖圓潤，嘴唇豐滿，塗著光澤的紫粉色唇膏，臉頰紅潤，顴骨有高光，並帶有柔和的古銅色修容。她的表情自信，眼神直接，帶著一絲狡黠的微笑。
+
+她穿著一套性感喜慶的聖誕老人風格服裝：一件紅色集中托高胸罩上衣，飾有大片銀色亮片圓盤，肩帶邊緣有紅色毛絨裝飾；一條超迷你裙，配有紅色腰帶、銀色亮片飾邊和厚厚的白色人造毛皮下擺。配飾包括毛絨絨的白色人造毛皮腕套、紅白色毛絨及膝暖腿套、一條細鏈銀色吊墜項鍊和一個銀色肚臍環。
+
+她正面站立，雙手叉腰，手肘向外，鏡頭從膝蓋到頭部進行中景拍攝，垂直構圖為 3:4。場景是一個狹窄的住宅走廊，她身後是一扇白色前門，門上帶有半圓形扇形窗戶，窗戶是深色反光玻璃，牆壁是米色紋理牆，地板是淺色木紋層壓板。右下方的地板上放著一個深色包包或夾克，可以看到一個白色暖氣片和黑色的門把手/鎖。
+
+燈光是直接的機頂閃光燈，在她身後的門上投下一個生硬的陰影，營造出 2000 年代初期數位相機的隨性夜間快照美學。主導顏色是服裝的紅色和白色、溫暖的膚色以及中性的米色和白色背景。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396572915_3x3a67_HBXrr0tbAAAoP7M.jpg" width="600" alt="社群媒體貼文 - 2000 年代初期數碼相機聖誕老人服裝肖像 - Image 1">
 </div>
 
 #### 📌 詳情
 
 - **作者:** [sammy](https://x.com/sumiturkude007)
-- **來源:** [Twitter Post](https://x.com/sumiturkude007/status/2023402596011298986)
-- **發布時間:** 2026年2月16日
+- **來源:** [Twitter Post](https://x.com/sumiturkude007/status/2023782764886266293)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10257)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10274)**
 
 ---
 
-### No. 33: 社群媒體貼文 - Zendaya 昆蟲學優雅超現實肖像
+### No. 28: 社群媒體貼文 - 電影感日落人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個極其詳細的 JSON 提示，用於生成超現實、微距電影般的超現實肖像（Zendaya 風格）。主體的臉部被一群寶石色黑曜石昆蟲部分遮蔽，場景設定在一個混亂的維多利亞時代昆蟲學工作室。提示中指定了戲劇性的明暗對比（Chiaroscuro）照明、微觀級別的保真度（Phase One XF IQ4），以及 Kodak Tri-X 400 膠捲特有的粗獷有機顆粒感。
+一個詳細的 JSON 提示，用於生成一張年輕東亞女性在日落時分的超寫實電影感肖像。該提示指定了 8K 解析度、2:3 長寬比、暖橙色和青色調色，以及電影級燈光（黃金時段），搭配 85mm 鏡頭和淺景深。
 
 #### 📝 提示詞
 
 ```
 {
-  "vibe_title_en": "昆蟲學的優雅",
-  "master_prompt": "一幅超寫實的微距電影肖像，主角置身於混亂、佈滿灰塵的維多利亞時代昆蟲學工作室。主角的臉部被一群超細緻、寶石色澤的黑曜石蜘蛛和甲蟲巧妙地部分遮蔽，牠們輕柔地爬過皮膚紋理，模仿著一層活生生的面紗。環境極其繁忙且幽閉，堆滿了古董藥罐的架子、釘著蝴蝶標本、散落的黃銅工具、腐朽的植物學手稿和溢出的木製抽屜。燈光是戲劇性的明暗對比，利用單一的冷色主光捕捉昆蟲甲殼的光澤和主角皮膚的天然油脂，而背景的雜物則漸漸融入深邃、有質感的陰影中。使用 Phase One XF IQ4 150MP 相機搭配 120mm 微距鏡頭拍攝，以達到微觀的精確度，並以推片處理的 Kodak Tri-X 400 膠卷特有的粗獷、有機顆粒感呈現。沒有霓虹燈，只有灰塵、陰影和有機紋理。",
   "meta": {
-    "intent": "時尚編輯 / 超現實主義肖像",
-    "priorities": "紋理保真度、超現實寫實主義、氛圍密度",
-    "device_profile": "Phase One XF IQ4 150MP"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "特寫（微距對焦）",
-    "layout": "主體居中，周圍雜物密集",
-    "camera_angle": "視線水平",
-    "tilt_roll_degrees": "0°"
+    "title": "電影感日落肖像",
+    "style": "超寫實電影感肖像",
+    "resolution": "8K",
+    "aspect_ratio": "2:3",
+    "color_grading": "暖橘色與青色調色",
+    "dynamic_range": "高動態範圍",
+    "mood": "戲劇性、氛圍感、情緒化的電影劇照"
   },
   "subject": {
-    "gender": "女性",
-    "identity": "主角",
-    "demographics": "年輕成人，種族模糊",
-    "face": "超現實昆蟲覆蓋下可見的無瑕皮膚紋理，顴骨分明",
-    "hair": "向後梳或紮起，以突顯臉部和昆蟲",
-    "body": "可見肩膀，頸部肌肉緊繃",
-    "expression": "堅忍、專注、不眨眼地直視鏡頭",
-    "pose": "靜止，與生物共生的一刻被凍結"
+    "description": "年輕的東亞女性",
+    "pose": "側面特寫，戶外站立，若有所思地望向遠方",
+    "expression": "平靜而沉思",
+    "hair": "鬆散地向後紮起，柔和的自然髮絲框住臉龐",
+    "makeup": "淡妝",
+    "skin": "自然膚質，逼真的臉部細節"
   },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "高領襯衫",
-        "material": "古董蕾絲 / 絲綢",
-        "color": "炭灰色或深黑色",
-        "fit": "緊身，維多利亞時代的輪廓"
-      }
-    ],
-    "accessories": []
-  },
-  "environment": {
-    "setting": "維多利亞時代昆蟲學工作室 / 動物標本實驗室",
-    "surfaces": "老舊木材、玻璃罐、黃銅金屬、灰塵顆粒",
-    "depth": "淺景深，背景雜物模糊",
-    "atmosphere": "停滯的空氣，舊紙張和防腐液的氣味，佈滿灰塵",
-    "lens_interaction": "眼睛和昆蟲清晰對焦，背景架子有明顯的散景效果"
+  "wardrobe": {
+    "coat": "{argument name=\"coat color\" default=\"black\"} 外套",
+    "scarf": "深色圍巾"
   },
   "lighting": {
-    "key": "硬朗、冷調定向光（月光或實驗室燈）",
-    "fill": "負補光（深陰影）",
-    "rim": "昆蟲邊緣的細微邊緣光",
-    "shadows": "深沉的黑色，高對比度",
-    "color_temperature": "冷色調 / 去飽和（5500K）",
-    "sensor_fla": ""
+    "type": "黃金時段日落光",
+    "direction": "柔和溫暖的光線照亮臉部一側",
+    "quality": "柔和、自然、電影感"
+  },
+  "environment": {
+    "location": "戶外風景",
+    "background": "模糊的背景，帶有柔順的散景效果",
+    "sky": "從暖橘色漸變到冷綠色的柔和天空"
+  },
+  "camera": {
+    "lens": "85mm",
+    "aperture": "f/1.8",
+    "depth_of_field": "淺景深",
+    "focus": "臉部細節清晰，背景模糊",
+    "composition": "電影構圖"
+  },
+  "rendering": {
+    "style": "超寫實",
+    "details": "高細節、柔順散景、逼真的光影"
   }
 }
 ```
@@ -2777,27 +2577,482 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310088045_sxu26a_HBR-2K_WEAAMjF4.jpg" width="600" alt="社群媒體貼文 - Zendaya 昆蟲學優雅超現實肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396590700_88s66o_HBXocbEaYAABG1i.jpg" width="600" alt="社群媒體貼文 - 電影感日落人像提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310088138_012za0_HBR-2MYWgAAO9FX.jpg" width="600" alt="社群媒體貼文 - Zendaya 昆蟲學優雅超現實肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1771396590661_kov6lx_HBXocZhbcAE3Qsm.jpg" width="600" alt="社群媒體貼文 - 電影感日落人像提示詞 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396590715_ji9lns_HBXocasbcAQrZYx.jpg" width="600" alt="社群媒體貼文 - 電影感日落人像提示詞 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396591489_tqs2nn_HBXocbBbcAUhJ0L.jpg" width="600" alt="社群媒體貼文 - 電影感日落人像提示詞 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2023381605968916619)
-- **發布時間:** 2026年2月16日
+- **作者:** [Johnn](https://x.com/john_my07)
+- **來源:** [Twitter Post](https://x.com/john_my07/status/2023779187618967586)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10253)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10310)**
 
 ---
 
-### No. 34: 資訊圖表 / 教育視覺化內容 - 胡志明小徑越南戰爭場景提示
+### No. 29: 社群媒體貼文 - 高時尚動態捕捉圖像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個用於生成高時尚、動作捕捉風格圖像的結構化提示，內容為一名女性主體身著飄逸絲綢禮服，走過空無一人的豪華酒店走廊。
+
+#### 📝 提示詞
+
+```
+{
+  "render_goal": "高端時尚動作捕捉",
+  "subject": {
+    "pose": "女性緩慢向前行走，布料在身後飄逸",
+    "expression": "寧靜、內斂的微笑"
+  },
+  "wardrobe": "柔和鼠尾草綠色的飄逸絲綢連衣裙，輕盈多層",
+  "environment": {
+    "location": "空曠的豪華酒店走廊",
+    "props": "溫暖的吸頂燈，輕微的動態模糊"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396567587_q0x1wh_HBXlTHfaUAAC-U4.jpg" width="600" alt="社群媒體貼文 - 高時尚動態捕捉圖像提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Amara](https://x.com/sassyamara_)
+- **來源:** [Twitter Post](https://x.com/sassyamara_/status/2023775736822460579)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10263)**
+
+---
+
+### No. 30: 社群媒體貼文 - 分層冰沙商業飲料廣告
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一款寫實、超精細的商業廣告提示，用於呈現分層芒果草莓冰沙珍珠奶茶，畫面中包含戲劇性的液體飛濺、懸浮的食材，以及一位身穿同色系夏日洋裝的年輕美麗女子，專為奢華品牌活動設計。
+
+#### 📝 提示詞
+
+```
+一張超逼真的商業飲料廣告照片，特寫一個高大的透明玻璃杯，裡面裝著令人驚嘆的分層芒果草莓冰沙珍珠奶茶。從底部到頂部是鮮豔的漸層：底部是半透明的粉紅色草莓層，裡面有許多有嚼勁的白色珍珠粉圓和芒果丁；中間是明亮陽光的黃色芒果冰沙層；頂部是奶油狀的白色鮮奶油泡沫，上面撒著細小的粉紅色和白色珍珠糖粒。粉紅色草莓液體戲劇性地旋轉飛濺，在玻璃杯周圍形成動態螺旋。新鮮的半顆草莓和金黃色的芒果塊在空中飛舞，到處都是果汁飛濺和水花，珍珠粉圓懸浮在半空中。
+
+一位美麗的西方年輕女性以廣告風格的姿勢站在飲料旁邊，擁有閃耀的夏日肌膚、柔和的自然妝容、水潤的雙唇和愉悅清爽的表情，優雅地握著玻璃杯。她穿著一件與芒果草莓色調相同的時尚夏日洋裝——漸層的粉紅色和黃色洋裝與冰沙的顏色相呼應。輕盈的布料輕微飄動，彷彿在動態中被捕捉。呈現出現代商業飲料廣告的風格。
+
+柔和的散景背景，帶有溫暖的桃粉色和橘色調，高對比度，鮮豔飽和的色彩，電影般的燈光，帶有輪廓光和微妙的光暈，超清晰的焦點，8k，超現實，令人食指大動，清爽的夏日飲品廣告，奢華品牌廣告美學 --ar 3:4 --stylize 250 --v 6 --q 2
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396580769_va31ic_HBXlS26bIAAJDEi.jpg" width="600" alt="社群媒體貼文 - 分層冰沙商業飲料廣告 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Pervez Hussain](https://x.com/pervez0123)
+- **來源:** [Twitter Post](https://x.com/pervez0123/status/2023775723022844248)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10287)**
+
+---
+
+### No. 31: 社群媒體貼文 - 超逼真漂浮冰沙碗
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個結構化提示，用於生成一張優質、超寫實的商業食物照片：一個簡約的冰沙碗，配料懸浮在表面上方，背景為柔和的薰衣草色，並採用漫射攝影棚燈光。
+
+#### 📝 提示詞
+
+```
+{
+  "resolution": "8K 超高畫質",
+  "aspect_ratio": "3:4 肖像",
+  "image_style": "頂級超寫實商業食物攝影",
+
+  "module_2_minimal_floating_smoothie_bowl": {
+    "scene_description": "一個寧靜、簡約的思慕雪碗構圖，配料輕柔地懸浮在表面上方",
+    "bowl": {
+      "color": "柔和的腮紅陶瓷，帶有細微的斑點細節",
+      "finish": "天鵝絨般的啞光表面",
+      "position": "居中對齊，視覺上輕盈地漂浮著"
+    },
+    "base_contents": {
+      "type": "奶油水果思慕雪",
+      "color": "淡玫瑰色，帶有柔和的漿果底色",
+      "texture": "濃稠、滑順、均勻"
+    },
+    "toppings": {
+      "granola": "金黃烤燕麥簇",
+      "seeds": "細小的深色種子自然散佈",
+      "fruits": [
+        "草莓半片，帶有可見的種子紋理",
+        "完整覆盆子",
+        "飽滿黑莓"
+      ]
+    },
+    "motion_effects": {
+      "ingredients": "配料輕柔地懸浮著，移動極小，分佈均勻"
+    },
+    "background": {
+      "color": "柔和薰衣草色",
+      "gradient": "柔和的粉彩漸變，平滑過渡"
+    },
+    "lighting": "柔和的攝影棚燈光，營造柔和陰影和清晰分離",
+    "camera": "高速靜態拍攝，景深較淺"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396572318_thzh0x_HBXeoLFbcAQKXY4.jpg" width="600" alt="社群媒體貼文 - 超逼真漂浮冰沙碗 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396572879_ekw556_HBXeoLXakAAeY11.jpg" width="600" alt="社群媒體貼文 - 超逼真漂浮冰沙碗 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Jack](https://x.com/j_smeaton99)
+- **來源:** [Twitter Post](https://x.com/j_smeaton99/status/2023768399126614478)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10273)**
+
+---
+
+### No. 32: 社群媒體貼文 - 紅毯上的迷人時刻 (印地語/烏爾都語)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個主要以印地語/烏爾都語（羅馬化）撰寫的結構化提示，用於生成一張迷人的紅毯圖像，其中包含兩位女明星（雪梨·史威尼和安娜·德·阿瑪斯風格），並帶有特定的服裝、燈光和背景細節，強調高端時尚活動的氛圍。
+
+#### 📝 提示詞
+
+```
+{
+  "image_title": "魅力四射的紅毯時刻",
+  "technical_details": {
+    "lighting": "高調影棚閃光燈與自然散景城市燈光",
+    "focus": "前景（人物）清晰對焦，背景模糊",
+    "colors": ["寶藍色", "腮紅粉", "金黃色", "深黑色"]
+  },
+  "subjects_details": [
+    {
+      "pose": "站在左側，略微側身，臉上掛著燦爛的笑容",
+      "hair_color": "香檳金色",
+      "makeup": "水潤妝感，裸色唇膏，柔和煙燻眼妝",
+      "outfit_details": {
+        "style": "心形領口，褶皺緊身胸衣，高開衩設計",
+        "color": "淺粉色",
+        "accessories": "銀色或鑽石簡約吊墜與配套垂墜耳環"
+      }
+    },
+    {
+      "pose": "站在右側，直視鏡頭",
+      "hair_color": "巧克力棕色",
+      "makeup": "經典魅力妝，濃密眉毛，玫瑰色唇妝",
+      "outfit_details": {
+        "style": "深 V 領，無袖，及地絲絨禮服",
+        "color": "午夜藍 / 絲絨藍",
+        "accessories": "藍寶石頸鍊，配套手鍊和戒指"
+      }
+    }
+  ],
+  "background_elements": {
+    "people": "一群穿著西裝的狗仔隊和攝影師",
+    "equipment": "專業單眼相機和大型閃光燈",
+    "architecture": "高聳的城市建築，窗戶透出燈光",
+    "environment": "鋪有鍍金欄杆和紅色絲絨繩索的紅毯"
+  },
+  "overall_vibe": {
+    "atmosphere": "名人首映會、高端時尚活動或頒獎典禮之夜",
+    "mood": "優雅、活力、精緻"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396576275_ellqja_HBXdzMAbcAQRlZv.jpg" width="600" alt="社群媒體貼文 - 紅毯上的迷人時刻 (印地語/烏爾都語) - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Qaiser Tzq](https://x.com/TzqQaiser)
+- **來源:** [Twitter Post](https://x.com/TzqQaiser/status/2023767493576413204)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10279)**
+
+---
+
+### No. 33: 社群媒體貼文 - 舒適的斯堪地那維亞小木屋自拍肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度詳細、結構化的提示，用於生成一張親密、溫暖、沉思的智慧型手機自拍照，主角是一位身穿巧克力棕色背心的白金金髮女性，置身於質樸的斯堪地那維亞 hygge 木屋中。
+
+#### 📝 提示詞
+
+```
+{
+  "prompt": "舒適小木屋自拍肖像，年輕女子，白金色及肩波浪髮，向上側視，帶著柔和沉思的夢幻表情，淺綠藍色眼睛，自然淡妝，裸粉色嘴唇，白皙瓷肌散發自然光澤，身穿巧克力棕色羅紋工字背心，木質松木小木屋內部，天然木板牆壁和天花板，溫暖金色的自然日光從窗戶灑入，斯堪地那維亞 hygge 美學，親密特寫肖像，從下方角度向上看，自然美感養生生活方式，舒適質樸的休憩氛圍，3:4",
+  "negative_prompt": "戶外、城市、濃妝、攝影棚燈光、正式服裝、夜晚、刺眼陰影、黑暗憂鬱",
+  "style": "親密小木屋肖像、自然美感、溫暖質樸美學、斯堪地那維亞舒適氛圍、養生休憩",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "智慧型手機自拍鏡頭",
+    "angle": "略微從下方向上看著主體，特寫",
+    "framing": "特寫肖像，臉部和上半身可見"
+  },
+  "lighting": {
+    "type": "來自窗戶的溫暖自然日光",
+    "quality": "柔和金色暖光，臉部自然光照營造出柔和高光",
+    "atmosphere": "溫馨小木屋內部，帶有溫暖木質色調"
+  },
+  "mood": "沉思、寧靜、夢幻、自然、舒適、親密、安詳、放鬆",
+  "color_palette": "白金色、巧克力棕色背心、溫暖蜂蜜木色調、自然膚色、大地中性色",
+  "subject_features": {
+    "hair": "白金色，及肩，柔和波浪凌亂質感，自然動感，略帶風吹感",
+    "skin": "白皙，自然健康光澤，極少或無底妝，清新面容",
+    "eyes": "淺綠藍色，向上側視，自然睫毛，夢幻眼神",
+    "lips": "自然裸粉色，柔和放鬆",
+    "eyebrows": "自然，柔和形狀",
+    "expression": "柔和沉思，夢幻，向上看，寧靜安詳"
+  },
+  "makeup": {
+    "style": "自然淡妝或無妝",
+    "base": "自然肌膚，水潤清新",
+    "eyes": "極簡，自然睫毛",
+    "lips": "自然裸粉色"
+  },
+  "wardrobe": {
+    "top": "巧克力棕色羅紋工字背心，合身，休閒家居服風格"
+  },
+  "pose": {
+    "gaze": "向上看向右側，沉思夢幻",
+    "head": "略微傾斜，下巴抬起",
+    "expression": "柔和夢幻，寧靜，自然"
+  },
+  "setting": {
+    "location": "木製小木屋內部",
+    "walls": "天然松木板牆壁，紋理清晰可見",
+    "ceiling": "木板天花板，帶有天然木紋圖案",
+    "bed": "白色寢具部分可見於底部邊緣",
+    "atmosphere": "舒適質樸的斯堪地那維亞小木屋，溫暖的 hygge 氛圍，養生休憩"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396576242_7aetnf_HBXZfUYWkAAUtBU.jpg" width="600" alt="社群媒體貼文 - 舒適的斯堪地那維亞小木屋自拍肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [gauche](https://x.com/gaucheai)
+- **來源:** [Twitter Post](https://x.com/gaucheai/status/2023762812913238246)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10280)**
+
+---
+
+### No. 34: 資訊圖表 / 教育視覺化內容 - 雙向光學錯覺肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度技術性的提示，用於生成嚴格單色的雙向光學錯覺肖像，當圖像正向觀看時，會呈現一位年輕女性的側面輪廓，而當旋轉 180 度時，則會呈現一位老年女性的側面輪廓，這需要精確的輪廓重新詮釋和莫爾條紋干涉表面應用。
+
+#### 📝 提示詞
+
+```
+創作一幅雙向光學錯覺肖像。
+當以正常直立位置（0° 方向）觀看時，圖像必須清晰地呈現一位年輕女性的左側臉輪廓。
+當圖像旋轉 180 度（手機倒置）時，相同的構圖必須呈現一位老年女性的側臉輪廓。
+兩個身份必須共享完全相同的輪廓結構並佔據相同的空間範圍。不得有單獨的繪圖、分割畫面或疊加。這種轉變必須純粹透過輪廓的重新詮釋和結構的模糊性來實現。
+設計輪廓時需確保：
+年輕女性的下巴在旋轉後變成老年女性的鼻子。
+年輕女性的耳朵變成老年女性的眼窩。
+年輕女性的頸線變成老年女性的嘴巴和下巴結構。
+在整個構圖中應用莫列干涉表面，使用超細徑向或雙頻線條圖案。干涉圖案必須在不破壞雙向錯覺的情況下增強深度。
+嚴格的單色調色板。黑色背景（#000000），僅使用白色或淺灰色線條結構。無色彩。除線條密度產生的漸變外，無其他漸變。無模糊。無紋理噪點。
+超精確向量對齊。高對比度。清晰的剪影邊緣。8K 超高解析度。長寬比 4:5。
+錯覺必須在兩種方向下都清晰可辨。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396588296_6mjizk_HBXUwAjbcAAGEPm.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 雙向光學錯覺肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Kaan](https://x.com/kaanakz)
+- **來源:** [Twitter Post](https://x.com/kaanakz/status/2023757551762838000)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10302)**
+
+---
+
+### No. 35: 資訊圖表 / 教育視覺化內容 - 超逼真巧克力蛋糕美食攝影，搭配動態提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個複雜的提示，用於生成一段影片，內容為分層巧克力蛋糕的超逼真食物攝影，包括蛋糕盤和食材的動態提示，以及爆炸式資訊圖表視圖的獨立圖像提示。這專為高端商業食品廣告而設計。
+
+#### 📝 提示詞
+
+```
+Motion Prompt: 蛋糕盤開始緩慢旋轉，配料輕柔而精確地分離，同時保持對齊和比例。動作流暢，沒有額外效果。
+
+IMAGE - 超逼真的高級食物攝影，白色盤子上放著一個分層巧克力蛋糕，置中構圖，三層厚實濕潤的巧克力海綿蛋糕，中間夾著順滑的白色奶油餡，頂部覆蓋著光澤濃郁的巧克力甘納許糖霜，裝飾有新鮮覆盆子、黑巧克力捲、碎片和小金糖珠，簡潔的淺灰色攝影棚背景，柔和的散射專業燈光，輕柔的自然陰影，超清晰的紋理細節，展現多孔海綿和奶油層，高端烘焙廣告風格，淺景深，微距食物攝影效果，寫實，8K 解析度，優雅的甜點呈現，無文字，無浮水印
+Negative prompt:
+模糊、低解析度、卡通風格、CGI 外觀、人造紋理、雜亂構圖、過飽和色彩、刺眼陰影、噪點、浮水印、文字、多餘物體、扭曲的蛋糕形狀。
+
+IMAGE 2 - 設計一張超逼真的分解巧克力蛋糕資訊圖表。頂層是可可粉塵，下方是糖霜漩渦、海綿蛋糕層、奶油餡和蛋糕盤底座。白色背景，專業甜點攝影燈光，豐富紋理，浮動對稱，標示資訊圖表風格，8K 解析度。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396577795_6gdzxg_HBXF8eNbkAAQ97-.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 超逼真巧克力蛋糕美食攝影，搭配動態提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝐌](https://x.com/Strength04_X)
+- **來源:** [Twitter Post](https://x.com/Strength04_X/status/2023741334335713360)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10281)**
+
+---
+
+### No. 36: 資訊圖表 / 教育視覺化內容 - 技術資訊圖表提示範本
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個可重複使用的提示範本，用於生成物件的技術資訊圖表，其特色為 45 度等距 3D 透視圖、黑色墨水註釋、剖面圖、尺寸標註，以及用於功能/流程的顏色編碼箭頭，風格類似工程手冊。
+
+#### 📝 提示詞
+
+```
+建立一個 {argument name="object" default="OBJECT"} 的技術資訊圖表，採用 45 度等距 3D 透視圖，顯示裝置略微傾斜以展現深度和維度。
+結合逼真的照片級渲染與純白背景上的黑色墨水技術註釋。包括：
+帶有顏色編碼註釋框的關鍵組件標籤
+透過透明/剖面部分顯示內部組件
+測量值、尺寸和精確的比例標記
+材料註釋和數量
+用於功能/流程的顏色編碼箭頭：紅色（電源/電池）、藍色（數據/連接）、橙色（散熱/處理器）、綠色（感測器/觸覺）
+相關的簡單示意圖或剖面圖
+
+將「OBJECT」標題放置在手繪技術框中（左上角）。
+風格：黑色線條（技術筆/建築），素描但精確。物件清晰可見。具有教育博物館展覽的氛圍。構圖簡潔，負空間平衡。
+透視：等距 3D 角度——傾斜以戲劇性地顯示深度、維度及內部結構。如同專業產品拆解或工程手冊。
+顏色：約 10-15% 的強調色密度。黑色為主。白色背景。
+輸出：1080×1080，超清晰，針對社群媒體最佳化。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396580715_rvug9m_HBVOp5kboAAI6xv.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 技術資訊圖表提示範本 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396580708_7butuk_HBVOp5sbcAUM-Kh.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 技術資訊圖表提示範本 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝐌](https://x.com/Strength04_X)
+- **來源:** [Twitter Post](https://x.com/Strength04_X/status/2023610125249044854)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10286)**
+
+---
+
+### No. 37: 資訊圖表 / 教育視覺化內容 - 胡志明小徑越南戰爭場景提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2830,7 +3085,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 35: 資訊圖表 / 教育視覺化內容 - 漫畫演變建築區塊提示
+### No. 38: 資訊圖表 / 教育視覺化內容 - 漫畫演變建築區塊提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2871,7 +3126,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 36: 資訊圖表 / 教育視覺化內容 - Dieter Rams 風格 VR 頭戴裝置草圖
+### No. 39: 資訊圖表 / 教育視覺化內容 - Dieter Rams 風格 VR 頭戴裝置草圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2910,7 +3165,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 37: 資訊圖表 / 教育視覺化內容 - 微縮世界般的建築平面圖
+### No. 40: 資訊圖表 / 教育視覺化內容 - 微縮世界般的建築平面圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2961,7 +3216,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 38: 資訊圖表 / 教育視覺化內容 - 聖索菲亞大教堂的並排建築比較
+### No. 41: 資訊圖表 / 教育視覺化內容 - 聖索菲亞大教堂的並排建築比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3044,7 +3299,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 39: 資訊圖表 / 教育視覺化內容 - 隨機奇特產品網格生成
+### No. 42: 資訊圖表 / 教育視覺化內容 - 隨機奇特產品網格生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3078,7 +3333,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 40: 資訊圖表 / 教育視覺化內容 - USS 亞伯拉罕·林肯號的電影工程資訊圖
+### No. 43: 資訊圖表 / 教育視覺化內容 - USS 亞伯拉罕·林肯號的電影工程資訊圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3144,7 +3399,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 41: 資訊圖表 / 教育視覺化內容 - 漂浮食材的電影感美食資訊圖表
+### No. 44: 資訊圖表 / 教育視覺化內容 - 漂浮食材的電影感美食資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3183,7 +3438,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 42: 資訊圖表 / 教育視覺化內容 - 原始物件到工廠藍圖提示
+### No. 45: 資訊圖表 / 教育視覺化內容 - 原始物件到工廠藍圖提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3217,7 +3472,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 43: 資訊圖表 / 教育視覺化內容 - 超寫實阿拉伯語資訊圖表生成器提示
+### No. 46: 資訊圖表 / 教育視覺化內容 - 超寫實阿拉伯語資訊圖表生成器提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3302,7 +3557,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 44: 資訊圖表 / 教育視覺化內容 - 修道院特拉普啤酒釀造資訊圖表
+### No. 47: 資訊圖表 / 教育視覺化內容 - 修道院特拉普啤酒釀造資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3353,7 +3608,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 45: 資訊圖表 / 教育視覺化內容 - Canva 資產建立與風格匹配提示
+### No. 48: 資訊圖表 / 教育視覺化內容 - Canva 資產建立與風格匹配提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3387,18 +3642,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 46: 資訊圖表 / 教育視覺化內容 - 活咖啡油脂的抽象微觀視圖
+### No. 49: YouTube 縮圖 - 季節性轉型網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個用於生成咖啡油脂抽象、超現實微距照片的提示，將其描繪成一種活生生的物質，帶有精緻發光的捲鬚和分形網絡。它指定了翡翠色和洋紅色調的生物發光效果、戲劇性的體積光照，以及一種藝術、奇妙的氛圍。
+一個用於生成 2x2 網格的提示範本，該網格顯示同一物體或場景在四季（春、夏、秋、冬）中的變化，同時保持無縫美學和一致的攝影機角度。
 
 #### 📝 提示詞
 
 ```
-「活咖啡油脂（crema）的抽象微觀視角，精緻發光的捲鬚和分形網絡自然地蔓延在深色濃縮咖啡基底上，帶有祖母綠和洋紅色調的微妙生物發光效果，有機流動的形態與錯綜複雜的細節，超現實的生物奇幻，超銳利微距攝影風格，戲劇性的體積光照，無恐怖元素，藝術而奇妙的氛圍，8k 品質」
+一個 2x2 的網格，展示了相同 [{argument name="object or scene" default="OBJECT/SCENE"}] 在四季中的景象。左上方是春天（櫻花、柔和的粉彩色調），右上方是夏天（金色光線、鮮豔的綠色），左下方是秋天（橘色樹葉、溫暖色調），右下方是冬天（白雪、藍色暮光）。美學風格一致，相機角度相同，每個面板都有電影般的燈光效果。
 ```
 
 #### 🖼️ 生成圖片
@@ -3406,94 +3662,39 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1770706184793_1u1urc_HAtQOlKasAAmb58.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 活咖啡油脂的抽象微觀視圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771310079634_278gq0_HBT0rq3bcAMeCHF.jpg" width="600" alt="YouTube 縮圖 - 季節性轉型網格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1770706184993_msjj2e_HAtQOnSaIAERTnn.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 活咖啡油脂的抽象微觀視圖 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1771310079735_nlkcd5_HBT0xm1bEAAepVS.jpg" width="600" alt="YouTube 縮圖 - 季節性轉型網格 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771310079770_63tpm7_HBT016CacAA6g3s.jpg" width="600" alt="YouTube 縮圖 - 季節性轉型網格 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771310080753_7f6e9o_HBT06t7XwAAVXyL.jpg" width="600" alt="YouTube 縮圖 - 季節性轉型網格 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [🇹🇷 İREM AKSOY 🇹🇷 Ⓥ #pallascataesthetics](https://x.com/bewisetojudge_)
-- **來源:** [Twitter Post](https://x.com/bewisetojudge_/status/2020797150481752324)
-- **發布時間:** 2026年2月9日
+- **作者:** [Alexandra Aisling](https://x.com/AllaAisling)
+- **來源:** [Twitter Post](https://x.com/AllaAisling/status/2023511466884895022)
+- **發布時間:** 2026年2月16日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=9581)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10238)**
 
 ---
 
-### No. 47: 資訊圖表 / 教育視覺化內容 - 生成具有選擇性虹彩的蝴蝶圖像
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-此提示旨在解決 AI 圖像生成中一個常見問題，即指定「虹彩」會使整個主體發光。目標是生成一隻蝴蝶（特別是雄性曙鳳蝶 *Atrophaneura alcinous* 春型）的圖像，精確描繪其左翼的選擇性結構色（虹彩）和右翼的啞光棕色，這需要對光線和紋理進行精確控制。
-
-#### 📝 提示詞
-
-```
-雄性 {argument name="butterfly species" default="Atrophaneura alcinous"} 春季形態標本的正面與背面比較。此圖所示資訊顯示，左側的結構色和右側的 {argument name="color" default="啞光棕色"} 屬於同一隻蝴蝶。當您向 AI 輸入「虹彩」時，所有東西都會發光。提示詞的任務是指定「這個部分發光，這個部分不發光」。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1770706231672_wgg1zr_HAtBmhvaQAAM6TT.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 生成具有選擇性虹彩的蝴蝶圖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [SHINTARO](https://x.com/UNIBRACITY)
-- **來源:** [Twitter Post](https://x.com/UNIBRACITY/status/2020780992701882429)
-- **發布時間:** 2026年2月9日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=9637)**
-
----
-
-### No. 48: 資訊圖表 / 教育視覺化內容 - 精確的自然歷史插畫提示：中華孔雀蛺蝶
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-這是一個高度詳細的提示，旨在利用 Nano Banana 繪製一幅精確的雄性中華大鳳蝶（Karasuageha）（春型）和杜鵑花（Yama-tsutsuji）的自然歷史插圖。該提示包含物種識別所需的具體細節，例如翅膀上結構色的漸變、腹部黃色的側條紋以及花瓣上的蜜斑圖案，力求達到科學準確性。
-
-#### 📝 提示詞
-
-```
-雄性中華孔雀蛺蝶（春型） × 杜鵑花 — 翅膀的結構色漸變、腹部的黃色側條紋、花瓣的蜜斑圖案
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1770706242979_n4cxzr_HArwi-kaEAA2cwv.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 精確的自然歷史插畫提示：中華孔雀蛺蝶 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [SHINTARO](https://x.com/UNIBRACITY)
-- **來源:** [Twitter Post](https://x.com/UNIBRACITY/status/2020695596659868030)
-- **發布時間:** 2026年2月9日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=9652)**
-
----
-
-### No. 49: YouTube 縮圖 - 分解玉米餅商業視覺化
+### No. 50: YouTube 縮圖 - 分解玉米餅商業視覺化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3530,7 +3731,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 50: YouTube 縮圖 - 奢華鬆餅廣告場景
+### No. 51: YouTube 縮圖 - 奢華鬆餅廣告場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3615,7 +3816,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 51: YouTube 縮圖 - 流暢的電影級日式美食影片提示
+### No. 52: YouTube 縮圖 - 流暢的電影級日式美食影片提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3656,7 +3857,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 52: YouTube 縮圖 - Billie Eilish 的超逼真演唱會攝影
+### No. 53: YouTube 縮圖 - Billie Eilish 的超逼真演唱會攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3780,7 +3981,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 53: YouTube 縮圖 - 霓虹粉色加油站肖像 (魚眼鏡頭)
+### No. 54: YouTube 縮圖 - 霓虹粉色加油站肖像 (魚眼鏡頭)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3850,7 +4051,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 54: YouTube 縮圖 - 使用 Google Veo 3.1 從 Nano Banana Pro 圖像生成 Vlog 風格影片
+### No. 55: YouTube 縮圖 - 使用 Google Veo 3.1 從 Nano Banana Pro 圖像生成 Vlog 風格影片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3905,7 +4106,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 55: YouTube 縮圖 - 科技 YouTuber 示範藍牙喇叭影片提示
+### No. 56: YouTube 縮圖 - 科技 YouTuber 示範藍牙喇叭影片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3938,7 +4139,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 56: YouTube 縮圖 - 從奇幻圖像參考提示生成逼真角色
+### No. 57: YouTube 縮圖 - 從奇幻圖像參考提示生成逼真角色
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3977,7 +4178,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 57: YouTube 縮圖 - 驚險刺激的雲霄飛車動作照片提示
+### No. 58: YouTube 縮圖 - 驚險刺激的雲霄飛車動作照片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4055,7 +4256,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 58: YouTube 縮圖 - K-pop 明星 Jennie Kim 舞台表演肖像
+### No. 59: YouTube 縮圖 - K-pop 明星 Jennie Kim 舞台表演肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4129,7 +4330,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 59: YouTube 縮圖 - Vlogger 縮圖圖片生成提示
+### No. 60: YouTube 縮圖 - Vlogger 縮圖圖片生成提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4162,7 +4363,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 60: YouTube 縮圖 - 日文文字動態動漫戰鬥海報
+### No. 61: YouTube 縮圖 - 日文文字動態動漫戰鬥海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4214,7 +4415,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 61: YouTube 縮圖 - 名人雪地運動服飾圖片陣列提示
+### No. 62: YouTube 縮圖 - 名人雪地運動服飾圖片陣列提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4299,7 +4500,7 @@ Image 2: 電影般的爆炸式視覺化效果，帶有聚光燈效果、大膽�
 
 ---
 
-### No. 62: YouTube 縮圖 - Kollywood 電影海報照片提示
+### No. 63: YouTube 縮圖 - Kollywood 電影海報照片提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4332,7 +4533,40 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 63: 漫畫 / 分鏡腳本 - 9 格電影分鏡腳本生成提示
+### No. 64: 漫畫 / 分鏡腳本 - Pixar 風格角色表情網格
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個將圖像轉換為 Pixar 風格動畫角色的提示，生成一個 6 格的網格，展示同一個角色在彩色實心背景下呈現不同情緒（開心、震驚、生氣、關懷、自信、豎起大拇指），並強調流暢的 3D 渲染品質。
+
+#### 📝 提示詞
+
+```
+一個 3D 皮克斯風格的動畫女孩，以 6 格網格呈現，同一角色有著棕色短髮和大大的藍眼睛，展現不同的情緒（開心、震驚、生氣、關懷、自信、豎起大拇指），搭配彩色純色背景（黃色、藍色、紅色、粉紅色、紫色、綠色），柔和的攝影棚燈光，流暢的 3D 渲染，鮮豔的色彩，超精緻，4K，動畫電影品質。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771310086398_7f1k62_HBTBVIiawAA3BKI.jpg" width="600" alt="漫畫 / 分鏡腳本 - Pixar 風格角色表情網格 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Edraak Tech | إدراك تِك](https://x.com/EdraakTechAi)
+- **來源:** [Twitter Post](https://x.com/EdraakTechAi/status/2023454723849003368)
+- **發布時間:** 2026年2月16日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10250)**
+
+---
+
+### No. 65: 漫畫 / 分鏡腳本 - 9 格電影分鏡腳本生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4366,7 +4600,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 64: 漫畫 / 分鏡腳本 - 電影風格靜態畫面網格提示，適用於居家舞蹈場景
+### No. 66: 漫畫 / 分鏡腳本 - 電影風格靜態畫面網格提示，適用於居家舞蹈場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4475,7 +4709,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 65: 漫畫 / 分鏡腳本 - 3D Pixar 風格動畫角色網格提示
+### No. 67: 漫畫 / 分鏡腳本 - 3D Pixar 風格動畫角色網格提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4508,7 +4742,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 66: 漫畫 / 分鏡腳本 - 玻璃馬雕像變形電影 (影片提示)
+### No. 68: 漫畫 / 分鏡腳本 - 玻璃馬雕像變形電影 (影片提示)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4541,7 +4775,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 67: 漫畫 / 分鏡腳本 - 角色姿勢變化提示
+### No. 69: 漫畫 / 分鏡腳本 - 角色姿勢變化提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4595,7 +4829,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 68: 漫畫 / 分鏡腳本 - 超現實橡膠軟管墨水風格插畫
+### No. 70: 漫畫 / 分鏡腳本 - 超現實橡膠軟管墨水風格插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4645,7 +4879,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 巨型抽象敵人角色生成提示（步驟 2）
+### No. 71: 漫畫 / 分鏡腳本 - 巨型抽象敵人角色生成提示（步驟 2）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4686,7 +4920,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 使用 Kling 3.0 生成早晨例行影片
+### No. 72: 漫畫 / 分鏡腳本 - 使用 Kling 3.0 生成早晨例行影片
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4738,7 +4972,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 電影級動作影片提示：香蕉仙子大戰殭屍
+### No. 73: 漫畫 / 分鏡腳本 - 電影級動作影片提示：香蕉仙子大戰殭屍
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4822,7 +5056,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - B2B Meta 廣告輪播故事建立提示
+### No. 74: 漫畫 / 分鏡腳本 - B2B Meta 廣告輪播故事建立提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4873,7 +5107,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 荷葉上小雞與怪物的 3D 動畫場景
+### No. 75: 漫畫 / 分鏡腳本 - 荷葉上小雞與怪物的 3D 動畫場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4912,7 +5146,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 電影巨貓追逐小女人
+### No. 76: 漫畫 / 分鏡腳本 - 電影巨貓追逐小女人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4980,7 +5214,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 詳細電影武俠場景提示：黑鴉 對 碧霜
+### No. 77: 漫畫 / 分鏡腳本 - 詳細電影武俠場景提示：黑鴉 對 碧霜
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5048,7 +5282,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 在居家浴室中，逼真寫實的安娜·德·阿瑪斯化身為蜘蛛女。
+### No. 78: 漫畫 / 分鏡腳本 - 在居家浴室中，逼真寫實的安娜·德·阿瑪斯化身為蜘蛛女。
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5114,7 +5348,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - Nanobanana 提示工程工作流程
+### No. 79: 漫畫 / 分鏡腳本 - Nanobanana 提示工程工作流程
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5173,7 +5407,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 漫畫海報插畫範本
+### No. 80: 漫畫 / 分鏡腳本 - 漫畫海報插畫範本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5301,68 +5535,134 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 79: 產品行銷 - 高調攝影棚美妝人像（風吹髮絲、裸色馬甲）
+### No. 81: 產品行銷 - 浮動產品攝影廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個詳細的 JSON 提示，用於生成一張高調的攝影棚美妝肖像，風格靈感來自韓系美妝雜誌。肖像中描繪一位留著隨風飄逸的黑色長髮的女性，身穿裸米色亮片緊身胸衣，強調清晰、鮮明的銳利度、柔和透亮肌膚，以及簡約的白色背景。
+一個用於生成超逼真商業廣告產品攝影的提示範本，其中包含 3-4 個相同的產品單位漂浮在半空中，周圍環繞著其製成的新鮮食材，並以純白色背景和柔和的攝影棚燈光為襯托。
+
+#### 📝 提示詞
+
+```
+3–4 個相同的產品單位漂浮在半空中，周圍環繞著新鮮的 {argument name="ingredient type" default="水果/蔬菜"} 和產品製成的切片，食材懸浮在產品周圍，動態平衡構圖，超乾淨的純白色背景，無漸變，無偏色，柔和的攝影棚燈光，漂浮物下方有逼真的柔和陰影，光澤包裝反射，多汁的食材紋理，高級護膚品編輯風格，超逼真的產品攝影，微距細節，清晰對焦，商業廣告品質，極簡構圖，8k，1:1
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396586227_w298px_HBZNFC-X0AACfaI.jpg" width="600" alt="產品行銷 - 浮動產品攝影廣告 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [arc.](https://x.com/arceyul)
+- **來源:** [Twitter Post](https://x.com/arceyul/status/2023889839830000023)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10298)**
+
+---
+
+### No. 82: 產品行銷 - Dakota Johnson 電影寫實主義提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個高度結構化的 JSON 提示，專為電影般的真實感而設計，旨在生成一張 Dakota Johnson 在奢華辦公室環境中的圖像。該提示詳細說明了風格、角色描述、髮型、妝容、服裝（黑色西裝外套、迷你裙、透膚絲襪）、環境、燈光（溫暖的檯燈光線）和相機設定（85mm 鏡頭、淺景深）。
 
 #### 📝 提示詞
 
 ```
 {
-  "generation_request": {
-    "meta_data": {
-      "task_type": "high_key_studio_beauty_portrait_no_text",
-      "language": "en",
-      "priority": "highest",
-      "version": "v1.0_HIGH_KEY_WIND_HAIR_NUDE_CORSET"
-    },
-    "input": {
-      "mode": "text_to_image",
-      "notes": "高調工作室美妝肖像。無文字、無標誌、無浮水印。"
-    },
-    "output": {
-      "aspect_ratio": "4:5",
-      "resolution": "ultra_high",
-      "num_images": 1,
-      "sharpness": "clean_crisp",
-      "grain": "very_subtle"
-    },
-    "scene": {
-      "environment": "極簡白色無縫工作室背景（高調），簡潔的時尚風格",
-      "composition": "緊湊的 3/4 肖像構圖，從胸部以上取景，主體略微偏右，看向左側（鏡頭外），優雅的負空間",
-      "style": "韓系美妝雜誌風格，現代奢華"
-    },
-    "subject": {
-      "person": "成年女性",
-      "hair": "極長直黑髮，自然光澤，髮絲被風吹拂過臉龐，動態流暢",
-      "makeup": {
-        "skin": "柔和光澤的自然肌膚，逼真的毛孔，無過度修飾",
-        "eyes": "柔和棕色煙燻眼影，細緻眼線，自然睫毛",
-        "lips": "柔和粉裸色漸變唇"
-      },
-      "wardrobe": {
-        "top": "裸米色閃光緊身胸衣，帶有可見的骨架和細微的閃爍，半透明結構化拼接"
-      },
-      "pose": "一隻手臂略微抬起，超出畫面，彷彿在整理頭髮，肩膀放鬆，優雅的頸部線條"
-    },
-    "lighting": {
-      "style": "高調工作室美妝燈光",
-      "key_light": "大型柔光箱位於左前方，極柔和的陰影",
-      "fill_light": "強補光以呈現潔淨肌膚",
-      "background_light": "均勻打光的白色背景，無漸變",
-      "specular": "顴骨和鎖骨處有受控的高光"
-    },
-    "camera": {
-      "lens": "85mm 人像鏡頭",
-      "aperture": "f/2.8",
-      "depth_of_field": "淺至中等景深，眼睛極其銳利，背景完美平滑",
-      "color": "中性白色，準確的膚色"
-    },
-    "negative_prompt": "文字、排版、標誌、浮水印、多餘手指、扭曲的手、變形解剖結構、過度平滑的塑膠皮膚、重 HDR、AI 光暈、卡通、低解析度、模糊"
+  "style": {
+    "genre": "電影寫實主義",
+    "aesthetic": "奢華辦公室場景",
+    "mood": "自信、沉著、專業",
+    "color_palette": "暖中性色、黑色、米色、柔和的黃色燈光",
+    "quality": "超精細、8k、高解析度、銳利對焦"
+  },
+
+  "character_description": {
+    "identity_placeholder": "{argument name=\"celebrity name\" default=\"Dakota Johnson\"}",
+    "gender_presentation": "女性化",
+    "age_range": "成年",
+    "expression": "平靜、自信、略顯嚴肅",
+    "pose": "端坐於辦公桌前，雙腿交叉",
+    "gaze_direction": "略微向上和向前看",
+    "hands": "一隻手放在打開的筆記本上，另一隻手放在桌上"
+  },
+
+  "hair": {
+    "length": "中等長度",
+    "style": "直髮帶有柔和的蓬鬆感",
+    "bangs": "瀏海",
+    "color": "深棕色"
+  },
+
+  "makeup": {
+    "style": "自然魅力妝",
+    "lips": "柔和的紅色唇膏",
+    "eyes": "細緻眼線，睫毛分明",
+    "skin_finish": "光滑、霧面"
+  },
+
+  "outfit": {
+    "upper_body": "黑色深 V 西裝外套，內無可見襯衫",
+    "lower_body": "黑色迷你裙",
+    "legwear": "透明黑色絲襪",
+    "accessories": "小巧優雅的耳環，極簡珠寶"
+  },
+
+  "body_language": {
+    "posture": "背部挺直，自信的姿態",
+    "shoulders": "放鬆但方正",
+    "legs": "膝蓋交叉"
+  },
+
+  "environment": {
+    "location_type": "現代辦公室",
+    "desk": "深色木質圓桌",
+    "chair": "黑色皮革椅",
+    "background_elements": [
+      "帶有暖光的檯燈",
+      "米色窗簾",
+      "中性色牆壁"
+    ],
+    "desk_items": [
+      "打開的筆記本",
+      "小紅色物品",
+      "左側的電腦螢幕"
+    ]
+  },
+
+  "lighting": {
+    "type": "柔和電影燈光",
+    "source_1": "來自右側的暖色檯燈光",
+    "source_2": "柔和的環境室內光",
+    "shadow_style": "自然柔和的陰影",
+    "contrast": "中等對比度"
+  },
+
+  "camera": {
+    "angle": "略低於視線水平的角度",
+    "framing": "中景全身坐姿鏡頭",
+    "lens": "85mm 人像鏡頭",
+    "depth_of_field": "淺景深，背景略微模糊"
+  },
+
+  "render_settings": {
+    "engine": "寫實渲染器",
+    "details": "高皮膚細節，織物紋理寫實感",
+    "aspect_ratio": "4:5",
+    "no_distortion": true
   }
 }
 ```
@@ -5372,91 +5672,382 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310083408_nqzddq_HBTdJmbawAAAFDf.jpg" width="600" alt="產品行銷 - 高調攝影棚美妝人像（風吹髮絲、裸色馬甲） - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396589576_7rfptw_HBYc694bAAAnUSN.jpg" width="600" alt="產品行銷 - Dakota Johnson 電影寫實主義提示 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Özge Döner](https://x.com/astronomerozge1)
-- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023485359632326814)
-- **發布時間:** 2026年2月16日
+- **作者:** [Sam](https://x.com/SamTheAiGuy)
+- **來源:** [Twitter Post](https://x.com/SamTheAiGuy/status/2023837049657131223)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10244)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10305)**
 
 ---
 
-### No. 80: 產品行銷 - 時尚美容海報 (紅色雙重構圖)
+### No. 83: 產品行銷 - 香水瓶中的奢華護膚立體模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個高度詳細的 JSON 提示，旨在生成一張高端美妝時尚編輯海報。它指定了雙重構圖佈局，包含柔焦背景人像和清晰前景人物，並以深暗紅色漸變背景襯托，專為奢華彩妝活動美學而優化，不含任何文字或標誌。
+一個高度細緻、高級訂製風格的提示，用於生成一張奢華護膚精華液立體模型微距照片，其中有微型韓國女音樂家和一位指揮家，在 Chanel No. 5 香水瓶內的精華液池中表演。
+
+#### 📝 提示詞
+
+```
+奢華護膚精華液立體模型
+佈局：單一主角，香水瓶內的微型音樂廳
+方向：垂直，向上升騰的優雅，精緻的細節
+背景：華麗的微型音樂廳，天鵝絨質感，柔和的散景
+產品：豐腴的韓國女性指揮家和音樂家，身著閃亮的高級訂製服裝，在香水瓶內的精華液池中表演，擁有瓷器般的肌膚，柔順的長髮，魅惑的眼神，優雅的姿態，鑲嵌珠寶的樂器
+動態：飛濺的精華液滴，飄浮的音符，細微的薄霧
+色調：同色系，腮紅玫瑰色和香檳金色調
+風格：柔和，奢華，韓系美妝美學，微距攝影，高級訂製時裝編輯
+主要元素：
+Chanel No. 5 香水瓶內的微縮世界，清澈的精華液形成水池，微型玫瑰叢和發光的植物，微型音樂家演奏豎琴、小提琴和大提琴，一位女性指揮家優雅地站立著。
+動態元素：
+精華液滴如瀑布般飛濺，音符輕柔地飄浮，細微的金色薄霧增添魔幻色彩，絲綢禮服的布料流動。
+相機：使用 Hasselblad X2D 拍攝，85mm f/1.2 鏡頭，倫勃朗光線，淺景深。
+風格關鍵詞：迷人，豐腴，奢華，韓系美妝，微型，立體模型，高級訂製。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396569473_xvzwoz_HBXEy1DagAE3HcP.jpg" width="600" alt="產品行銷 - 香水瓶中的奢華護膚立體模型 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Willy](https://x.com/jw660227)
+- **來源:** [Twitter Post](https://x.com/jw660227/status/2023740007689965712)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10268)**
+
+---
+
+### No. 84: 產品行銷 - 高級時尚黑色調酒廊場景，具備精緻解剖學與材質細節
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個極其詳細、結構化的 JSON 提示，用於生成一張在巴黎高檔黑色電影風格酒廊中，兩位女性的高級時裝、高寫實度圖像，重點關注未經修飾的皮膚紋理、逼真的軟組織解剖結構、特定的服裝細節（亮片、皮革），以及高對比度的雙光源照明。
 
 #### 📝 提示詞
 
 ```
 {
-  "generation_request": {
-    "meta_data": {
-      "task_type": "editorial_beauty_fashion_poster_no_text",
-      "language": "zh-TW",
-      "priority": "highest",
-      "version": "v1.0_GLAM_RED_DUAL_COMPOSITION_NO_TEXT"
-    },
-    "input": {
-      "mode": "text_to_image",
-      "notes": "創作一張受化妝品廣告海報啟發的高端美妝時尚編輯構圖。無文字、無排版、無標誌、無浮水印。"
-    },
-    "output": {
-      "aspect_ratio": "4:5",
-      "resolution": "ultra_high",
-      "num_images": 1,
-      "sharpness": "high",
-      "grain": "subtle_analog"
-    },
-    "scene": {
-      "background": "深暗紅色漸層背景，底部漸變為近黑色，平滑的攝影棚背景",
-      "composition": "雙重曝光編輯佈局：背景為柔焦的華麗特寫肖像，前景為全身站立姿勢，置中構圖，戲劇性的深度分層"
-    },
+  "subject": {
+    "demographics": "兩位備受矚目的白人女性，年齡約二十多歲，展現出高級時裝夜生活的風格。",
+    "hair": "站立者：蓬鬆的金髮，帶有自然的鬆散波浪。坐姿者：蜂蜜金色頭髮，略帶濕潤、分縷的質感和法式瀏海。",
+    "face": "淡妝，自然肌膚光澤，中性表情，上眼瞼略顯下垂（類似眼瞼下垂），T 字部位可見細微紋理。",
+    "anatomy": "站立者：胸部有明顯的軟組織，呈現自然重力作用下的水滴形狀；胸圍豐滿，無受壓痕跡，亦無人工內部支撐或提拉的跡象。坐姿者：關節處有自然的皮膚褶皺，軟組織因靠在天鵝絨軟墊上而產生位移。兩位主體的皮膚紋理均未經濾鏡處理，包括可見的毛孔結構、鼻部和前額的細微皮脂油光，以及腋窩褶皺附近的微細紋。",
+    "attire": "站立者：深 V 領禮服，由高密度午夜藍亮片在彈性網布底層上構成。坐姿者：建築感啞光黑色皮革迷你裙，側面有網狀拼接和結構化的馬甲式上衣。",
+    "accessories": "裝飾藝術風格的水晶雞尾酒杯，帶有蝕刻圖案，內含透明烈酒和裝飾物。"
+  },
+  "pose": {
+    "type": "分層的站立與坐姿構圖。",
+    "details": "站立者身體略微前傾，雙手握著雞尾酒杯；坐姿者將手放在站立者的大腿上，身體向後靠在沙發上，肩膀呈現放鬆、不對稱的姿態。"
+  },
+  "environment": {
+    "location": "高檔的黑色電影主題巴黎酒廊。",
+    "elements": "深紅色天鵝絨簇絨長椅、帶金色飾邊的桃花心木圓桌、帶有草書字體（'Stella Singue'）的紅色玻璃霓虹燈招牌，以及充滿深邃陰影的角落。"
+  },
+  "camera": {
+    "shot_type": "中景鏡頭",
+    "focal_length": "50mm 定焦鏡頭",
+    "perspective": "中性視平線焦距，以保持真實的解剖體積和深度，避免廣角失真。"
+  },
+  "lighting": {
+    "setup": "雙光源設置；高對比度的紅色環境霓虹背光提供輪廓光效果，搭配柔和的暖白色正面主光，以照亮皮膚紋理和織物細節。",
+    "shadows": "軟墊凹陷處和主體輪廓處有深邃、清晰的陰影。"
+  },
+  "mood_and_expression": {
+    "atmosphere": "精緻的倦怠感、高端奢華、性感卻疏離。",
+    "facial_expression": "堅忍、直接的眼神接觸、中性「面無表情」的凝視。"
+  },
+  "style_and_realism": {
+    "fidelity": "未經濾鏡的紋理、濕潤的皮膚光澤、可見的皮膚瑕疵，零後製「美化」。"
+  },
+  "colors_and_tone": {
+    "palette": "主要色調為深紅色、午夜藍"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396582176_h74830_HBWk4HqWMAANcxr.jpg" width="600" alt="產品行銷 - 高級時尚黑色調酒廊場景，具備精緻解剖學與材質細節 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Maya](https://x.com/mayadelmare)
+- **來源:** [Twitter Post](https://x.com/mayadelmare/status/2023704947230208090)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10289)**
+
+---
+
+### No. 85: 產品行銷 - Ana de Armas 風格摩托車肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個高度細緻、結構化的提示，用於生成一張超寫實的 4K 肖像，描繪一位神似安娜·德·阿瑪斯（Ana de Armas）的女性，在黃金時段的鬱鬱蔥蔥戶外環境中，性感地擺姿勢坐在一輛光澤的黑色摩托車上。
+
+#### 📝 提示詞
+
+```
+{
+  "image_elements": {
     "subject": {
-      "person": "成年女性",
-      "beauty_style": {
-        "skin": "無瑕裸光肌膚，柔和修容，顴骨打亮",
-        "eyes": "煙燻眼影，分明睫毛，銳利飛揚眼線",
-        "lips": "光澤裸色唇",
-        "hair": "光滑深色後梳髮型，優雅整潔的造型"
+      "appearance": "一位與女演員安娜·德·阿瑪斯（Ana de Armas）極為相似的女性。",
+      "hair": "長而深棕色的自然波浪髮，垂落在她的肩上。",
+      "facial_features": "高度精緻的臉龐，引人注目的榛色/綠色眼睛直視鏡頭，白皙的皮膚，豐滿的雙唇塗著深莓色/勃艮第色唇膏。",
+      "clothing": "合身的勃艮第色/栗色羅紋無袖高領背心，突顯她的身材，搭配緊身黑色長褲。",
+      "accessories": "頭上戴著一副黑色鏡框太陽眼鏡，左手腕上戴著一隻顯眼的金色鏈條手錶。"
+    },
+    "pose": "性感自信的姿勢。她坐著或靠在摩托車上，背部略微拱起並向前傾。她的左手優雅地放在下背部/臀部。",
+    "props": {
+      "motorcycle": "前景是一輛光澤的黑色摩托車。油箱上飾有復古的鍍鉻飛翼徽章，配有黑色把手。"
+    },
+    "setting": {
+      "environment": "戶外，周圍環繞著茂密、鬱鬱蔥蔥的綠樹和植物。",
+      "lighting": "溫暖的黃昏時分自然陽光，照亮她的頭髮和臉龐。"
+    }
+  },
+  "photography_style": {
+    "resolution": "4k 高畫質照片",
+    "aspect_ratio": "--ar 9:16",
+    "quality": "高度精緻、超現實、寫實主義傑作。",
+    "camera_effects": "主體臉部和上半身清晰對焦，淺景深，背景模糊優美，帶有柔和溫暖的散景效果。"
+  },
+  "master_prompt": "4k 高畫質照片，高度精緻，9:16 長寬比的寫實主義傑作。一位臉部高度精緻，神似安娜·德·阿瑪斯（Ana de Armas）的年輕女性。她留著長波浪深棕色頭髮，引人注目的榛色眼睛直視鏡頭，塗著深莓色唇膏。她穿著一件緊身合身的栗色羅紋無袖高領背心和黑色長褲。她將黑色太陽眼鏡推到頭上，左手腕上戴著一隻金色手錶。她擺出性感自信的姿勢，背部略微拱起，身體前傾靠在一輛光澤的黑色摩托車上，左手放在下背部。摩托車油箱上飾有鍍鉻飛翼徽章。背景是鬱鬱蔥蔥的綠色戶外場景，帶有嚴重模糊、溫暖的黃昏時分散景效果。自然金色陽光，電影般的光線，主體清晰對焦，淺景深。"
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396570600_qq6l77_HBWcLjobgAAMrUL.jpg" width="600" alt="產品行銷 - Ana de Armas 風格摩托車肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Serrah ❀](https://x.com/Serreh131306)
+- **來源:** [Twitter Post](https://x.com/Serreh131306/status/2023695334291931398)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10269)**
+
+---
+
+### No. 86: 產品行銷 - 客製化會議桌的超逼真俯視平拍照片
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個詳細的提示，用於使用 Nano Banana Pro 模型生成一張超寫實、俯視平拍的客製化會議桌照片。該提示指定了桌子的形狀、材料、地板、構圖、物件數量、它們的動作以及專業攝影棚燈光，以突顯桌子的輪廓。
+
+#### 📝 提示詞
+
+```
+一張超廣角鏡頭拍攝的超寫實俯視平面照片。畫面中央是一張訂製的會議桌，精心打造為 [{argument name="table shape" default="X 形"}]。
+
+這張桌子由 [{argument name="table material" default="黑色大理石材質"}] 製成，放置在 [淺白色] 地板上，周圍留有大片負空間，營造出簡潔、極簡的構圖。[{argument name="number of people" default="6"}] 名日本上班族沿著 [X 形] 桌子的邊緣就座。[佈局：例如，每邊 3 人]。
+
+動作：[參與商務會議（例如，擺出使用筆記型電腦、喝咖啡的姿勢）]。
+燈光和圖像品質：專業攝影棚燈光，帶有清晰、分明的投影，突顯地板上反射的 [X] 輪廓。8K 解析度，清晰對焦，電影級商業美學。3:4 尺寸。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396592367_d2pisg_HBCQ81tbcAAatrm.jpg" width="600" alt="產品行銷 - 客製化會議桌的超逼真俯視平拍照片 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396592438_7h3aa7_HBCQ89RbgAASdEj.jpg" width="600" alt="產品行銷 - 客製化會議桌的超逼真俯視平拍照片 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
+- **來源:** [Twitter Post](https://x.com/lovart_jp/status/2023683843119853655)
+- **發布時間:** 2026年2月17日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10312)**
+
+---
+
+### No. 87: 產品行銷 - 巨型卡車發射與著陸影片提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個詳細的動態提示，用於生成一個電影般的影片場景：一輛巨大的黑色 RAM TRX-風格卡車，猛烈地從一個男人身上飛躍而過，落地時雪花四濺，並在距離他背部幾英寸的地方停下，強調逼真的比例和重型懸架壓縮。
+
+#### 📝 提示詞
+
+```
+一輛巨大的黑色 RAM TRX 風格卡車，在一名男子身後逼真地向上飛起（彷彿攝影機畫面外藏著一道隱形坡道），然後猛烈地落地，激起一陣強勁的雪花爆炸。
+卡車的懸吊系統在著地時劇烈壓縮，然後向前行駛了幾公尺，最終在距離男子背部僅幾英吋的地方停下。車輛保持真實的比例，沒有任何變形。
+男子完全靜止不動。鏡頭以卡車停在他正後方結束。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396577914_s8upys_HBWKtVgbcAEYDyW.jpg" width="600" alt="產品行銷 - 巨型卡車發射與著陸影片提示 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Oogie](https://x.com/oggii_0)
+- **來源:** [Twitter Post](https://x.com/oggii_0/status/2023676144252579879)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10282)**
+
+---
+
+### No. 88: 產品行銷 - 名人健身房活動檔案
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個結構化的提示，定義了多個場景，用於生成 Sydney Sweeney、Megan Fox 和 Ana de Armas 參與各種健身房活動（瑜伽、重量訓練、有氧運動）的圖像，每個場景都有特定的服裝風格、顏色和氛圍。
+
+#### 📝 提示詞
+
+```
+[
+  {
+    "celebrity_profile": {
+      "full_name": "Sydney Sweeney",
+      "activity": "健身恢復",
+      "outfit_specs": {
+        "style": "現代簡約",
+        "primary_colors": ["純淨白", "腮紅粉"],
+        "fabric_texture": "光滑霧面"
       },
-      "wardrobe": {
-        "dress": "合身黑色細肩帶中長款雞尾酒禮服，優雅簡約",
-        "shoes": "黑色高跟鞋",
-        "accessories": "閃亮個性耳環"
+      "vibe_check": "光彩照人 & 清新"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Megan Fox",
+      "activity": "重量訓練",
+      "outfit_specs": {
+        "style": "高對比運動風",
+        "primary_colors": ["電光黃", "純白"],
+        "fabric_texture": "耐用機能"
       },
-      "pose": {
-        "foreground_pose": "自信站立姿勢，一手叉腰，身體略微傾斜，看向側面",
-        "background_pose": "大型美妝特寫肖像，眼神柔和地望向鏡頭，略帶模糊的動態效果"
-      }
-    },
-    "lighting": {
-      "style": "攝影棚電影級美妝燈光",
-      "key_light": "柔和漫射的前方光線，突顯顴骨和肌膚紋理",
-      "rim_light": "微妙的暖色輪廓光，將主體與紅色背景分離",
-      "mood": "奢華、魅力、專業化妝品廣告"
-    },
-    "camera": {
-      "lens": "特寫使用 85mm 人像鏡頭，全身使用 50mm 鏡頭",
-      "depth_of_field": "背景肖像景深淺，前景人物景深適中",
-      "quality": "高端編輯攝影"
-    },
-    "restrictions": {
-      "no_text": true,
-      "no_logo": true,
-      "no_watermark": true,
-      "no_typography": true
+      "vibe_check": "強大 & 專注"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Ana de Armas",
+      "activity": "補充水分",
+      "outfit_specs": {
+        "style": "單色運動風",
+        "primary_colors": ["鮮豔青色"],
+        "fabric_texture": "超透氣"
+      },
+      "vibe_check": "活躍 & 提神"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Ana de Armas",
+      "activity": "休息時間",
+      "outfit_specs": {
+        "style": "錄音室無縫",
+        "primary_colors": ["鮮豔青色"],
+        "fabric_texture": "壓縮貼合"
+      },
+      "vibe_check": "平靜 & 沉著"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Megan Fox",
+      "activity": "肌力訓練",
+      "outfit_specs": {
+        "style": "復古條紋時尚",
+        "primary_colors": ["大地棕", "深紅色", "純白"],
+        "fabric_texture": "羅紋針織"
+      },
+      "vibe_check": "大膽 & 精緻"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Sydney Sweeney",
+      "activity": "瑜伽 / 彼拉提斯",
+      "outfit_specs": {
+        "style": "現代經典",
+        "primary_colors": ["雪白", "森林綠"],
+        "fabric_texture": "柔軟觸感科技"
+      },
+      "vibe_check": "優雅 & 強韌"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Ana de Armas",
+      "activity": "晨間有氧",
+      "outfit_specs": {
+        "style": "鮮豔條紋套裝",
+        "primary_colors": ["火鶴粉", "陽光黃"],
+        "fabric_texture": "輕量彈性"
+      },
+      "vibe_check": "開朗 & 活力"
+    }
+  },
+  {
+    "celebrity_profile": {
+      "full_name": "Ana de Armas",
+      "activity": "耐力訓練",
+      "outfit_specs": {
+        "style": "都會單色",
+        "primary_colors": ["闇黑", "極地白"],
+        "fabric_texture": "高解析條紋"
+      },
+      "vibe_check": "敏銳 & 堅定"
     }
   }
-}
+]
 ```
 
 #### 🖼️ 生成圖片
@@ -5464,21 +6055,39 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310082614_huqk3l_HBTX12XWgAA4ceC.jpg" width="600" alt="產品行銷 - 時尚美容海報 (紅色雙重構圖) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771396577653_o2f12e_HBWKoN5XwAAeD57.jpg" width="600" alt="產品行銷 - 名人健身房活動檔案 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396577647_zg4hyy_HBWKoN6XYAMEKrZ.jpg" width="600" alt="產品行銷 - 名人健身房活動檔案 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396578596_gf8gfy_HBWKoN6W8AEnOXo.jpg" width="600" alt="產品行銷 - 名人健身房活動檔案 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396579284_emibvr_HBWKoOabcAI2Xzd.jpg" width="600" alt="產品行銷 - 名人健身房活動檔案 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Özge Döner](https://x.com/astronomerozge1)
-- **來源:** [Twitter Post](https://x.com/astronomerozge1/status/2023479529692655685)
-- **發布時間:** 2026年2月16日
+- **作者:** [Bahar azam](https://x.com/BaharAzamm561)
+- **來源:** [Twitter Post](https://x.com/BaharAzamm561/status/2023676118469943594)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10242)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10285)**
 
 ---
 
-### No. 81: 產品行銷 - 超高階未來感智慧型手機產品照片
+### No. 89: 電子商務主圖 - 超高階未來感智慧型手機產品照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5499,7 +6108,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310069622_rkdepq_HBSjqM4akAEu497.jpg" width="600" alt="產品行銷 - 超高階未來感智慧型手機產品照片 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771310069622_rkdepq_HBSjqM4akAEu497.jpg" width="600" alt="電子商務主圖 - 超高階未來感智慧型手機產品照片 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -5513,379 +6122,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 82: 產品行銷 - 時尚剪貼簿頁面佈局生成
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 描述
-
-一個詳細的提示，用於在 Lovart 工具中使用 Nano Banana Pro 模型生成時尚剪貼簿或拼貼頁面佈局。該提示指定了構圖、主題細節、迴紋針和膠帶等裝飾元素、背景以及技術渲染風格，旨在呈現觸感豐富的編輯風格。
-
-#### 📝 提示詞
-
-```
-傑作、最高品質、高解析度、(全身照: 1.5)、時尚剪貼簿頁面佈局、拼貼風格、[主題/美學關鍵字]
-
-[主體]: [角色描述] 的廣角全身時尚照片。[姿勢與動作]。穿著 [服裝細節]、[配件]、(鞋子可見: 1.3)、從頭到腳的完美體態。
-
-[構圖]: 圖像設計成 [佈局比喻: DIY 獨立雜誌 / 現場檔案 / 情緒板] 的樣式，主要角色居中，周圍環繞著 (3 張不同的拍立得照片: 1.3)。這些照片各顯示不同的 [主題] 細節：(1 張 [臉部/妝容細節] 的特寫: 1.2)、1 張 [布料/紋理/武器細節] 的微距照: 1.2)、(1 張 [鞋子/配件細節] 的特寫: 1.2)。這確保了插入的照片不重疊且獨特。
-
-[裝飾]: [風格] 剪貼簿元素、[紙張厚度] 紙張用 [夾子類型: 銀色夾子 / 金色夾子 / 生鏽夾子] 捆綁、[膠帶類型: 和紙 / 封箱膠帶 / 美紋紙膠帶]、手繪 [塗鴉類型: 箭頭 / 星星 / 塗鴉]、手寫文字註釋使用 [墨水類型] (例如，[短文字 1]、[短文字 2])、[貼紙/印章]、撕裂的紙張紋理。
-注意：文字註釋為日文。
-
-[背景]: (一堆凌亂的 [紙張類型: 白紙 / 紙板 / 地圖 / 文件夾]: 1.4)、主頁下方分層的紙張邊緣、紙張層之間逼真的深度和陰影、放置在 [表面材質和顏色] 上。
-
-[技術]: [燈光風格]、[氛圍]、清晰對焦、編輯攝影、8k、觸感紋理、逼真的材質渲染。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310092658_hio6vm_HBCQ5qXawAIdehh.jpg" width="600" alt="產品行銷 - 時尚剪貼簿頁面佈局生成 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310093023_58bk46_HBCQ5yVa8AAhsS5.jpg" width="600" alt="產品行銷 - 時尚剪貼簿頁面佈局生成 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
-- **來源:** [Twitter Post](https://x.com/lovart_jp/status/2023321458085368091)
-- **發布時間:** 2026年2月16日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10262)**
-
----
-
-### No. 83: 產品行銷 - 微型工人清潔煙灰缸的微距攝影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個結構化的提示，用於生成一張超現實的電影級微距照片，象徵戒菸。照片中，微型建築工人正在清理一個裝滿菸蒂和菸灰的巨大菸灰缸，強調淺景深和溫暖的定向攝影棚燈光。
-
-#### 📝 提示詞
-
-```
-{
-  "style": "超現實電影感微距攝影",
-  "subject": "微型建築工人正在清理一個裝滿煙蒂和煙灰的巨大煙灰缸",
-  "composition": "俯視四分之三角度，主體置中，緊密裁切，廣告風格構圖",
-  "lighting": "溫暖的方向性攝影棚燈光，帶有柔和陰影和細微的體積光線",
-  "camera": {
-    "lens": "85mm 微距鏡頭",
-    "aperture": "f/2.8",
-    "depth_of_field": "非常淺景深",
-    "focus": "前方工人與煙蒂"
-  },
-  "textures": "高細節煙灰，陶瓷煙灰缸表面，逼真的紙張和煙草紋理",
-  "mood": "嚴肅，具象徵意義，清理隱喻",
-  "color_grading": "溫暖中性電影色調",
-  "quality": "超寫實，商業廣告級",
-  "effects": ["微塵顆粒", "自然底片顆粒"],
-  "avoid": ["卡通風格", "塑膠皮膚", "過度飽和", "CGI 外觀"]
-}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310082083_blvucr_HBRH2g0aMAADZCC.jpg" width="600" alt="產品行銷 - 微型工人清潔煙灰缸的微距攝影 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Maercih](https://x.com/Maercihh)
-- **來源:** [Twitter Post](https://x.com/Maercihh/status/2023321151129436314)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10241)**
-
----
-
-### No. 84: 產品行銷 - Ana de Armas 巴黎高級時裝寫真
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個旨在生成一張安娜·德·阿瑪斯（Ana de Armas）年輕女性的寫實高時尚編輯圖片的提示。場景設定在巴黎的豪華屋頂陽台，可見艾菲爾鐵塔，並具有戲劇性的電影燈光和特定的服裝細節，例如海軍藍細條紋西裝裙和深色唇膏。
-
-#### 📝 提示詞
-
-```
-使用參考圖片中的相同臉孔，不改變臉部特徵
-
-一位令人驚豔的年輕女子，留著鉑金色長髮，濃豔迷人的妝容，藍眼睛，豐滿的嘴唇塗著深色唇膏，誘惑的表情，舌頭微吐，手持黑色眼鏡放在嘴前，身穿深海軍藍細條紋深 V 領西裝式連衣裙，搭配頸鍊，超短裙，及大腿的視角，在豪華屋頂陽台擺姿勢，背景是艾菲爾鐵塔，戲劇性的巴黎多雲天空，高級時尚雜誌風格，電影般的光線，超細緻，超寫實
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310084021_hqma47_HBQ802tbYAAJ5y8.jpg" width="600" alt="產品行銷 - Ana de Armas 巴黎高級時裝寫真 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Pervez Hussain](https://x.com/pervez0123)
-- **來源:** [Twitter Post](https://x.com/pervez0123/status/2023309033139265783)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10245)**
-
----
-
-### No. 85: 產品行銷 - 報紙方塊房中的高級時裝攝影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一張提示，用於生成一張時尚女性坐在佈滿復古報紙的房間裡的高級時裝攝影棚照片，強調電影級燈光和超現實細節。
-
-#### 📝 提示詞
-
-```
-一位時尚女性在一個完全鋪滿復古報紙的立方體房間裡，自信地坐在一張現代米色椅子上，拍攝一組高級時裝攝影棚照片。她身穿合身紅色上衣、白色迷你裙、紅白運動鞋和黑色太陽眼鏡，擺出輕鬆的姿勢，手輕觸頭髮。畫面呈現電影般的燈光效果、超寫實時尚攝影風格、8K 細節和銳利焦點。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310069824_hu4sh4_HBQUUkOagAENd8i.jpg" width="600" alt="產品行銷 - 報紙方塊房中的高級時裝攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310071265_nshbjr_HBQUWBRaMAAfp7O.jpg" width="600" alt="產品行銷 - 報紙方塊房中的高級時裝攝影 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Synthia](https://x.com/AIwithSynthia)
-- **來源:** [Twitter Post](https://x.com/AIwithSynthia/status/2023264704052039700)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10223)**
-
----
-
-### No. 86: 產品行銷 - 拖拉機裡的男人手持野花，電影特寫鏡頭
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個高度細緻、複雜的提示，用於生成一張超寫實、電影般的特寫鏡頭：一名男子坐在沙漠中鋪有地毯的拖拉機內，手持一朵精緻的白色野花，強調戲劇性的低角度視角、微小細節，以及柔和、暴風雨般的色彩調色板。
-
-#### 📝 提示詞
-
-```
-超細緻電影級特寫照片，超寫實，8K 解析度，使用 Hasselblad H6D-400c 中片幅相機搭配 100mm f/2.8 人像鏡頭拍攝。無可挑剔的銳利度結合淺景深電影感，電影級燈光，細微顆粒，大片攝影風格。
-及下巴的黑色濕潤捲髮。嚴格保留附圖第一張照片的樣貌，不得扭曲。戴著黑色長方形太陽眼鏡，穿著黑色寬鬆的超大西裝外套。
-從戲劇性的低角度向上拍攝的極端特寫鏡頭，透視感扭曲。前景中，一隻手拿著一朵精緻的白色野花，略微失焦。該男子坐在完全鋪滿地毯的 Belarus 82.1 拖拉機內，身體向側窗外傾斜。拖拉機停在一片廣闊、死寂的沙漠景觀中，一直延伸到地平線。
-烏雲密布的天空，暴風雨般的氛圍，柔和的漫射光穿透雲層，柔和的色調，去飽和的電影色調，微妙的青色與橙色調色。
-強烈強調臉部微細節、毛孔、皮膚紋理、髮絲上的濕氣、西裝外套布料上的皺褶、拖拉機車身上的地毯纖維。體積光線，大氣薄霧，時尚編輯攝影混合史詩電影靜態畫面，IMAX 風格的真實感，戲劇性氛圍，超細節，超銳利，8K。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310071060_91tfsd_HBQL2ppaoAETIVT.jpg" width="600" alt="產品行銷 - 拖拉機裡的男人手持野花，電影特寫鏡頭 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **來源:** [Twitter Post](https://x.com/oye_samia/status/2023255190179394040)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10221)**
-
----
-
-### No. 87: 產品行銷 - 時尚畫報中的動態模糊
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個提示，用於生成一張高時尚雜誌的畫報，內容是一位阿爾卑斯風格的男子靜止站立，周圍是模糊的人影，強調靜態外觀與動態模糊之間的對比，背景乾淨、明亮且略帶抽象。
-
-#### 📝 提示詞
-
-```
-一名約 25 歲、具有阿爾卑斯山風格的男子，身穿棕色連帽突擊服，靜靜地站著，頭轉向中央，凝視著鏡頭。他周圍是模糊的人群剪影，背景乾淨、明亮且略帶抽象，強調了動態模糊與靜態外觀之間的對比。他臉上帶著平靜、堅忍的神情。編輯風格、電影構圖、純藝術攝影、柔和的雜誌質感、高解析度。--ar 4:5 --raw
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310081636_uncmso_HBQHKtzbsAA38vJ.jpg" width="600" alt="產品行銷 - 時尚畫報中的動態模糊 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [K](https://x.com/ChillaiKalan__)
-- **來源:** [Twitter Post](https://x.com/ChillaiKalan__/status/2023250017247748395)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10240)**
-
----
-
-### No. 88: 產品行銷 - 漂浮街頭美食的微距攝影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一張超寫實的微距照片，內容為一份酥脆的甜點或零食在半空中裂開，黏稠的內餡在兩半之間拉伸，背景是夜市，帶有溫暖的散景燈光。
-
-#### 📝 提示詞
-
-```
-超逼真的漂浮街頭小吃，酥脆的甜點/零食在半空中裂開，黏稠的焦糖/起司內餡在兩半之間拉伸，碎屑和蒸汽顆粒飛散，夜市背景帶有溫暖的散景燈光，淺景深，戲劇性燈光，微距食物攝影，高細節，8K，銳利對焦，電影感，體積蒸汽。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310076605_gjp4i5_HBP_vpvaAAAQT51.jpg" width="600" alt="產品行銷 - 漂浮街頭美食的微距攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310076581_xnellc_HBP_vnaaYAAoT7V.jpg" width="600" alt="產品行銷 - 漂浮街頭美食的微距攝影 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310076713_uwe4hk_HBP_vlla0AAQFFE.jpg" width="600" alt="產品行銷 - 漂浮街頭美食的微距攝影 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310077863_vsy1xi_HBP_vzVa0AA9Sx-.jpg" width="600" alt="產品行銷 - 漂浮街頭美食的微距攝影 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Taaruk](https://x.com/Taaruk_)
-- **來源:** [Twitter Post](https://x.com/Taaruk_/status/2023241864363876515)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10232)**
-
----
-
-### No. 89: 產品行銷 - 單色時尚編輯三聯畫 (女性)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個用於生成年輕女性簡約單色時尚編輯三聯畫（三個堆疊的電影畫面）的提示，重點是保留參考圖像中模特兒的特徵，並利用柔和的林布蘭光線來傳達寧靜的力量和優雅。
-
-#### 📝 提示詞
-
-```
-保留模型在參考資料中的臉部、比例和外部特徵。一幅簡約的單色時尚編輯三聯畫，由三個堆疊的電影畫面組成。主題是一位年輕女性，留著中長黑髮，化著自然妝容，五官優雅。
-
-畫面 1：情感豐富且內省，目光向下，一隻手輕輕靠近鎖骨，柔和的林布蘭光線突顯顴骨和骨骼結構。
-畫面 2：清晰的側面特寫，強調鼻子、嘴唇和優雅的下顎線，目光略微向上，呈現出沉穩自信的姿態。
-畫面 3：正面、沉思的肖像，肩膀放鬆，眼神直接接觸，傳達出沉靜的力量和優雅。
-構圖簡潔現代，使用合身的白色上衣和精緻的金色珠寶，以保持視覺連續性。商業雜誌品質，使用高階無反光鏡相機拍攝，具有真實的皮膚紋理、柔和的散景和電影般的精緻感。展現女性優雅和當代時尚品味。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310080127_vhedin_HBP-POtaUAAabga.jpg" width="600" alt="產品行銷 - 單色時尚編輯三聯畫 (女性) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310080160_6uys42_HBP-POvbwAA_kYK.jpg" width="600" alt="產品行銷 - 單色時尚編輯三聯畫 (女性) - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Cherry 2.O](https://x.com/Mind_Boticni)
-- **來源:** [Twitter Post](https://x.com/Mind_Boticni/status/2023240208700113185)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10236)**
-
----
-
-### No. 90: 產品行銷 - 黑白時尚編輯三聯畫 (男士)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個用於生成年輕男子的簡約單色時尚編輯三聯畫（三個堆疊的電影畫面）的提示，重點是保留參考圖像中模特的特徵，並利用倫勃朗光線來突顯骨骼結構和陽剛優雅。
-
-#### 📝 提示詞
-
-```
-保留模型在參考資料中的臉部、比例和外部特徵。一幅簡約的單色時尚編輯三聯畫，由三個堆疊的電影畫面組成。主題是一位留著深色短髮和修剪整齊鬍鬚的年輕男子。畫面 1：情感豐富且內省，低頭，一隻手靠近鎖骨，倫勃朗式照明突顯骨骼結構。畫面 2：清晰的側面特寫，聚焦於鼻子、嘴唇和陽剛的下顎線，目光略微向上。畫面 3：正面、沉思的肖像，肩膀放鬆，眼神直接接觸。構圖簡潔現代，使用白色 T 恤和金色項鍊營造視覺連續性。商業雜誌品質，高階無反光鏡相機，真實的皮膚毛孔，柔和的散景，以及優雅的陽剛氣質。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310072481_r7ak0h_HBP1Y-HbYAAMbLE.jpg" width="600" alt="產品行銷 - 黑白時尚編輯三聯畫 (男士) - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Harboriis](https://x.com/harboriis)
-- **來源:** [Twitter Post](https://x.com/harboriis/status/2023230471061315992)
-- **發布時間:** 2026年2月16日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10224)**
-
----
-
-### No. 91: 產品行銷 - Sprite 汽水罐廣告特寫鏡頭
+### No. 90: 電子商務主圖 - Sprite 汽水罐廣告特寫鏡頭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5963,25 +6200,25 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310077277_mbqhvq_HBPprlUbMAAK_R1.jpg" width="600" alt="產品行銷 - Sprite 汽水罐廣告特寫鏡頭 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1771310077277_mbqhvq_HBPprlUbMAAK_R1.jpg" width="600" alt="電子商務主圖 - Sprite 汽水罐廣告特寫鏡頭 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310076897_1qaetz_HBPprq6b0AA3fk2.jpg" width="600" alt="產品行銷 - Sprite 汽水罐廣告特寫鏡頭 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1771310076897_1qaetz_HBPprq6b0AA3fk2.jpg" width="600" alt="電子商務主圖 - Sprite 汽水罐廣告特寫鏡頭 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310077090_0gyile_HBPprjBbUAAQ4mv.jpg" width="600" alt="產品行銷 - Sprite 汽水罐廣告特寫鏡頭 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1771310077090_0gyile_HBPprjBbUAAQ4mv.jpg" width="600" alt="電子商務主圖 - Sprite 汽水罐廣告特寫鏡頭 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1771310078372_2rdo5i_HBPprw8bgAEjsqG.jpg" width="600" alt="產品行銷 - Sprite 汽水罐廣告特寫鏡頭 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1771310078372_2rdo5i_HBPprw8bgAEjsqG.jpg" width="600" alt="電子商務主圖 - Sprite 汽水罐廣告特寫鏡頭 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -5995,7 +6232,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 92: 電子商務主圖 - 超逼真微縮產品廣告提示
+### No. 91: 電子商務主圖 - 超逼真微縮產品廣告提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6047,7 +6284,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 93: 電子商務主圖 - 圖片編輯提示：調整戒指位置
+### No. 92: 電子商務主圖 - 圖片編輯提示：調整戒指位置
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6080,7 +6317,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 94: 電子商務主圖 - 帶有焦散的鑄造光學玻璃物體特寫鏡頭
+### No. 93: 電子商務主圖 - 帶有焦散的鑄造光學玻璃物體特寫鏡頭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6121,7 +6358,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 95: 電子商務主圖 - OLIPOP 汽水罐的超逼真產品攝影
+### No. 94: 電子商務主圖 - OLIPOP 汽水罐的超逼真產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6167,7 +6404,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 96: 電子商務主圖 - 水下奢華護膚產品廣告
+### No. 95: 電子商務主圖 - 水下奢華護膚產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6222,7 +6459,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 97: 電子商務主圖 - 將 VR 頭戴式裝置整合到模型中
+### No. 96: 電子商務主圖 - 將 VR 頭戴式裝置整合到模型中
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6255,7 +6492,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 98: 電子商務主圖 - 奢華蘆葦擴香器產品攝影提示
+### No. 97: 電子商務主圖 - 奢華蘆葦擴香器產品攝影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6311,7 +6548,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 99: 電子商務主圖 - 超極細緻摺紙雕塑提示
+### No. 98: 電子商務主圖 - 超極細緻摺紙雕塑提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6347,7 +6584,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 100: 電子商務主圖 - 復古未來主義產品攝影提示
+### No. 99: 電子商務主圖 - 復古未來主義產品攝影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6381,7 +6618,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 101: 電子商務主圖 - 雙重情人節時尚與產品提示
+### No. 100: 電子商務主圖 - 雙重情人節時尚與產品提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6422,7 +6659,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 102: 電子商務主圖 - 瓦楞紙板水果包裝概念提示
+### No. 101: 電子商務主圖 - 瓦楞紙板水果包裝概念提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6460,7 +6697,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 103: 電子商務主圖 - Chrome Ripple Flow 產品攝影提示
+### No. 102: 電子商務主圖 - Chrome Ripple Flow 產品攝影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6531,7 +6768,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 104: 電子商務主圖 - 奢華漁夫帽產品編輯報導
+### No. 103: 電子商務主圖 - 奢華漁夫帽產品編輯報導
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6574,7 +6811,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 105: 電子商務主圖 - 奢華產品攝影：黑沉香擴香器
+### No. 104: 電子商務主圖 - 奢華產品攝影：黑沉香擴香器
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6636,7 +6873,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 106: 電子商務主圖 - 沙灘上的夏季護膚產品攝影
+### No. 105: 電子商務主圖 - 沙灘上的夏季護膚產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6791,7 +7028,7 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 107: 電子商務主圖 - 濕潤沙灘上的超逼真護膚品攝影
+### No. 106: 電子商務主圖 - 濕潤沙灘上的超逼真護膚品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6843,75 +7080,34 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 
 ---
 
-### No. 108: 電子商務主圖 - 藍莓薄荷冰飲的精品攝影
+### No. 107: 遊戲素材 - 廢棄叢林古城的電影概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-一個高度結構化的提示，用於生成一張超逼真的藍莓薄荷冰飲商業產品照片。它詳細描述了玻璃杯、液體漸層、冰塊、裝飾物和環境元素（深色反光表面、海軍藍背景）。燈光指定為專業攝影棚設置，具有柔和漫射的主光和冷色邊緣光，營造出情緒化、電影感、高對比度的廣告風格。
+一個高度結構化的主提示，旨在生成古老、廢棄的叢林城市廣場的高端電影風格寫實概念藝術，重點在於深層環境分層、清晨光線穿透樹冠，以及一種古老發現的感覺。
 
 #### 📝 提示詞
 
 ```
-{
-  "meta": {
-    "title": "藍莓薄荷冰飲 – 頂級攝影棚拍攝",
-    "version": "1.0",
-    "type": "text-to-image",
-    "style": "超逼真飲品攝影"
-  },
-  "scene": {
-    "subject": "高身透明高球杯，裝滿藍色藍莓薄荷蘇打水",
-    "glass": "透明多面玻璃杯，帶有冷凝水珠",
-    "liquid": "鮮豔的漸變藍色飲品（底部深藍色，向上漸變至透明）",
-    "ice": "大塊晶瑩剔透的冰塊，裝滿玻璃杯",
-    "garnish": [
-      "杯內及杯頂新鮮薄荷葉",
-      "飲品內有完整藍莓",
-      "藍莓散落在杯底周圍",
-      "淺色木質吸管斜插入杯中"
-    ],
-    "effects": [
-      "頂部升起柔和的薄霧蒸氣",
-      "液體中有微小氣泡",
-      "玻璃表面有水珠",
-      "底部表面有輕微飛濺紋理"
-    ]
-  },
-  "environment": {
-    "background": "深海軍藍至黑色漸變背景",
-    "surface": "光滑黑色反光表面，散落藍莓和薄荷葉",
-    "atmosphere": "情緒化、電影感、高對比度"
-  },
-  "lighting": {
-    "type": "專業攝影棚燈光",
-    "setup": [
-      "左側柔和漫射主光",
-      "右側冷色邊緣光以增強玻璃邊緣",
-      "微妙背光以突顯蒸氣可見度"
-    ],
-    "highlights": "冰塊和玻璃上有清晰反光",
-    "shadows": "深邃、戲劇性陰影"
-  },
-  "camera": {
-    "angle": "平視特寫",
-    "lens": "85mm 微距鏡頭",
-    "aperture": "f/2.8",
-    "depth_of_field": "淺景深，背景藍莓模糊",
-    "resolution": "8K 超高細節",
-    "focus": "玻璃中心和薄荷葉清晰對焦"
-  },
-  "quality_tags": [
-    "超現實",
-    "寫實攝影",
-    "商業飲品攝影",
-    "清晰細節",
-    "電影感",
-    "高動態範圍",
-    "編輯飲品廣告風格"
-  ]
-}
+一鍵通用主提示 — 遠古叢林清晨
+風格
+高端電影風格化的寫實數位概念藝術、AAA 級環境關鍵影格插畫、電影消光繪畫深度建構、專業遊戲環境渲染、極簡線稿、價值驅動的形態分離、手繪邊緣、受控的邊緣層次、由大到小的質量建構、乾淨的漸變數位色彩混合、混合手繪程序紋理、優先考慮宏觀可讀性並在焦點結構中選擇性地加入微細節、工作室品質的構圖、精緻的資深級製作完成度。
+主題 / 場景
+在遠古叢林清晨的背景下，一個長期廢棄的叢林城市廣場，佈滿裂紋的雕像和藤蔓覆蓋的拱門。
+環境
+原始茂密的叢林景觀，擁有宏偉的遠古自然地貌、茂密的層疊植被、參天巨樹、盤根錯節的樹根、薄霧瀰漫的林間空地、被大自然部分收復的隱藏石塊遺跡或被遺忘的道路。首先呈現大型可辨識的地形塊，具有深層的環境分層，前景植被、中景叢林結構和遠處樹冠剪影之間有強烈的空間分離。
+光線
+清新的清晨叢林光線，低角度的陽光透過茂密的樹冠間隙，形成結構化的定向光束。光線應清晰地定義主要結構平面，同時讓柔和的大氣薄霧分離深度層次並增強空間可讀性，而不會模糊主要形態。
+攝影機
+電影探索風格的廣角建立鏡頭，攝影機位置略高於地面，彷彿觀者剛發現這個場景。透過植被或地形形態使用自然的預設前景構圖，清晰的中景焦點錨點，以及深層次的叢林遠景，以強化電影消光繪畫的深度建構。
+氛圍
+一種發現遠古、未受觸及的歷史和寧靜自然莊嚴的感覺。這個場景應該感覺像是在一部高預算冒險電影或 AAA 級探索遊戲中，首次揭示一個失落的叢林地點。
+細節控制
+保持專業的焦點細節層次。首先保留大型可辨識的叢林塊，其次是次要結構形態，並僅在主要焦點區域應用精細細節。避免遠處樹冠層中均勻的高頻葉片噪點或過多的微細節。
+品質目標
+超清晰的工作室級電影叢林環境插畫、作品集級概念藝術可讀性、強烈的深度層次和精緻的製作級渲染品質。
 ```
 
 #### 🖼️ 生成圖片
@@ -6919,35 +7115,66 @@ Kollywood 電影風格的電影劇照提示 Gemini Nano Banana 創作。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1770964567216_nl1oqo_HA7guOTbMAAU4PR.jpg" width="600" alt="電子商務主圖 - 藍莓薄荷冰飲的精品攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1770964567300_zoetcw_HA7guP6a4AAXC4I.jpg" width="600" alt="電子商務主圖 - 藍莓薄荷冰飲的精品攝影 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1770964567353_wwbx4n_HA7guM9bwAAdh8D.jpg" width="600" alt="電子商務主圖 - 藍莓薄荷冰飲的精品攝影 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1770964568000_qdmw4w_HA7guO7bsAIsP2A.jpg" width="600" alt="電子商務主圖 - 藍莓薄荷冰飲的精品攝影 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1771396579008_cv0xlk_HBYabuFbcAc6Oag.jpg" width="600" alt="遊戲素材 - 廢棄叢林古城的電影概念藝術 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Johnn](https://x.com/john_my07)
-- **來源:** [Twitter Post](https://x.com/john_my07/status/2021800373007372290)
-- **發布時間:** 2026年2月12日
+- **作者:** [Artingent](https://x.com/artingent)
+- **來源:** [Twitter Post](https://x.com/artingent/status/2023834163066138892)
+- **發布時間:** 2026年2月17日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=9932)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10283)**
+
+---
+
+### No. 108: 遊戲素材 - 古代天文台的電影概念藝術
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一個結構化的提示，用於生成高端電影級概念藝術，描繪一座雕刻在高聳懸崖上的古代天文台，強調其宏偉的規模、清晨的定向陽光，以及歷史神秘的氛圍，適合 AAA 遊戲環境。
+
+#### 📝 提示詞
+
+```
+簡短的結構化提示 — 電影級天文台測試
+風格
+高階電影風格化寫實數位概念藝術、AAA 級環境關鍵影格插畫、電影消光繪畫深度建構、專業遊戲環境渲染、極簡線稿、價值驅動的形體分離、繪製邊緣、受控邊緣層次、由大到小的質量建構、乾淨的漸變數位色彩融合、混合手繪程序紋理、優先考慮宏觀可讀性並在焦點結構中選擇性地加入微細節、工作室品質構圖、精緻的資深級製作完成度。
+主題
+雕刻在高聳懸崖面上的古老天文台，具有分層的石質平台、雕刻的樓梯、吊橋，以及嵌入岩壁中的巨大圓形天文裝置。
+環境
+廣闊的山區邊境，擁有深邃的森林山谷、蜿蜒的河流系統，以及小型遠處聚落，以宏偉的地質規模和清晰的大形狀構圖排列。
+光線
+清晨的定向陽光清晰地界定主要平面，遠處層次有輕柔的大氣深度薄霧，同時保持前景的強烈清晰度。
+攝影機
+從高處山坡有利位置拍攝的寬廣電影級開場鏡頭，具有自然的遠景構圖、強烈的中景結構強調，以及廣闊的分層背景深度。
+氛圍
+宏偉的歷史神秘感和發現感，如同高預算奇幻電影或 AAA 級 RPG 電影中的主要故事地點揭示。
+細節控制
+專業的焦點細節分佈，首先是強烈可讀的主要質量，其次是次要結構，精細細節僅限於錨定區域，避免到處都是均勻的微細節。
+品質目標
+超清晰的工作室級電影環境插畫，在全視圖和縮放時都具有作品集級的概念藝術可讀性。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1771396583023_0u2ss7_HBYYvdQa4AAMG8X.jpg" width="600" alt="遊戲素材 - 古代天文台的電影概念藝術 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Artingent](https://x.com/artingent)
+- **來源:** [Twitter Post](https://x.com/artingent/status/2023832308692959385)
+- **發布時間:** 2026年2月17日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=10291)**
 
 ---
 
@@ -7742,7 +7969,7 @@ Nano Banana Pro 的一個簡單指令提示，用於修改現有圖像（推測�
 
 <div align="center">
 
-### 🎯 9314 更多提示詞未在此顯示
+### 🎯 9369 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7805,6 +8032,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-18T05:18:44.688Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-18T08:32:53.578Z</sub>
 
 </div>
