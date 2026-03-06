@@ -135,9 +135,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **10633** |
+| 📝 プロンプト総数 | **10632** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年3月6日金曜日 1:11:06 UTC** |
+| 🔄 最終更新 | **2026年3月6日金曜日 5:04:26 UTC** |
 
 </div>
 
@@ -7239,7 +7239,7 @@ Nano Banana 2 向けの、フォトリアルな画像生成プロンプトです
 
 <div align="center">
 
-### 🎯 10513 さらに多くのプロンプトがあります
+### 🎯 10512 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7302,6 +7302,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-03-06T01:11:06.927Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-03-06T05:04:26.667Z</sub>
 
 </div>

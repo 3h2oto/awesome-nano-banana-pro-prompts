@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **10633** |
+| 📝 提示词总数 | **10632** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年3月6日星期五 UTC 01:10:59** |
+| 🔄 最后更新 | **2026年3月6日星期五 UTC 05:04:18** |
 
 </div>
 
@@ -7268,7 +7268,7 @@ VS 狮鹫兽
 
 <div align="center">
 
-### 🎯 10513 更多提示词未在此显示
+### 🎯 10512 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7331,6 +7331,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-03-06T01:10:59.693Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-03-06T05:04:18.794Z</sub>
 
 </div>

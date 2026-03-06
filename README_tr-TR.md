@@ -135,9 +135,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **10633** |
+| 📝 Toplam İstem | **10632** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **6 Mart 2026 Cuma 01:11:54 UTC** |
+| 🔄 Son Güncelleme | **6 Mart 2026 Cuma 05:05:11 UTC** |
 
 </div>
 
@@ -7245,7 +7245,7 @@ düşük kalite, bulanık, odak dışı, kötü anatomi, deforme vücut, bozuk y
 
 <div align="center">
 
-### 🎯 10513 burada gösterilmeyen daha fazla istem
+### 🎯 10512 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7308,6 +7308,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-06T01:11:54.602Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-03-06T05:05:11.732Z</sub>
 
 </div>

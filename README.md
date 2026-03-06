@@ -135,9 +135,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **10633** |
+| 📝 Total Prompts | **10632** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, March 6, 2026 at 1:10:55 AM UTC** |
+| 🔄 Last Updated | **Friday, March 6, 2026 at 5:04:14 AM UTC** |
 
 </div>
 
@@ -7254,7 +7254,7 @@ low quality, blurry, out of focus, bad anatomy, deformed body, distorted face, u
 
 <div align="center">
 
-### 🎯 10513 more prompts not shown here
+### 🎯 10512 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -7317,6 +7317,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-03-06T01:10:55.904Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-03-06T05:04:14.775Z</sub>
 
 </div>
